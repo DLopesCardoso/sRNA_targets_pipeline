@@ -1,0 +1,10 @@
+pathway,fold_enrichment,FDR,neg_log10_FDR,candidate_genes,pathway_genes,genes
+L-serine biosynthetic process,20.9583333333333,0.00206460476502062,2.6851630746609434,3,3,serC serB serA
+Branched-chain amino acid biosynthesis,14.6708333333333,2.75261883065743e-6,5.560253923442555,7,10,ilvE ilvD ilvG leuC leuB ilvI ilvC
+Diaminopimelate biosynthetic process,12.575,0.0139480650511867,1.8554860358224774,3,5,dapA dapD dapE
+Histidine biosynthetic process,10.4791666666667,0.00105610089488122,2.976294589380793,5,10,hisC hisG hisD hisB hisA
+Cysteine metabolic process,9.31481481481481,0.00816562853003804,2.0880103808450765,4,9,metC metB APL_1125 cysE
+Aromatic amino acid biosynthesis,7.48511904761905,0.00537127179249122,2.269922871271367,5,14,aroF aroC aroE trpE trpD
+Biosynthesis of amino acids,6.98611111111111,1.83727375195328e-16,15.735826129429025,30,90,ilvE ilvD ilvG leuC argD metC leuB aspC metB hisC serC ilvI aroC dapA aroE trpE trpD argH serB pepN serA thrC cysE ilvC dapD proA hisG hisD hisB hisA
+"Arginine metabolic process, and Lysine biosynthesis",6.44871794871795,0.032237029163664,1.4916449878742735,4,13,argD dapA argH dapD
+Dicarboxylic acid biosynthetic process,6.2875,0.00403403416693569,2.394260427776998,6,20,aroF aroC dapA aroE dapD dapE

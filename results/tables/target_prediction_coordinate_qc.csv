@@ -1,0 +1,4 @@
+method,n_interactions,min_mrna_coordinate,max_mrna_coordinate,n_entirely_upstream,n_overlapping_cds_start,n_entirely_downstream
+CopraRNA,31,-200,87,9,14,8
+IntaRNA,55,-75,74,20,17,18
+TargetRNA2,36,-79,50,19,14,3

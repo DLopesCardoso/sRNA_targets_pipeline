@@ -1,0 +1,8 @@
+binding_context,n_interactions,n_genes
+overlaps_start_codon,45,36
+CDS,29,25
+upstream_unresolved,25,20
+5UTR,14,11
+candidate_internal_5UTR,6,6
+overlaps_selected_TSS,2,2
+overlaps_local_internal_TSS,1,1

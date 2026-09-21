@@ -1,0 +1,4 @@
+motif_test,candidate_total,candidate_with_motif,candidate_fraction,background_total,background_with_motif,background_fraction,fold_enrichment,odds_ratio,odds_ratio_CI_low,odds_ratio_CI_high,fisher_p_value,BH_adjusted_p_value
+Exact motif,96,6,0.0625,2070,0,0,Inf,Inf,34.74101691576754,Inf,6.5087003051412734e-9,1.952610091542382e-8
+Exactly one mismatch,96,3,0.03125,2070,15,0.007246376811594203,4.3125,4.413398681758624,1.0716515663916033,Inf,0.04244819237657965,0.04244819237657965
+Exact or one mismatch,96,9,0.09375,2070,15,0.007246376811594203,12.9375,14.11471687397636,6.154173198957242,Inf,3.4227280234281166e-7,5.134092035142175e-7

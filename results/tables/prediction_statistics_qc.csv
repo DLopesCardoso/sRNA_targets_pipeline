@@ -1,0 +1,1 @@
+prediction_index,method,rank,reference_locus,prediction_gene,gene,annotation,p_value,fdr,combined_p_value,energy,mrna_start,mrna_stop,srna_start,srna_stop,source_file,invalid_p_value,invalid_fdr,invalid_combined_p,missing_mRNA_coordinates,missing_sRNA_coordinates

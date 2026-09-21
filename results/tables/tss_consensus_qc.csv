@@ -1,0 +1,11 @@
+metric,value
+candidate_loci_input,96
+candidate_loci_with_reference_coordinates,96
+candidate_loci_without_reference_coordinates,0
+raw_WT_plate_TSS_calls,2386
+raw_WT_broth_TSS_calls,1990
+candidate_gene_TSS_pairs_within_2000nt,313
+proximal_plate_gene_TSS_pairs_within_500nt,84
+proximal_broth_gene_TSS_pairs_within_500nt,66
+loci_with_multiple_proximal_TSS,22
+loci_with_representative_TSS,49

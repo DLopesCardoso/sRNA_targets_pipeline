@@ -1,0 +1,97 @@
+No,Gene,MIDG2331 locus tag,Annotation,Prediction support,Interaction context,TSS evidence,5' UTR length (nt),Operon position
+1,ilvC,MIDG2331_RS10200,ketol-acid reductoisomerase,"C, I, T",5' leader / upstream,WT plate + broth (concordant),78,Single-gene
+2,ilvG,MIDG2331_RS00515,acetolactate synthase 2 catalytic subunit,"C, I, T",Overlaps start codon,WT broth only,52,First in operon
+3,arcD1,MIDG2331_RS05485,basic amino acid/polyamine antiporter,"I, T",5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+4,aspC,MIDG2331_RS03295,amino acid aminotransferase,"I, T",5' leader / upstream,WT broth only,33,Single-gene
+5,dapA,MIDG2331_RS04545,4-hydroxy-tetrahydrodipicolinate synthase,"I, T",5' leader / upstream,WT plate + broth (discordant),,Single-gene
+6,dapE,MIDG2331_RS10295,succinyl-diaminopimelate desuccinylase,"I, T",Overlaps start codon; CDS,Concordant proximal signal (internal/last operon gene),,Internal in operon
+7,ftsA,MIDG2331_RS00110,cell division protein FtsA,"C, I",Overlaps start codon,No independent proximal TSS detected,,Internal in operon
+8,ftsK,MIDG2331_RS02975,DNA translocase FtsK,"I, T",5' leader / upstream,No independent proximal TSS detected,,Last in operon
+9,gntR,MIDG2331_RS09100,gluconate operon transcriptional repressor GntR,"I, T",5' leader / upstream; Overlaps start codon,WT broth only,41,Single-gene
+10,hisB,MIDG2331_RS11045,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,"I, T",Overlaps start codon,No independent proximal TSS detected,,Last in operon
+11,hisD,MIDG2331_RS11030,histidinol dehydrogenase,"C, T",Overlaps start codon,WT plate proximal signal (internal/last operon gene),,Internal in operon
+12,hlpA,MIDG2331_RS04600,MetQ/NlpA family lipoprotein,"C, I",5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+13,hxpB,MIDG2331_RS06145,hexitol phosphatase HxpB,"C, I",CDS,WT plate + broth (concordant),30,Single-gene
+14,ilvD,MIDG2331_RS00505,dihydroxy-acid dehydratase,"I, T",5' leader / upstream,No independent proximal TSS detected,,Last in operon
+15,ilvI,MIDG2331_RS03630,acetolactate synthase 3 large subunit,"I, T",5' leader / upstream,WT broth only,48,First in operon
+16,lrp,MIDG2331_RS02970,leucine-responsive transcriptional regulator Lrp,"I, T",CDS; 5' leader / upstream,WT plate + broth (concordant),150,First in operon
+17,metB,MIDG2331_RS03400,methionine biosynthesis PLP-dependent protein,"C, I",Overlaps start codon,No proximal TSS,,Single-gene
+18,metC,MIDG2331_RS01660,cystathionine beta-lyase,"C, I",Overlaps start codon,No proximal TSS,,Single-gene
+19,rplY,MIDG2331_RS02505,50S ribosomal protein L25,"C, I",Overlaps start codon,WT plate + broth (discordant),,Single-gene
+20,rsgA,MIDG2331_RS00670,small ribosomal subunit biogenesis GTPase RsgA,"C, I",CDS,WT plate + broth (concordant),27,First in operon
+21,serB,MIDG2331_RS06220,phosphoserine phosphatase SerB,"I, T",Overlaps start codon,No proximal TSS,,First in operon
+22,thrC,MIDG2331_RS08140,threonine synthase,"I, T",CDS,WT plate + broth (concordant),39,Single-gene
+23,trpD,MIDG2331_RS05935,anthranilate phosphoribosyltransferase,"I, T",Overlaps start codon; 5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+24,trpE,MIDG2331_RS05925,anthranilate synthase component 1,"C, I",CDS,No proximal TSS,,First in operon
+25,apxIIIA,MIDG2331_RS06845,RTX family hemolysin,I,5' leader / upstream,WT plate proximal signal (internal/last operon gene),,Internal in operon
+26,arfA,MIDG2331_RS03810,alternative ribosome-rescue factor A,I,CDS,WT plate + broth (concordant),41,Single-gene
+27,argD2,MIDG2331_RS01240,aspartate aminotransferase family protein,C,Overlaps start codon,No independent proximal TSS detected,,Last in operon
+28,argH,MIDG2331_RS06010,argininosuccinate lyase,I,5' leader / upstream,WT broth only,158,Single-gene
+29,aroC,MIDG2331_RS03735,chorismate synthase,C,CDS,No independent proximal TSS detected,,Internal in operon
+30,aroE,MIDG2331_RS05800,shikimate dehydrogenase,T,5' leader / upstream,No independent proximal TSS detected,,Last in operon
+31,aroF,MIDG2331_RS00945,3-deoxy-7-phosphoheptulonate synthase,C,Overlaps start codon,WT broth proximal signal (internal/last operon gene),,Internal in operon
+32,arsB,MIDG2331_RS05515,ACR3 family arsenite efflux transporter,T,Overlaps start codon,No independent proximal TSS detected,,Last in operon
+33,artI,MIDG2331_RS07335,transporter substrate-binding domain-containing protein,C,Overlaps start codon,WT plate proximal signal (internal/last operon gene),,Internal in operon
+34,bioD,MIDG2331_RS04730,dethiobiotin synthase,I,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+35,cbiO,MIDG2331_RS08855,energy-coupling factor ABC transporter ATP-binding protein,I,Overlaps start codon,Concordant proximal signal (internal/last operon gene),,Internal in operon
+36,ccmI,MIDG2331_RS08255,c-type cytochrome biogenesis protein CcmI,I,CDS,No independent proximal TSS detected,,Last in operon
+37,csy1,MIDG2331_RS01105,type I-F CRISPR-associated protein Csy1,I,CDS,WT plate + broth (concordant),25,First in operon
+38,cysB,MIDG2331_RS00685,HTH-type transcriptional regulator CysB,I,CDS,Concordant proximal signal (internal/last operon gene),,Internal in operon
+39,cysE,MIDG2331_RS08210,serine O-acetyltransferase,C,Overlaps start codon,No independent proximal TSS detected,,Last in operon
+40,dapD,MIDG2331_RS10235,2 3 4 5-tetrahydropyridine-2 6-dicarboxylate N-succinyltransferase,C,CDS,WT plate + broth (concordant),44,First in operon
+41,dksA,MIDG2331_RS00895,RNA polymerase-binding protein DksA,T,5' leader / upstream,WT plate + broth (concordant),65,First in operon
+42,dmsD,MIDG2331_RS09150,Tat proofreading chaperone DmsD,T,Overlaps start codon,No independent proximal TSS detected,,Internal in operon
+43,dnaK,MIDG2331_RS10465,molecular chaperone DnaK,I,CDS,WT plate + broth (concordant),50,First in operon
+44,dppF,MIDG2331_RS00360,ABC transporter ATP-binding protein,I,CDS,No independent proximal TSS detected,,Last in operon
+45,dxs,MIDG2331_RS01055,1-deoxy-D-xylulose-5-phosphate synthase,T,Overlaps start codon,No proximal TSS,,Single-gene
+46,epmA,MIDG2331_RS08325,elongation factor P--(R)-beta-lysine ligase,I,CDS,WT broth only,25,Single-gene
+47,exbD1,MIDG2331_RS08585,ExbD/TolR family protein,T,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+48,fabG,MIDG2331_RS10890,3-oxoacyl-ACP reductase FabG,T,5' leader / upstream,Concordant proximal signal (internal/last operon gene),,Last in operon
+49,fieF,MIDG2331_RS02905,cation diffusion facilitator family transporter,I,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+50,fkpA2,MIDG2331_RS09295,FKBP-type peptidyl-prolyl cis-trans isomerase,T,5' leader / upstream,WT plate + broth (concordant),30,Single-gene
+51,gap,MIDG2331_RS02245,type I glyceraldehyde-3-phosphate dehydrogenase,I,CDS,WT plate + broth (discordant),,Single-gene
+52,gcvA,MIDG2331_RS00675,transcriptional regulator GcvA,C,5' leader / upstream,WT plate + broth (discordant),,First in operon
+53,glmS,MIDG2331_RS08910,glutamine--fructose-6-phosphate transaminase (isomerizing),I,CDS,WT plate proximal signal (internal/last operon gene),,Last in operon
+54,glpB,MIDG2331_RS01960,glycerol-3-phosphate dehydrogenase subunit GlpB,I,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+55,glpC_2,MIDG2331_RS07790,D-2-hydroxyglutarate dehydrogenase YdiJ,I,Overlaps start codon,No proximal TSS,,Single-gene
+56,hisA,MIDG2331_RS11065,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,C,Overlaps start codon,No independent proximal TSS detected,,Internal in operon
+57,hisC,MIDG2331_RS03495,histidinol-phosphate transaminase,T,CDS,WT plate + broth (concordant),34,First in operon
+58,hisG,MIDG2331_RS11025,ATP phosphoribosyltransferase,T,5' leader / upstream,WT plate + broth (discordant),,First in operon
+59,hscA,MIDG2331_RS04665,Fe-S protein assembly chaperone HscA,I,5' leader / upstream,No proximal TSS,,First in operon
+60,hsdM2,MIDG2331_RS01485,type I restriction-modification system subunit M,I,Overlaps start codon,No independent proximal TSS detected,,Internal in operon
+61,ilvE,MIDG2331_RS00380,branched-chain amino acid aminotransferase,T,Overlaps start codon,WT plate + broth (discordant),,First in operon
+62,iscU,MIDG2331_RS04690,Fe-S cluster assembly scaffold IscU,C,5' leader / upstream,WT plate proximal signal (internal/last operon gene),,Internal in operon
+63,leuB,MIDG2331_RS02235,3-isopropylmalate dehydrogenase,C,Overlaps start codon,WT plate + broth (concordant),30,Single-gene
+64,leuC,MIDG2331_RS00715,3-isopropylmalate dehydratase large subunit,I,5' leader / upstream,WT plate + broth (concordant),95,First in operon
+65,lipA,MIDG2331_RS08720,lipoyl synthase,C,CDS,Concordant proximal signal (internal/last operon gene),,Last in operon
+66,mltF,MIDG2331_RS07400,membrane-bound lytic murein transglycosylase MltF,T,5' leader / upstream,WT plate + broth (concordant),26,First in operon
+67,modF,MIDG2331_RS08685,molybdate ABC transporter ATP-binding protein ModF,I,Overlaps start codon,No proximal TSS,,Single-gene
+68,mrdA,MIDG2331_RS08750,penicillin-binding protein 2,C,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+69,mukB,MIDG2331_RS02785,chromosome partition protein MukB,I,CDS,No independent proximal TSS detected,,Last in operon
+70,mutT,MIDG2331_RS01225,8-oxo-dGTP diphosphatase MutT,I,Overlaps start codon,WT broth proximal signal (internal/last operon gene),,Last in operon
+71,nanA,MIDG2331_RS09635,N-acetylneuraminate lyase,I,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+72,nifS,MIDG2331_RS05710,aminotransferase class V-fold PLP-dependent enzyme,I,5' leader / upstream,WT broth proximal signal (internal/last operon gene),,Last in operon
+73,ompP2B,MIDG2331_RS03230,porin,I,CDS,WT plate + broth (discordant),,Single-gene
+74,panF,MIDG2331_RS10510,sodium/pantothenate symporter,I,5' leader / upstream,No independent proximal TSS detected,,Last in operon
+75,pepN,MIDG2331_RS07270,aminopeptidase N,C,Overlaps start codon,WT plate + broth (concordant),49,Single-gene
+76,pepP,MIDG2331_RS03300,Xaa-Pro aminopeptidase,I,CDS,WT plate + broth (concordant),22,Single-gene
+77,proA,MIDG2331_RS10685,glutamate-5-semialdehyde dehydrogenase,T,Overlaps start codon,WT plate + broth (concordant),25,First in operon
+78,proQ,MIDG2331_RS00615,RNA chaperone ProQ,I,Overlaps start codon,WT plate + broth (concordant),56,First in operon
+79,pstB,MIDG2331_RS06360,phosphate ABC transporter ATP-binding protein PstB,I,Overlaps start codon,No independent proximal TSS detected,,Internal in operon
+80,ptsB,MIDG2331_RS06780,sucrose-specific PTS transporter subunit IIBC,C,CDS,No proximal TSS,,Single-gene
+81,recR,MIDG2331_RS00390,recombination mediator RecR,I,Overlaps start codon,Concordant proximal signal (internal/last operon gene),,Last in operon
+82,rimI,MIDG2331_RS10965,ribosomal protein S18-alanine N-acetyltransferase,C,Overlaps start codon,Concordant proximal signal (internal/last operon gene),,Internal in operon
+83,rpmD,MIDG2331_RS09755,50S ribosomal protein L30,I,5' leader / upstream,WT plate proximal signal (internal/last operon gene),,Internal in operon
+84,rpsI,MIDG2331_RS02890,30S ribosomal protein S9,C,5' leader / upstream,WT plate proximal signal (internal/last operon gene),,Last in operon
+85,secE,MIDG2331_RS09355,preprotein translocase subunit SecE,T,5' leader / upstream,WT plate + broth (discordant),,First in operon
+86,serA,MIDG2331_RS08050,phosphoglycerate dehydrogenase,T,5' leader / upstream,Concordant proximal signal (internal/last operon gene),,Last in operon
+87,serC,MIDG2331_RS03505,3-phosphoserine/phosphohydroxythreonine transaminase,T,Overlaps start codon,No proximal TSS,,Single-gene
+88,sfsA,MIDG2331_RS09475,DNA/RNA nuclease SfsA,T,Overlaps start codon,WT plate + broth (concordant),267,Single-gene
+89,sprT,MIDG2331_RS06420,SprT family zinc-dependent metalloprotease,C,CDS,No independent proximal TSS detected,,Last in operon
+90,sstT,MIDG2331_RS03840,serine/threonine transporter SstT,C,5' leader / upstream,WT broth only,64,Single-gene
+91,sucC,MIDG2331_RS02335,ADP-forming succinate--CoA ligase subunit beta,C,5' leader / upstream,WT plate + broth (concordant),34,First in operon
+92,tehB,MIDG2331_RS07320,SAM-dependent methyltransferase TehB,T,Overlaps start codon,WT plate + broth (concordant),32,Single-gene
+93,tsaD,MIDG2331_RS05685,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,T,Overlaps start codon,WT plate + broth (concordant),492,First in operon
+94,ureA,MIDG2331_RS08845,urease subunit gamma,T,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+95,wecC,MIDG2331_RS08490,UDP-N-acetyl-D-mannosamine dehydrogenase,C,5' leader / upstream,No independent proximal TSS detected,,Internal in operon
+96,ykgF,MIDG2331_RS02300,LutB/LldF family L-lactate oxidation iron-sulfur protein,I,CDS,WT plate proximal signal (internal/last operon gene),,Internal in operon

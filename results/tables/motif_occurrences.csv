@@ -1,0 +1,25 @@
+dataset,reference_locus,gene,annotation,strand,sequence_start,sequence_end,matched_sequence,n_mismatches,motif_start_rel_CDS,motif_end_rel_CDS,match_class,motif_region
+background,MIDG2331_RS00025,asd,aspartate-semialdehyde dehydrogenase,+,166,176,AAACACAACTT,1,-35,-25,one_mismatch,upstream
+background,MIDG2331_RS00340,,ABC transporter substrate-binding protein,+,179,189,AAACACAACAC,1,-22,-12,one_mismatch,upstream
+background,MIDG2331_RS00650,hinT,purine nucleoside phosphoramidase,-,206,216,AAACACCACAT,1,5,15,one_mismatch,CDS
+background,MIDG2331_RS00840,nrdG,anaerobic ribonucleoside-triphosphate reductase activating protein,-,169,179,AGACACAACAT,1,-32,-22,one_mismatch,upstream
+background,MIDG2331_RS00935,,NRAMP family divalent metal transporter,-,208,218,AAACACAACAA,1,7,17,one_mismatch,CDS
+background,MIDG2331_RS03420,rlmM,23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM,-,15,25,AAACACAAAAT,1,-186,-176,one_mismatch,upstream
+background,MIDG2331_RS04450,,YgjV family protein,-,140,150,AAACACAAAAT,1,-61,-51,one_mismatch,upstream
+background,MIDG2331_RS05125,,uroporphyrinogen-III C-methyltransferase,-,213,223,AAACAGAACAT,1,12,22,one_mismatch,CDS
+background,MIDG2331_RS05500,argE,acetylornithine deacetylase,+,206,216,AAACACAAAAT,1,5,15,one_mismatch,CDS
+background,MIDG2331_RS05740,,O-antigen ligase family protein,+,11,21,AAACACAAGAT,1,-190,-180,one_mismatch,upstream
+background,MIDG2331_RS05895,,LysR family transcriptional regulator,+,39,49,AAACACATCAT,1,-162,-152,one_mismatch,upstream
+background,MIDG2331_RS07435,,heme ABC transporter permease,-,235,245,AAACACAATAT,1,34,44,one_mismatch,CDS
+background,MIDG2331_RS09065,,YchJ family protein,-,53,63,AAACACAAAAT,1,-148,-138,one_mismatch,upstream
+background,MIDG2331_RS09895,,DUF5377 family protein,+,168,178,TAACACAACAT,1,-33,-23,one_mismatch,upstream
+background,MIDG2331_RS11530,,cysteine ABC transporter substrate-binding protein,+,209,219,AAGCACAACAT,1,8,18,one_mismatch,CDS
+candidate,MIDG2331_RS00505,ilvD,dihydroxy-acid dehydratase,-,170,180,AAACACAACAT,0,-31,-21,exact,upstream
+candidate,MIDG2331_RS00675,gcvA,transcriptional regulator GcvA,+,3,13,AAACACAACAT,0,-198,-188,exact,upstream
+candidate,MIDG2331_RS03295,aspC,amino acid aminotransferase,+,175,185,AAACACAACTT,1,-26,-16,one_mismatch,upstream
+candidate,MIDG2331_RS03630,ilvI,acetolactate synthase 3 large subunit,+,163,173,AAACACAATAT,1,-38,-28,one_mismatch,upstream
+candidate,MIDG2331_RS04600,hlpA,MetQ/NlpA family lipoprotein,-,174,184,AAACACAACAT,0,-27,-17,exact,upstream
+candidate,MIDG2331_RS05485,arcD1,basic amino acid/polyamine antiporter,+,174,184,AAGCACAACAT,1,-27,-17,one_mismatch,upstream
+candidate,MIDG2331_RS10200,ilvC,ketol-acid reductoisomerase,-,143,153,AAACACAACAT,0,-58,-48,exact,upstream
+candidate,MIDG2331_RS10295,dapE,succinyl-diaminopimelate desuccinylase,-,204,214,AAACACAACAT,0,3,13,exact,CDS
+candidate,MIDG2331_RS11025,hisG,ATP phosphoribosyltransferase,+,178,188,AAACACAACAT,0,-23,-13,exact,upstream

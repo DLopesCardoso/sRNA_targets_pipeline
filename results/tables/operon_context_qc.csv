@@ -1,0 +1,13 @@
+metric,value
+candidate_loci_input,96
+candidate_loci_with_reference_coordinates,96
+candidate_loci_without_reference_coordinates,0
+OperonMapper_ORFs,2254
+OperonMapper_operons,1189
+targets_exact_coordinate_mapping,96
+targets_coordinate_overlap_mapping,0
+targets_unmapped,0
+targets_in_single_gene_operons,26
+targets_first_in_polycistronic_operon,22
+targets_internal_in_polycistronic_operon,28
+targets_last_in_polycistronic_operon,20

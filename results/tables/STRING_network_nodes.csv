@@ -1,0 +1,80 @@
+name,STRING_id,reference_locus,gene,display_name,annotation,CopraRNA,TargetRNA2,IntaRNA,prediction_support,support_group,functional_category,mapping_source,degree,betweenness,connected,always_label
+416269.APL_1853,416269.APL_1853,MIDG2331_RS10200,ilvC,ilvC,ketol-acid reductoisomerase,TRUE,TRUE,TRUE,3,Predicted by 3 tools,Other,Gene name,10,293.5937165775401,TRUE,TRUE
+416269.APL_0099,416269.APL_0099,MIDG2331_RS00515,ilvG,ilvG,acetolactate synthase 2 catalytic subunit,TRUE,TRUE,TRUE,3,Predicted by 3 tools,Amino-acid transport and metabolism,Gene name,7,70.99795433324844,TRUE,TRUE
+416269.APL_0097,416269.APL_0097,MIDG2331_RS00505,ilvD,ilvD,dihydroxy-acid dehydratase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Other,Gene name,10,183.81878023936844,TRUE,FALSE
+416269.APL_2023,416269.APL_2023,MIDG2331_RS11045,hisB,hisB,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,9,102.5760058568882,TRUE,FALSE
+416269.APL_2020,416269.APL_2020,MIDG2331_RS11030,hisD,hisD,histidinol dehydrogenase,TRUE,TRUE,FALSE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,8,48.02724726254137,TRUE,FALSE
+416269.APL_0727,416269.APL_0727,MIDG2331_RS03630,ilvI,ilvI,acetolactate synthase 3 large subunit,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,8,392.0293226381461,TRUE,FALSE
+416269.APL_0683,416269.APL_0683,MIDG2331_RS03400,metB,metB,methionine biosynthesis PLP-dependent protein,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,7,119.38081869111284,TRUE,FALSE
+416269.APL_1230,416269.APL_1230,MIDG2331_RS06220,serB,serB,phosphoserine phosphatase SerB,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,7,119.44090909090909,TRUE,FALSE
+416269.APL_1165,416269.APL_1165,MIDG2331_RS05935,trpD,trpD,anthranilate phosphoribosyltransferase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,6,51.61507936507935,TRUE,FALSE
+416269.APL_0662,416269.APL_0662,MIDG2331_RS03295,aspC,aspC,amino acid aminotransferase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,4,39.65505050505053,TRUE,FALSE
+416269.APL_0899,416269.APL_0899,MIDG2331_RS04545,dapA,dapA,4-hydroxy-tetrahydrodipicolinate synthase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Other,Gene name,4,28.249999999999993,TRUE,FALSE
+416269.APL_1499,416269.APL_1499,MIDG2331_RS08140,thrC,thrC,threonine synthase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,4,55.37272727272725,TRUE,FALSE
+416269.APL_0618,416269.APL_0618,MIDG2331_RS02975,ftsK,ftsK,DNA translocase FtsK,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Other,Gene name,3,95,TRUE,FALSE
+416269.APL_0617,416269.APL_0617,MIDG2331_RS02970,lrp,lrp,leucine-responsive transcriptional regulator Lrp,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,3,96.76470588235294,TRUE,FALSE
+416269.APL_0320,416269.APL_0320,MIDG2331_RS01660,metC,metC,cystathionine beta-lyase,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Other,Gene name,3,11.828282828282822,TRUE,FALSE
+416269.APL_0487,416269.APL_0487,MIDG2331_RS02505,rplY,rplY,50S ribosomal protein L25,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Translation,Gene name,3,0,TRUE,FALSE
+416269.APL_1163,416269.APL_1163,MIDG2331_RS05925,trpE,trpE,anthranilate synthase component 1,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,3,0,TRUE,FALSE
+416269.APL_1873,416269.APL_1873,MIDG2331_RS10295,dapE,dapE,succinyl-diaminopimelate desuccinylase,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Amino-acid transport and metabolism,Gene name,2,0,TRUE,FALSE
+416269.APL_0022,416269.APL_0022,MIDG2331_RS00110,ftsA,ftsA,cell division protein FtsA,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Other,Gene name,2,48,TRUE,FALSE
+416269.APL_0130,416269.APL_0130,MIDG2331_RS00670,rsgA,rsgA,small ribosomal subunit biogenesis GTPase RsgA,TRUE,FALSE,TRUE,2,Predicted by 2 tools,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_0571,416269.APL_0571,MIDG2331_RS09100,gntR,gntR,gluconate operon transcriptional repressor GntR,FALSE,TRUE,TRUE,2,Predicted by 2 tools,Regulation,Gene name,0,0,FALSE,FALSE
+416269.APL_0700,416269.APL_0700,MIDG2331_RS03495,hisC,hisC,histidinol-phosphate transaminase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,11,142.42532679738562,TRUE,FALSE
+416269.APL_0432,416269.APL_0432,MIDG2331_RS02235,leuB,leuB,3-isopropylmalate dehydrogenase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,10,143.98703208556148,TRUE,FALSE
+416269.APL_0139,416269.APL_0139,MIDG2331_RS00715,leuC,leuC,3-isopropylmalate dehydratase large subunit,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,8,54.946511331805446,TRUE,FALSE
+416269.APL_2026,416269.APL_2026,MIDG2331_RS11065,hisA,hisA,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,7,11.141549953314659,TRUE,FALSE
+416269.APL_0072,416269.APL_0072,MIDG2331_RS00380,ilvE,ilvE,branched-chain amino acid aminotransferase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,7,152.6183027756557,TRUE,FALSE
+416269.APL_0601,416269.APL_0601,MIDG2331_RS02890,rpsI,rpsI,30S ribosomal protein S9,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Translation,Gene name,6,227,TRUE,FALSE
+416269.APL_0748,416269.APL_0748,MIDG2331_RS03735,aroC,aroC,chorismate synthase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,5,42.231746031746034,TRUE,FALSE
+416269.APL_2019,416269.APL_2019,MIDG2331_RS11025,hisG,hisG,ATP phosphoribosyltransferase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,5,0,TRUE,FALSE
+416269.APL_0702,416269.APL_0702,MIDG2331_RS03505,serC,serC,3-phosphoserine/phosphohydroxythreonine transaminase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,5,78.96363636363635,TRUE,FALSE
+416269.APL_1716,416269.APL_1716,MIDG2331_RS09355,secE,secE,preprotein translocase subunit SecE,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,4,328,TRUE,FALSE
+416269.APL_1452,416269.APL_1452,MIDG2331_RS08050,serA,serA,phosphoglycerate dehydrogenase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,4,23.733333333333334,TRUE,FALSE
+416269.APL_1139,416269.APL_1139,MIDG2331_RS05800,aroE,aroE,shikimate dehydrogenase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,3,0,TRUE,FALSE
+416269.APL_1861,416269.APL_1861,MIDG2331_RS10235,dapD,dapD,2 3 4 5-tetrahydropyridine-2 6-dicarboxylate N-succinyltransferase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,3,11.333333333333332,TRUE,FALSE
+416269.APL_1777,416269.APL_1777,MIDG2331_RS09755,rpmD,rpmD,50S ribosomal protein L30,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Translation,Gene name,3,0,TRUE,FALSE
+416269.APL_1179,416269.APL_1179,MIDG2331_RS06010,argH,argH,argininosuccinate lyase,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,2,1.0333333333333332,TRUE,FALSE
+416269.APL_0133,416269.APL_0133,MIDG2331_RS00685,cysB,cysB,HTH-type transcriptional regulator CysB,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Regulation,Gene name,2,48,TRUE,FALSE
+416269.APL_1511,416269.APL_1511,MIDG2331_RS08210,cysE,cysE,serine O-acetyltransferase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,2,48,TRUE,FALSE
+416269.APL_1906,416269.APL_1906,MIDG2331_RS10465,dnaK,dnaK,molecular chaperone DnaK,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,2,48,TRUE,FALSE
+416269.APL_0131,416269.APL_0131,MIDG2331_RS00675,gcvA,gcvA,transcriptional regulator GcvA,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Regulation,Gene name,2,94,TRUE,FALSE
+416269.APL_1340,416269.APL_1340,MIDG2331_RS07270,pepN,pepN,aminopeptidase N,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,2,0,TRUE,FALSE
+416269.APL_0074,416269.APL_0074,MIDG2331_RS00390,recR,recR,recombination mediator RecR,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,2,38.23529411764706,TRUE,FALSE
+416269.APL_0767,416269.APL_0767,MIDG2331_RS03840,sstT,sstT,serine/threonine transporter SstT,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,2,138,TRUE,FALSE
+416269.APL_1120,416269.APL_1120,MIDG2331_RS05685,tsaD,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Translation,Gene name,2,94,TRUE,FALSE
+416269.APL_0604,416269.APL_0604,MIDG2331_RS02905,fieF,fieF,cation diffusion facilitator family transporter,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_0925,416269.APL_0925,MIDG2331_RS04665,hscA,hscA,Fe-S protein assembly chaperone HscA,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_1366,416269.APL_1366,MIDG2331_RS07400,mltF,mltF,membrane-bound lytic murein transglycosylase MltF,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_1586,416269.APL_1586,MIDG2331_RS08685,modF,modF,molybdate ABC transporter ATP-binding protein ModF,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_1599,416269.APL_1599,MIDG2331_RS08750,mrdA,mrdA,penicillin-binding protein 2,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_1915,416269.APL_1915,MIDG2331_RS10510,panF,panF,sodium/pantothenate symporter,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_0452,416269.APL_0452,MIDG2331_RS02335,sucC,sucC,ADP-forming succinate--CoA ligase subunit beta,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,1,0,TRUE,FALSE
+416269.APL_0185,416269.APL_0185,MIDG2331_RS00945,aroF,aroF,3-deoxy-7-phosphoheptulonate synthase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1353,416269.APL_1353,MIDG2331_RS07335,artI,artI,transporter substrate-binding domain-containing protein,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0938,416269.APL_0938,MIDG2331_RS04730,bioD,bioD,dethiobiotin synthase,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1620,416269.APL_1620,MIDG2331_RS08855,cbiO,cbiO,energy-coupling factor ABC transporter ATP-binding protein,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0175,416269.APL_0175,MIDG2331_RS00895,dksA,dksA,RNA polymerase-binding protein DksA,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1677,416269.APL_1677,MIDG2331_RS09150,dmsD,dmsD,Tat proofreading chaperone DmsD,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0068,416269.APL_0068,MIDG2331_RS00360,dppF,dppF,ABC transporter ATP-binding protein,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0207,416269.APL_0207,MIDG2331_RS01055,dxs,dxs,1-deoxy-D-xylulose-5-phosphate synthase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1530,416269.APL_1530,MIDG2331_RS08325,epmA,epmA,elongation factor P--(R)-beta-lysine ligase,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,0,0,FALSE,FALSE
+416269.APL_1992,416269.APL_1992,MIDG2331_RS10890,fabG,fabG,3-oxoacyl-ACP reductase FabG,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1631,416269.APL_1631,MIDG2331_RS08910,glmS,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),FALSE,FALSE,TRUE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,0,0,FALSE,FALSE
+416269.APL_0380,416269.APL_0380,MIDG2331_RS01960,glpB,glpB,glycerol-3-phosphate dehydrogenase subunit GlpB,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1593,416269.APL_1593,MIDG2331_RS08720,lipA,lipA,lipoyl synthase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0581,416269.APL_0581,MIDG2331_RS02785,mukB,mukB,chromosome partition protein MukB,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0241,416269.APL_0241,MIDG2331_RS01225,mutT,mutT,8-oxo-dGTP diphosphatase MutT,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1754,416269.APL_1754,MIDG2331_RS09635,nanA,nanA,N-acetylneuraminate lyase,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0663,416269.APL_0663,MIDG2331_RS03300,pepP,pepP,Xaa-Pro aminopeptidase,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Amino-acid transport and metabolism,Gene name,0,0,FALSE,FALSE
+416269.APL_1951,416269.APL_1951,MIDG2331_RS10685,proA,proA,glutamate-5-semialdehyde dehydrogenase,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0119,416269.APL_0119,MIDG2331_RS00615,proQ,proQ,RNA chaperone ProQ,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1258,416269.APL_1258,MIDG2331_RS06360,pstB,pstB,phosphate ABC transporter ATP-binding protein PstB,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1319,416269.APL_1319,MIDG2331_RS06780,ptsB,ptsB,sucrose-specific PTS transporter subunit IIBC,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_2007,416269.APL_2007,MIDG2331_RS10965,rimI,rimI,ribosomal protein S18-alanine N-acetyltransferase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Translation,Gene name,0,0,FALSE,FALSE
+416269.APL_1737,416269.APL_1737,MIDG2331_RS09475,sfsA,sfsA,DNA/RNA nuclease SfsA,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1270,416269.APL_1270,MIDG2331_RS06420,sprT,sprT,SprT family zinc-dependent metalloprotease,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1350,416269.APL_1350,MIDG2331_RS07320,tehB,tehB,SAM-dependent methyltransferase TehB,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1618,416269.APL_1618,MIDG2331_RS08845,ureA,ureA,urease subunit gamma,FALSE,TRUE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_1551,416269.APL_1551,MIDG2331_RS08490,wecC,wecC,UDP-N-acetyl-D-mannosamine dehydrogenase,TRUE,FALSE,FALSE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE
+416269.APL_0445,416269.APL_0445,MIDG2331_RS02300,ykgF,ykgF,LutB/LldF family L-lactate oxidation iron-sulfur protein,FALSE,FALSE,TRUE,1,Predicted by 1 tool,Other,Gene name,0,0,FALSE,FALSE

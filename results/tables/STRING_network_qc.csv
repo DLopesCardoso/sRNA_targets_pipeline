@@ -1,0 +1,13 @@
+metric,value
+candidate_loci,96
+targets_mapped_to_STRING,79
+targets_not_mapped_to_STRING,17
+STRING_mapping_percent,82.29166666666667
+mapped_targets_with_at_least_one_association,50
+STRING_associations,105
+targets_predicted_by_at_least_two_tools,24
+targets_predicted_by_all_three_tools,2
+connected_amino_acid_nodes,22
+connected_translation_nodes,4
+connected_regulation_nodes,2
+connected_other_nodes,22

@@ -1,0 +1,97 @@
+reference_locus,gene,annotation,strand,gene_start,gene_end,translation_start,WT_plate_TSS,WT_plate_distance,WT_plate_score,n_proximal_WT_plate,WT_broth_TSS,WT_broth_distance,WT_broth_score,n_proximal_WT_broth,TSS_difference,TSS_support,representative_TSS,UTR5_length,representative_TSS_rel_start,multiple_proximal_TSS
+MIDG2331_RS00110,ftsA,cell division protein FtsA,+,25146,26420,25146,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS00360,dppF,ABC transporter ATP-binding protein,+,80285,81274,80285,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS00380,ilvE,branched-chain amino acid aminotransferase,-,82953,83990,83990,84019,29,17.314,6,84486,496,281.278,1,467,Both_discordant,,,,TRUE
+MIDG2331_RS00390,recR,recombination mediator RecR,-,84536,85141,85141,85577,436,140.439,1,85577,436,120.152,1,0,Both_concordant,85577,436,-436,FALSE
+MIDG2331_RS00505,ilvD,dihydroxy-acid dehydratase,-,100919,102754,102754,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS00515,ilvG,acetolactate synthase 2 catalytic subunit,-,103111,104763,104763,,,,0,104815,52,47.618,1,,WT_broth_only,104815,52,-52,FALSE
+MIDG2331_RS00615,proQ,RNA chaperone ProQ,+,138579,139127,138579,138523,56,205.849,2,138522,57,229.231,2,1,Both_concordant,138523,56,-56,TRUE
+MIDG2331_RS00670,rsgA,small ribosomal subunit biogenesis GTPase RsgA,-,148122,149156,149156,149183,27,34.629,2,149183,27,266.328,2,0,Both_concordant,149183,27,-27,TRUE
+MIDG2331_RS00675,gcvA,transcriptional regulator GcvA,+,149666,150556,149666,149468,198,83.365,3,149414,252,44.296,3,54,Both_discordant,,,,TRUE
+MIDG2331_RS00685,cysB,HTH-type transcriptional regulator CysB,+,151236,152219,151236,151123,113,20.521,1,151123,113,52.601,1,0,Both_concordant,151123,113,-113,FALSE
+MIDG2331_RS00715,leuC,3-isopropylmalate dehydratase large subunit,-,157199,158608,158608,158703,95,21.803,1,158703,95,28.239,1,0,Both_concordant,158703,95,-95,FALSE
+MIDG2331_RS00895,dksA,RNA polymerase-binding protein DksA,+,196616,197065,196616,196551,65,25.01,2,196542,74,100.773,2,9,Both_concordant,196551,65,-65,TRUE
+MIDG2331_RS00945,aroF,3-deoxy-7-phosphoheptulonate synthase,-,207567,208628,208628,,,,0,208660,32,14.396,1,,WT_broth_only,208660,32,-32,FALSE
+MIDG2331_RS01055,dxs,1-deoxy-D-xylulose-5-phosphate synthase,+,228650,230503,228650,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS01105,csy1,type I-F CRISPR-associated protein Csy1,-,242676,244025,244025,244050,25,28.216,1,244049,24,100.773,1,1,Both_concordant,244050,25,-25,FALSE
+MIDG2331_RS01225,mutT,8-oxo-dGTP diphosphatase MutT,+,262206,262604,262206,,,,0,262151,55,12.735,1,,WT_broth_only,262151,55,-55,FALSE
+MIDG2331_RS01240,argD2,aspartate aminotransferase family protein,+,264681,265862,264681,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS01485,hsdM2,type I restriction-modification system subunit M,+,320994,322544,320994,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS01660,metC,cystathionine beta-lyase,-,361950,363140,363140,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS01960,glpB,glycerol-3-phosphate dehydrogenase subunit GlpB,+,437895,439181,437895,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS02235,leuB,3-isopropylmalate dehydrogenase,+,494812,495894,494812,494782,30,11.543,2,494782,30,49.279,2,0,Both_concordant,494782,30,-30,TRUE
+MIDG2331_RS02245,gap,type I glyceraldehyde-3-phosphate dehydrogenase,+,496636,497640,496636,496603,33,19.879,3,496567,69,11.074,2,36,Both_discordant,,,,TRUE
+MIDG2331_RS02300,ykgF,LutB/LldF family L-lactate oxidation iron-sulfur protein,-,517763,519172,519172,519504,332,17.956,1,,,,0,,WT_plate_only,519504,332,-332,FALSE
+MIDG2331_RS02335,sucC,ADP-forming succinate--CoA ligase subunit beta,-,526806,527972,527972,528006,34,160.959,1,528006,34,253.04,1,0,Both_concordant,528006,34,-34,FALSE
+MIDG2331_RS02505,rplY,50S ribosomal protein L25,+,562824,563111,562824,562752,72,13.467,3,562723,101,325.574,1,29,Both_discordant,,,,TRUE
+MIDG2331_RS02785,mukB,chromosome partition protein MukB,+,621450,625940,621450,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS02890,rpsI,30S ribosomal protein S9,+,651993,652388,651993,651821,172,41.041,1,,,,0,,WT_plate_only,651821,172,-172,FALSE
+MIDG2331_RS02905,fieF,cation diffusion facilitator family transporter,+,653863,654786,653863,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS02970,lrp,leucine-responsive transcriptional regulator Lrp,+,667396,667878,667396,667246,150,18.597,1,667246,150,42.081,1,0,Both_concordant,667246,150,-150,FALSE
+MIDG2331_RS02975,ftsK,DNA translocase FtsK,+,667890,670760,667890,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS03230,ompP2B,porin,-,712179,713264,713264,713270,6,29.499,3,713331,67,38.759,2,61,Both_discordant,,,,TRUE
+MIDG2331_RS03295,aspC,amino acid aminotransferase,+,725436,726632,725436,,,,0,725403,33,396.447,1,,WT_broth_only,725403,33,-33,FALSE
+MIDG2331_RS03300,pepP,Xaa-Pro aminopeptidase,-,726812,728098,728098,728120,22,21.803,1,728119,21,10.52,1,1,Both_concordant,728120,22,-22,FALSE
+MIDG2331_RS03400,metB,methionine biosynthesis PLP-dependent protein,-,750728,751864,751864,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS03495,hisC,histidinol-phosphate transaminase,-,773752,774846,774846,774880,34,123.124,1,774880,34,249.717,1,0,Both_concordant,774880,34,-34,FALSE
+MIDG2331_RS03505,serC,3-phosphoserine/phosphohydroxythreonine transaminase,-,776520,777608,777608,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS03630,ilvI,acetolactate synthase 3 large subunit,+,806361,808085,806361,,,,0,806313,48,21.594,1,,WT_broth_only,806313,48,-48,FALSE
+MIDG2331_RS03735,aroC,chorismate synthase,-,824899,825981,825981,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS03810,arfA,alternative ribosome-rescue factor A,-,842285,842527,842527,842568,41,302.681,1,842568,41,196.009,1,0,Both_concordant,842568,41,-41,FALSE
+MIDG2331_RS03840,sstT,serine/threonine transporter SstT,-,849091,850305,850305,,,,0,850369,64,110.739,1,,WT_broth_only,850369,64,-64,FALSE
+MIDG2331_RS04545,dapA,4-hydroxy-tetrahydrodipicolinate synthase,-,1011389,1012282,1012282,1012331,49,18.597,1,1012311,29,13.289,2,20,Both_discordant,,,,TRUE
+MIDG2331_RS04600,hlpA,MetQ/NlpA family lipoprotein,-,1020547,1021368,1021368,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS04665,hscA,Fe-S protein assembly chaperone HscA,-,1035052,1036905,1036905,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS04690,iscU,Fe-S cluster assembly scaffold IscU,-,1039184,1039567,1039567,1039718,151,12.825,10,,,,0,,WT_plate_only,1039718,151,-151,TRUE
+MIDG2331_RS04730,bioD,dethiobiotin synthase,-,1047451,1048095,1048095,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS05485,arcD1,basic amino acid/polyamine antiporter,+,1227126,1228541,1227126,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS05515,arsB,ACR3 family arsenite efflux transporter,-,1235731,1236732,1236732,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS05685,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,-,1270821,1271864,1271864,1272356,492,16.032,1,1272355,491,14.396,1,1,Both_concordant,1272356,492,-492,FALSE
+MIDG2331_RS05710,nifS,aminotransferase class V-fold PLP-dependent enzyme,-,1275762,1276964,1276964,,,,0,1277088,124,16.057,1,,WT_broth_only,1277088,124,-124,FALSE
+MIDG2331_RS05800,aroE,shikimate dehydrogenase,-,1290799,1291623,1291623,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS05925,trpE,anthranilate synthase component 1,+,1315237,1316787,1315237,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS05935,trpD,anthranilate phosphoribosyltransferase,+,1317445,1318449,1317445,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS06010,argH,argininosuccinate lyase,-,1331015,1332391,1332391,,,,0,1332549,158,57.585,1,,WT_broth_only,1332549,158,-158,FALSE
+MIDG2331_RS06145,hxpB,hexitol phosphatase HxpB,-,1359047,1359697,1359697,1359727,30,10.902,1,1359727,30,43.188,1,0,Both_concordant,1359727,30,-30,FALSE
+MIDG2331_RS06220,serB,phosphoserine phosphatase SerB,+,1373141,1374001,1373141,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS06360,pstB,phosphate ABC transporter ATP-binding protein PstB,-,1408817,1409596,1409596,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS06420,sprT,SprT family zinc-dependent metalloprotease,+,1420648,1421169,1420648,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS06780,ptsB,sucrose-specific PTS transporter subunit IIBC,-,1482696,1484117,1484117,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS06845,apxIIIA,RTX family hemolysin,-,1500642,1503800,1503800,1504083,283,17.314,5,,,,0,,WT_plate_only,1504083,283,-283,TRUE
+MIDG2331_RS07270,pepN,aminopeptidase N,+,1574641,1577250,1574641,1574592,49,434.142,1,1574592,49,569.755,1,0,Both_concordant,1574592,49,-49,FALSE
+MIDG2331_RS07320,tehB,SAM-dependent methyltransferase TehB,+,1584567,1585439,1584567,1584535,32,38.476,1,1584535,32,90.806,1,0,Both_concordant,1584535,32,-32,FALSE
+MIDG2331_RS07335,artI,transporter substrate-binding domain-containing protein,-,1586927,1587646,1587646,1588002,356,17.314,1,,,,0,,WT_plate_only,1588002,356,-356,FALSE
+MIDG2331_RS07400,mltF,membrane-bound lytic murein transglycosylase MltF,-,1597925,1599376,1599376,1599402,26,154.547,1,1599402,26,224.247,1,0,Both_concordant,1599402,26,-26,FALSE
+MIDG2331_RS07790,glpC_2,D-2-hydroxyglutarate dehydrogenase YdiJ,+,1681035,1684124,1681035,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08050,serA,phosphoglycerate dehydrogenase,+,1739359,1740588,1739359,1739335,24,278.312,1,1739335,24,334.433,1,0,Both_concordant,1739335,24,-24,FALSE
+MIDG2331_RS08140,thrC,threonine synthase,+,1757860,1759140,1757860,1757821,39,34.629,1,1757823,37,129.565,1,2,Both_concordant,1757821,39,-39,FALSE
+MIDG2331_RS08210,cysE,serine O-acetyltransferase,+,1771248,1772063,1771248,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08255,ccmI,c-type cytochrome biogenesis protein CcmI,+,1776295,1777209,1776295,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08325,epmA,elongation factor P--(R)-beta-lysine ligase,+,1788704,1789687,1788704,,,,0,1788679,25,47.064,1,,WT_broth_only,1788679,25,-25,FALSE
+MIDG2331_RS08490,wecC,UDP-N-acetyl-D-mannosamine dehydrogenase,-,1817332,1818603,1818603,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08585,exbD1,ExbD/TolR family protein,-,1841551,1841961,1841961,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08685,modF,molybdate ABC transporter ATP-binding protein ModF,-,1862475,1863932,1863932,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08720,lipA,lipoyl synthase,-,1869591,1870583,1870583,1870711,128,66.051,1,1870711,128,49.279,1,0,Both_concordant,1870711,128,-128,FALSE
+MIDG2331_RS08750,mrdA,penicillin-binding protein 2,-,1874945,1876906,1876906,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08845,ureA,urease subunit gamma,-,1892463,1892765,1892765,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS08855,cbiO,energy-coupling factor ABC transporter ATP-binding protein,-,1893776,1894405,1894405,1894602,197,17.314,2,1894602,197,34.883,3,0,Both_concordant,1894602,197,-197,TRUE
+MIDG2331_RS08910,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),-,1904568,1906400,1906400,1906666,266,11.543,1,,,,0,,WT_plate_only,1906666,266,-266,FALSE
+MIDG2331_RS09100,gntR,gluconate operon transcriptional repressor GntR,-,1940416,1941414,1941414,,,,0,1941455,41,45.403,2,,WT_broth_only,1941455,41,-41,TRUE
+MIDG2331_RS09150,dmsD,Tat proofreading chaperone DmsD,+,1951622,1952227,1951622,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS09295,fkpA2,FKBP-type peptidyl-prolyl cis-trans isomerase,-,1983725,1984354,1984354,1984384,30,146.851,1,1984384,30,180.505,1,0,Both_concordant,1984384,30,-30,FALSE
+MIDG2331_RS09355,secE,preprotein translocase subunit SecE,+,1994932,1995345,1994932,1994886,46,26.292,1,1994898,34,12.735,2,12,Both_discordant,,,,TRUE
+MIDG2331_RS09475,sfsA,DNA/RNA nuclease SfsA,-,2020593,2021306,2021306,2021573,267,1476.21,1,2021573,267,158.357,1,0,Both_concordant,2021573,267,-267,FALSE
+MIDG2331_RS09635,nanA,N-acetylneuraminate lyase,+,2048495,2049373,2048495,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS09755,rpmD,50S ribosomal protein L30,+,2062828,2063007,2062828,2062763,65,16.673,2,,,,0,,WT_plate_only,2062763,65,-65,TRUE
+MIDG2331_RS10200,ilvC,ketol-acid reductoisomerase,-,2147059,2148540,2148540,2148618,78,273.182,1,2148618,78,581.936,2,0,Both_concordant,2148618,78,-78,TRUE
+MIDG2331_RS10235,dapD,2 3 4 5-tetrahydropyridine-2 6-dicarboxylate N-succinyltransferase,+,2154564,2155388,2154564,2154520,44,834.296,2,2154520,44,1582.467,2,0,Both_concordant,2154520,44,-44,TRUE
+MIDG2331_RS10295,dapE,succinyl-diaminopimelate desuccinylase,-,2164276,2165409,2165409,2165777,368,27.575,1,2165777,368,65.89,2,0,Both_concordant,2165777,368,-368,TRUE
+MIDG2331_RS10465,dnaK,molecular chaperone DnaK,-,2200001,2201899,2201899,2201949,50,974.093,3,2201949,50,306.195,2,0,Both_concordant,2201949,50,-50,TRUE
+MIDG2331_RS10510,panF,sodium/pantothenate symporter,-,2212806,2214230,2214230,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS10685,proA,glutamate-5-semialdehyde dehydrogenase,-,2244507,2245745,2245745,2245770,25,29.499,1,2245770,25,78.071,1,0,Both_concordant,2245770,25,-25,FALSE
+MIDG2331_RS10890,fabG,3-oxoacyl-ACP reductase FabG,-,2280849,2281574,2281574,2281904,330,17.314,2,2281904,330,19.933,1,0,Both_concordant,2281904,330,-330,TRUE
+MIDG2331_RS10965,rimI,ribosomal protein S18-alanine N-acetyltransferase,+,2294238,2294675,2294238,2293801,437,25.01,1,2293801,437,48.725,1,0,Both_concordant,2293801,437,-437,FALSE
+MIDG2331_RS11025,hisG,ATP phosphoribosyltransferase,+,2308637,2309536,2308637,2308443,194,10.902,2,2308407,230,560.895,1,36,Both_discordant,,,,TRUE
+MIDG2331_RS11030,hisD,histidinol dehydrogenase,+,2309652,2310938,2309652,2309357,295,14.108,1,,,,0,,WT_plate_only,2309357,295,-295,FALSE
+MIDG2331_RS11045,hisB,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,+,2312650,2313741,2312650,,,,0,,,,0,,No_proximal_TSS,,,,FALSE
+MIDG2331_RS11065,hisA,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,+,2316342,2317094,2316342,,,,0,,,,0,,No_proximal_TSS,,,,FALSE

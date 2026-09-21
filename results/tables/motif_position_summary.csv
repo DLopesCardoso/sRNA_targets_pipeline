@@ -1,0 +1,6 @@
+dataset,match_class,motif_region,n_occurrences,n_genes,median_start_rel_CDS,minimum_start_rel_CDS,maximum_start_rel_CDS
+background,one_mismatch,CDS,6,6,7.5,5,34
+background,one_mismatch,upstream,9,9,-61,-190,-22
+candidate,exact,CDS,1,1,3,3,3
+candidate,exact,upstream,5,5,-31,-198,-23
+candidate,one_mismatch,upstream,3,3,-27,-38,-26

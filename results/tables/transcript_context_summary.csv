@@ -1,0 +1,9 @@
+transcript_context_class,n_targets
+Internal_gene_without_local_TSS,17
+Operon_first_gene_with_local_TSS,15
+Single_gene_with_local_TSS,15
+Last_gene_without_local_TSS,12
+Internal_gene_with_local_TSS_candidate,11
+Single_gene_without_representative_TSS,11
+Last_gene_with_local_TSS_candidate,8
+Operon_first_gene_without_representative_TSS,7

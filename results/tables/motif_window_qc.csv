@@ -1,0 +1,12 @@
+metric,value
+reference_genome_length,2337633
+expected_window_length,301
+candidate_loci_input,96
+candidate_windows_generated,96
+background_windows_generated,2070
+candidate_windows_wrong_length,0
+background_windows_wrong_length,0
+candidate_windows_with_ambiguous_bases,0
+background_windows_with_ambiguous_bases,0
+candidate_windows_wrapping_origin,0
+background_windows_wrapping_origin,2

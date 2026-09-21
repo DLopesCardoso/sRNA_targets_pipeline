@@ -1,0 +1,2167 @@
+reference_locus,old_locus_tag,gene,annotation,strand,gene_start,gene_end
+MIDG2331_RS00005,MIDG2331_00001,dnaA,chromosomal replication initiator protein DnaA,+,192,1547
+MIDG2331_RS00010,MIDG2331_00002,dnaN,DNA polymerase III subunit beta,+,1564,2667
+MIDG2331_RS00015,MIDG2331_00003,recF,DNA replication/repair protein RecF,+,3001,4083
+MIDG2331_RS00020,MIDG2331_00004,sodC,superoxide dismutase family protein,-,4139,4711
+MIDG2331_RS00025,MIDG2331_00005,asd,aspartate-semialdehyde dehydrogenase,+,4894,6006
+MIDG2331_RS00030,MIDG2331_00006,,porin,-,6133,7263
+MIDG2331_RS00035,MIDG2331_00007,lpxB,lipid-A-disaccharide synthase,+,7412,8593
+MIDG2331_RS00040,MIDG2331_00008,sohB,protease SohB,+,8623,9678
+MIDG2331_RS00045,MIDG2331_00009,mraZ,division/cell wall cluster transcriptional repressor MraZ,+,9914,10372
+MIDG2331_RS00050,MIDG2331_00010,rsmH,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,+,10398,11339
+MIDG2331_RS00055,MIDG2331_00011,ftsL,cell division protein FtsL,+,11352,11666
+MIDG2331_RS00060,MIDG2331_00012,,penicillin-binding transpeptidase domain-containing protein,+,11670,13730
+MIDG2331_RS00065,MIDG2331_00013,murE,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase",+,13754,15256
+MIDG2331_RS00070,MIDG2331_00014,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase,+,15471,16865
+MIDG2331_RS00075,MIDG2331_00015,mraY,phospho-N-acetylmuramoyl-pentapeptide- transferase,+,16962,18044
+MIDG2331_RS00080,MIDG2331_00016,murD,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,+,18128,19438
+MIDG2331_RS00085,MIDG2331_00017,ftsW,putative lipid II flippase FtsW,+,19440,20618
+MIDG2331_RS00090,MIDG2331_00018,murG,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,+,20773,21828
+MIDG2331_RS00095,MIDG2331_00019,murC,UDP-N-acetylmuramate--L-alanine ligase,+,21880,23307
+MIDG2331_RS00100,MIDG2331_00020,,D-alanine--D-alanine ligase,+,23415,24326
+MIDG2331_RS00105,MIDG2331_00021,,cell division protein FtsQ/DivIB,+,24467,25120
+MIDG2331_RS00110,MIDG2331_00022,ftsA,cell division protein FtsA,+,25146,26420
+MIDG2331_RS00115,MIDG2331_00023,ftsZ,cell division protein FtsZ,+,26459,27670
+MIDG2331_RS00120,MIDG2331_00024,lpxC,UDP-3-O-acyl-N-acetylglucosamine deacetylase,+,27704,28624
+MIDG2331_RS00125,MIDG2331_00025,recN,DNA repair protein RecN,+,28786,30459
+MIDG2331_RS00130,MIDG2331_00026,,ABC transporter ATP-binding protein,-,30601,32004
+MIDG2331_RS00135,MIDG2331_00027,,ABC transporter permease,-,32004,32789
+MIDG2331_RS00140,MIDG2331_00028,,ABC transporter permease,-,32792,33739
+MIDG2331_RS00145,MIDG2331_00029,,ABC transporter substrate-binding protein,-,33833,35407
+MIDG2331_RS00150,MIDG2331_00030,prfC,peptide chain release factor 3,-,35601,37181
+MIDG2331_RS00155,MIDG2331_00031,,DUF805 domain-containing protein,+,37364,37831
+MIDG2331_RS00160,MIDG2331_00032,,DUF805 domain-containing protein,+,37878,38393
+MIDG2331_RS00165,MIDG2331_00033,pth,aminoacyl-tRNA hydrolase,+,38520,39104
+MIDG2331_RS00170,MIDG2331_00034,ychF,redox-regulated ATPase YchF,+,39213,40304
+MIDG2331_RS00175,MIDG2331_00035,,methyltransferase family protein,+,40376,40813
+MIDG2331_RS00180,MIDG2331_00036,,hypothetical protein,-,40863,41138
+MIDG2331_RS00185,MIDG2331_00037,,outer membrane lipoprotein,-,41169,41633
+MIDG2331_RS00190,MIDG2331_00038,,VOC family protein,-,41660,42256
+MIDG2331_RS00195,MIDG2331_00039,argS,arginine--tRNA ligase,+,42354,44081
+MIDG2331_RS00200,MIDG2331_00040,cgtA,Obg family GTPase CgtA,+,44225,45400
+MIDG2331_RS00205,MIDG2331_00041,,HI_0552 family protein,+,45475,46086
+MIDG2331_RS00210,MIDG2331_00042,rlmB,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,-,46186,46929
+MIDG2331_RS00215,MIDG2331_00043,pssA,CDP-diacylglycerol--serine O-phosphatidyltransferase,-,47008,48372
+MIDG2331_RS00220,MIDG2331_00044,ileS,isoleucine--tRNA ligase,-,48524,51340
+MIDG2331_RS00225,MIDG2331_00045,ribF,bifunctional riboflavin kinase/FAD synthetase,-,51401,52363
+MIDG2331_RS00230,MIDG2331_00046,nadR,multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR,+,52696,53976
+MIDG2331_RS00235,MIDG2331_00047,,metallophosphoesterase family protein,+,53973,54671
+MIDG2331_RS00240,MIDG2331_00048,arcA,two-component system response regulator ArcA,+,54844,55560
+MIDG2331_RS00245,MIDG2331_00049,,porin family protein,+,55612,56130
+MIDG2331_RS00250,MIDG2331_00050,,KdsC family phosphatase,-,56214,56750
+MIDG2331_RS00255,MIDG2331_00051,,YggS family pyridoxal phosphate-dependent enzyme,+,56805,57500
+MIDG2331_RS00260,MIDG2331_00052,typA,translational GTPase TypA,+,57692,59539
+MIDG2331_RS00265,MIDG2331_00053,,GrxA family glutaredoxin,+,59698,59961
+MIDG2331_RS00270,MIDG2331_00054,rph,ribonuclease PH,-,60027,60743
+MIDG2331_RS00275,MIDG2331_00055,,YicC/YloC family endoribonuclease,+,60947,61810
+MIDG2331_RS00280,MIDG2331_00056,ygfZ,CAF17-like 4Fe-4S cluster assembly/insertion protein YgfZ,+,61819,62706
+MIDG2331_RS00285,MIDG2331_00057,,YfhL family 4Fe-4S dicluster ferredoxin,-,62756,63016
+MIDG2331_RS00290,MIDG2331_00058,,response regulator,-,63162,63791
+MIDG2331_RS00295,MIDG2331_00059,rlmKL,bifunctional 23S rRNA (guanine(2069)-N(7))-methyltransferase RlmK/23S rRNA (guanine(2445)-N(2))-methyltransferase RlmL,+,63995,66133
+MIDG2331_RS00300,MIDG2331_00060,trmL,tRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL,+,66191,66670
+MIDG2331_RS00305,MIDG2331_00061,tal,transaldolase,-,66810,67757
+MIDG2331_RS00335,MIDG2331_00066,,ABC transporter substrate-binding protein,+,73811,75406
+MIDG2331_RS00340,MIDG2331_00067,,ABC transporter substrate-binding protein,+,75574,77175
+MIDG2331_RS00345,MIDG2331_00068,,ABC transporter permease subunit,+,77303,78307
+MIDG2331_RS00350,MIDG2331_00069,,ABC transporter permease subunit,+,78385,79275
+MIDG2331_RS00355,MIDG2331_00070,dppD,dipeptide ABC transporter ATP-binding protein,+,79286,80272
+MIDG2331_RS00360,MIDG2331_00071,,peptide ABC transporter ATP-binding protein,+,80285,81274
+MIDG2331_RS00365,MIDG2331_00072,psiE,phosphate-starvation-inducible protein PsiE,-,81347,81757
+MIDG2331_RS00370,MIDG2331_00073,,hydrolase,-,81835,82467
+MIDG2331_RS00375,MIDG2331_00074,,RidA family protein,-,82522,82866
+MIDG2331_RS00380,MIDG2331_00075,,branched-chain amino acid aminotransferase,-,82953,83990
+MIDG2331_RS00385,MIDG2331_00076,grxD,Grx4 family monothiol glutaredoxin,-,84132,84464
+MIDG2331_RS00390,MIDG2331_00077,recR,recombination mediator RecR,-,84536,85141
+MIDG2331_RS00395,MIDG2331_00078,,YbaB/EbfC family nucleoid-associated protein,-,85212,85541
+MIDG2331_RS00400,MIDG2331_00079,,energy transducer TonB family protein,-,85710,86567
+MIDG2331_RS00405,MIDG2331_00080,exbD,TonB system transport protein ExbD,-,86577,86966
+MIDG2331_RS00410,MIDG2331_00081,exbB,TonB-system energizer ExbB,-,87011,87463
+MIDG2331_RS00415,MIDG2331_00082,glpE,thiosulfate sulfurtransferase GlpE,+,87651,87977
+MIDG2331_RS00420,MIDG2331_00083,,co-chaperone YbbN,+,88021,88866
+MIDG2331_RS00425,MIDG2331_00084,dhaM,dihydroxyacetone kinase phosphoryl donor subunit DhaM,-,88941,89348
+MIDG2331_RS00430,MIDG2331_00085,dhaL,dihydroxyacetone kinase subunit DhaL,-,89357,89983
+MIDG2331_RS00435,MIDG2331_00086,dhaK,dihydroxyacetone kinase subunit DhaK,-,89985,91055
+MIDG2331_RS00440,MIDG2331_00087,trxB,thioredoxin-disulfide reductase,+,91225,92178
+MIDG2331_RS00445,MIDG2331_00088,kdsB,3-deoxy-manno-octulosonate cytidylyltransferase,+,92286,93038
+MIDG2331_RS00450,MIDG2331_00089,,YidB family protein,+,93162,93587
+MIDG2331_RS00455,MIDG2331_00090,nudC,NAD(+) diphosphatase,-,93661,94449
+MIDG2331_RS00460,MIDG2331_00091,,pseudouridine synthase,-,94449,95147
+MIDG2331_RS00465,MIDG2331_00092,,DMT family transporter,-,95148,95996
+MIDG2331_RS00470,MIDG2331_00093,,FxsA family protein,-,95996,96460
+MIDG2331_RS00475,MIDG2331_00094,pepQ,Xaa-Pro dipeptidase,-,96483,97814
+MIDG2331_RS00480,MIDG2331_00095,tusA,sulfurtransferase TusA,+,97838,98077
+MIDG2331_RS00485,MIDG2331_00096,rraB,ribonuclease E inhibitor RraB,-,98127,98567
+MIDG2331_RS00490,MIDG2331_00097,yihA,ribosome biogenesis GTP-binding protein YihA/YsxC,-,98569,99189
+MIDG2331_RS00495,MIDG2331_00098,,DUF805 domain-containing protein,-,99484,99900
+MIDG2331_RS00500,MIDG2331_00099,,ZIP family metal transporter,-,99938,100768
+MIDG2331_RS00505,MIDG2331_00100,ilvD,dihydroxy-acid dehydratase,-,100919,102754
+MIDG2331_RS00510,MIDG2331_00101,ilvM,acetolactate synthase 2 small subunit,-,102872,103090
+MIDG2331_RS00515,MIDG2331_00102,ilvG,acetolactate synthase 2 catalytic subunit,-,103111,104763
+MIDG2331_RS00520,MIDG2331_00103,nrfA,ammonia-forming nitrite reductase cytochrome c552 subunit,+,105163,106671
+MIDG2331_RS00525,MIDG2331_00104,nrfB,cytochrome c nitrite reductase pentaheme subunit,+,106692,107339
+MIDG2331_RS00530,MIDG2331_00105,nrfC,cytochrome c nitrite reductase Fe-S protein,+,107339,108016
+MIDG2331_RS00535,MIDG2331_00106,nrfD,cytochrome c nitrite reductase subunit NrfD,+,108016,108984
+MIDG2331_RS00540,MIDG2331_00107,,YadA-like family protein,+,109268,122965
+MIDG2331_RS00545,MIDG2331_00108,,uracil-xanthine permease family protein,-,123206,124435
+MIDG2331_RS00550,MIDG2331_00109,putA,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA,-,124595,128200
+MIDG2331_RS00555,MIDG2331_00110,putP,sodium/proline symporter PutP,-,128303,129817
+MIDG2331_RS00560,MIDG2331_00111,,IclR family transcriptional regulator,-,130392,131177
+MIDG2331_RS00565,MIDG2331_00112,,5-formyltetrahydrofolate cyclo-ligase,-,131174,131749
+MIDG2331_RS00570,MIDG2331_00114,,cell division protein ZapA,-,132020,132340
+MIDG2331_RS00575,MIDG2331_00115,,UPF0149 family protein,+,132418,132969
+MIDG2331_RS00580,MIDG2331_00116,hemE,uroporphyrinogen decarboxylase,+,133075,134139
+MIDG2331_RS00585,MIDG2331_00117,,YjaG family protein,+,134263,134853
+MIDG2331_RS00590,MIDG2331_00118,,HU family DNA-binding protein,+,134989,135261
+MIDG2331_RS00595,MIDG2331_00119,,thymidylate synthase,-,135314,136165
+MIDG2331_RS00600,MIDG2331_00120,,hypothetical protein,+,136253,136837
+MIDG2331_RS00605,MIDG2331_00121,bioB,biotin synthase BioB,+,136933,137943
+MIDG2331_RS00610,MIDG2331_00123,cspE,transcription antiterminator/RNA stability regulator CspE,-,138007,138216
+MIDG2331_RS00615,MIDG2331_00124,proQ,RNA chaperone ProQ,+,138579,139127
+MIDG2331_RS00620,MIDG2331_00125,prc,carboxy terminal-processing peptidase,+,139219,141231
+MIDG2331_RS00625,MIDG2331_00126,,"L,D-transpeptidase family protein",+,141328,142893
+MIDG2331_RS00630,MIDG2331_00127,,YcbK family protein,+,143065,143619
+MIDG2331_RS00635,MIDG2331_00128,,MBL fold metallo-hydrolase,+,143637,144266
+MIDG2331_RS00640,MIDG2331_00129,,choline/ethanolamine kinase family protein,-,144269,145018
+MIDG2331_RS00645,MIDG2331_00130,,YcfL family protein,-,145015,145389
+MIDG2331_RS00650,MIDG2331_00131,hinT,purine nucleoside phosphoramidase,-,145391,145756
+MIDG2331_RS00655,MIDG2331_00132,,metal ABC transporter permease,-,145828,146658
+MIDG2331_RS00660,MIDG2331_00133,,metal ABC transporter permease,-,146651,147505
+MIDG2331_RS00665,MIDG2331_00134,rnhB,ribonuclease HII,-,147506,148099
+MIDG2331_RS00670,MIDG2331_00135,rsgA,small ribosomal subunit biogenesis GTPase RsgA,-,148122,149156
+MIDG2331_RS00675,MIDG2331_00137,,transcriptional regulator GcvA,+,149666,150556
+MIDG2331_RS00680,MIDG2331_00138,yjjG,pyrimidine 5'-nucleotidase,+,150556,151236
+MIDG2331_RS00685,MIDG2331_00139,cysB,HTH-type transcriptional regulator CysB,+,151236,152219
+MIDG2331_RS00690,MIDG2331_00140,,hypothetical protein,+,152220,152864
+MIDG2331_RS00695,MIDG2331_00141,ansB,L-asparaginase 2,-,152943,153992
+MIDG2331_RS00700,MIDG2331_00142,pyrG,glutamine hydrolyzing CTP synthase,+,154297,155934
+MIDG2331_RS00705,MIDG2331_00143,,DUF2301 domain-containing membrane protein,+,156034,156540
+MIDG2331_RS00710,MIDG2331_00144,leuD,3-isopropylmalate dehydratase small subunit,-,156586,157188
+MIDG2331_RS00715,MIDG2331_00145,leuC,3-isopropylmalate dehydratase large subunit,-,157199,158608
+MIDG2331_RS00720,MIDG2331_00146,,CdaR family transcriptional regulator,+,158951,160066
+MIDG2331_RS00725,MIDG2331_00147,,GntP family permease,+,160194,161456
+MIDG2331_RS00730,MIDG2331_00148,,glycerate kinase,+,161467,162600
+MIDG2331_RS00735,MIDG2331_00149,,acylphosphatase,+,162619,162891
+MIDG2331_RS00740,MIDG2331_00150,,DUF2813 domain-containing protein,-,162962,164521
+MIDG2331_RS00745,MIDG2331_00151,ppnN,nucleotide 5'-monophosphate nucleosidase PpnN,-,164525,165904
+MIDG2331_RS00750,MIDG2331_00152,dusA,tRNA dihydrouridine(20/20a) synthase DusA,-,165964,166941
+MIDG2331_RS00755,MIDG2331_00153,,ribonucleotide-diphosphate reductase subunit beta,+,167294,168271
+MIDG2331_RS00760,MIDG2331_00154,,ribonucleoside-diphosphate reductase subunit alpha,+,168258,169922
+MIDG2331_RS00765,MIDG2331_00155,nfuA,Fe-S biogenesis protein NfuA,-,170057,170656
+MIDG2331_RS00770,MIDG2331_00156,,Na(+)-translocating NADH-quinone reductase subunit A,+,171111,172460
+MIDG2331_RS00775,MIDG2331_00157,,NADH:ubiquinone reductase (Na(+)-transporting) subunit B,+,172465,173697
+MIDG2331_RS00780,MIDG2331_00158,,Na(+)-translocating NADH-quinone reductase subunit C,+,173700,174473
+MIDG2331_RS00785,MIDG2331_00159,,NADH:ubiquinone reductase (Na(+)-transporting) subunit D,+,174473,175096
+MIDG2331_RS00790,MIDG2331_00160,nqrE,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,+,175098,175694
+MIDG2331_RS00795,MIDG2331_00161,nqrF,NADH:ubiquinone reductase (Na(+)-transporting) subunit F,+,175705,176934
+MIDG2331_RS00800,MIDG2331_00162,,FAD:protein FMN transferase,+,177141,178172
+MIDG2331_RS00805,MIDG2331_00163,nqrM,(Na+)-NQR maturation NqrM,+,178185,178430
+MIDG2331_RS00810,MIDG2331_00164,mnmA,tRNA 2-thiouridine(34) synthase MnmA,+,178661,179830
+MIDG2331_RS00815,MIDG2331_00165,,3-phenylpropionate MFS transporter,-,179903,181057
+MIDG2331_RS00820,MIDG2331_00166,proC,pyrroline-5-carboxylate reductase,-,181054,181872
+MIDG2331_RS00825,MIDG2331_00167,rdgC,recombination-associated protein RdgC,+,182046,182954
+MIDG2331_RS00830,MIDG2331_00168,,beta-phosphoglucomutase family hydrolase,+,182964,183569
+MIDG2331_RS00835,MIDG2331_00169,nrdD,anaerobic ribonucleoside-triphosphate reductase,-,183826,185607
+MIDG2331_RS00840,MIDG2331_00170,nrdG,anaerobic ribonucleoside-triphosphate reductase activating protein,-,185612,186079
+MIDG2331_RS00845,MIDG2331_00171,rsxA,electron transport complex subunit RsxA,+,186461,187042
+MIDG2331_RS00850,MIDG2331_00172,rsxB,electron transport complex subunit RsxB,+,187042,187653
+MIDG2331_RS00855,MIDG2331_00173,rsxC,electron transport complex subunit RsxC,+,187646,189958
+MIDG2331_RS00860,MIDG2331_00174,,trimeric intracellular cation channel family protein,+,189951,190595
+MIDG2331_RS00865,MIDG2331_00175,rsxD,electron transport complex subunit RsxD,+,190615,191661
+MIDG2331_RS00870,MIDG2331_00176,rsxG,electron transport complex subunit RsxG,+,191661,192293
+MIDG2331_RS00875,MIDG2331_00177,,electron transport complex subunit E,+,192305,192991
+MIDG2331_RS00880,MIDG2331_00178,lpxM,lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase,+,193000,193956
+MIDG2331_RS00885,MIDG2331_00179,,amidohydrolase family protein,-,194016,195002
+MIDG2331_RS00890,MIDG2331_00181,thiB,thiamine ABC transporter substrate binding subunit,+,195444,196409
+MIDG2331_RS00895,MIDG2331_00182,dksA,RNA polymerase-binding protein DksA,+,196616,197065
+MIDG2331_RS00900,MIDG2331_00183,pcnB,polynucleotide adenylyltransferase PcnB,+,197208,198740
+MIDG2331_RS00905,MIDG2331_00184,folK,2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase,+,198810,199280
+MIDG2331_RS00910,MIDG2331_00185,,YnbE family lipoprotein,-,199317,199538
+MIDG2331_RS00915,MIDG2331_00186,,YdbH family protein,-,199535,202264
+MIDG2331_RS00920,MIDG2331_00187,,hypothetical protein,-,202264,203088
+MIDG2331_RS00925,MIDG2331_00188,gloA,lactoylglutathione lyase,+,203186,203593
+MIDG2331_RS00930,MIDG2331_00189,rnt,ribonuclease T,+,203733,204389
+MIDG2331_RS00935,MIDG2331_00190,,NRAMP family divalent metal transporter,-,204480,205757
+MIDG2331_RS00940,MIDG2331_00191,tyrA,bifunctional chorismate mutase/prephenate dehydrogenase,-,206333,207454
+MIDG2331_RS00945,MIDG2331_00192,,3-deoxy-7-phosphoheptulonate synthase,-,207567,208628
+MIDG2331_RS00950,MIDG2331_00193,,glycosyltransferase family 9 protein,-,208670,209716
+MIDG2331_RS00955,MIDG2331_00194,pyk,pyruvate kinase,-,209804,211243
+MIDG2331_RS00960,MIDG2331_00195,sixA,phosphohistidine phosphatase SixA,+,211375,211866
+MIDG2331_RS00965,MIDG2331_00196,dusB,tRNA dihydrouridine synthase DusB,+,212089,213051
+MIDG2331_RS00970,MIDG2331_00197,fis,DNA-binding transcriptional regulator Fis,+,213079,213375
+MIDG2331_RS00975,MIDG2331_00198,,sodium-dependent transporter,-,213440,214798
+MIDG2331_RS00980,MIDG2331_00199,,Dam family site-specific DNA-(adenine-N6)-methyltransferase,-,214863,215696
+MIDG2331_RS00985,MIDG2331_00200,aroB,3-dehydroquinate synthase,-,215689,216789
+MIDG2331_RS00990,MIDG2331_00201,aroK,shikimate kinase AroK,-,216863,217384
+MIDG2331_RS00995,MIDG2331_00202,,penicillin-binding protein 1A,-,217646,220213
+MIDG2331_RS01000,MIDG2331_00203,,type IV pilus biogenesis protein PilM,+,220352,221032
+MIDG2331_RS01005,MIDG2331_00204,,hypothetical protein,+,221014,221535
+MIDG2331_RS01010,MIDG2331_00205,,hypothetical protein,+,221634,222065
+MIDG2331_RS01015,MIDG2331_00206,,hypothetical protein,+,222058,222462
+MIDG2331_RS01020,MIDG2331_00207,pilQ,type IV pilus secretin PilQ,+,222474,223772
+MIDG2331_RS01025,MIDG2331_00208,nusB,transcription antitermination factor NusB,+,223898,224311
+MIDG2331_RS01030,MIDG2331_00209,thiL,thiamine-phosphate kinase,+,224376,225341
+MIDG2331_RS01035,MIDG2331_00210,,phosphatidylglycerophosphatase A family protein,+,225354,225827
+MIDG2331_RS01040,MIDG2331_00211,,LysE family transporter,+,225840,226466
+MIDG2331_RS01045,MIDG2331_00212,,TrmH family RNA methyltransferase,-,226514,227551
+MIDG2331_RS01050,MIDG2331_00213,suhB,inositol-1-monophosphatase,+,227717,228529
+MIDG2331_RS01055,MIDG2331_00214,dxs,1-deoxy-D-xylulose-5-phosphate synthase,+,228650,230503
+MIDG2331_RS01070,MIDG2331_00217,glyA,serine hydroxymethyltransferase,-,231971,233236
+MIDG2331_RS01075,MIDG2331_00218,,NAD(+) kinase,-,233467,234354
+MIDG2331_RS01080,MIDG2331_00219,cas3f,type I-F CRISPR-associated helicase Cas3f,-,234445,237792
+MIDG2331_RS01085,MIDG2331_00220,cas1f,type I-F CRISPR-associated endonuclease Cas1f,-,237789,238745
+MIDG2331_RS01090,MIDG2331_00221,cas6f,type I-F CRISPR-associated endoribonuclease Cas6/Csy4,-,240151,240720
+MIDG2331_RS01095,MIDG2331_00222,csy3,type I-F CRISPR-associated protein Csy3,-,240723,241718
+MIDG2331_RS01100,MIDG2331_00223,csy2,type I-F CRISPR-associated protein Csy2,-,241720,242679
+MIDG2331_RS01105,MIDG2331_00224,csy1,type I-F CRISPR-associated protein Csy1,-,242676,244025
+MIDG2331_RS01110,MIDG2331_00225,thrS,threonine--tRNA ligase,+,244475,246406
+MIDG2331_RS01115,MIDG2331_00226,,CsgG/HfaB family protein,+,246548,247222
+MIDG2331_RS01120,MIDG2331_00227,,DUF4810 domain-containing protein,+,247232,247579
+MIDG2331_RS01125,MIDG2331_00228,,DUF799 domain-containing protein,+,247591,248250
+MIDG2331_RS01130,MIDG2331_00229,infC,translation initiation factor IF-3,+,248465,249007
+MIDG2331_RS01135,MIDG2331_00230,rpmI,50S ribosomal protein L35,+,249256,249453
+MIDG2331_RS01140,MIDG2331_00231,rplT,50S ribosomal protein L20,+,249521,249874
+MIDG2331_RS01145,MIDG2331_00232,,hypothetical protein,+,249923,250459
+MIDG2331_RS01150,MIDG2331_00233,,hypothetical protein,+,250492,250785
+MIDG2331_RS01155,MIDG2331_00234,paeA,polyamine export protein PaeA,-,250842,252137
+MIDG2331_RS01160,MIDG2331_00235,,TIGR01621 family pseudouridine synthase,-,252181,252831
+MIDG2331_RS01165,MIDG2331_00236,,histidine phosphatase family protein,+,252881,253513
+MIDG2331_RS01170,MIDG2331_00237,ruvX,Holliday junction resolvase RuvX,-,253580,253993
+MIDG2331_RS01175,MIDG2331_00238,,YqgE/AlgH family protein,-,254046,254606
+MIDG2331_RS01180,MIDG2331_00239,rsmE,16S rRNA (uracil(1498)-N(3))-methyltransferase,-,254606,255337
+MIDG2331_RS01185,MIDG2331_00240,,YajG family lipoprotein,-,255512,256102
+MIDG2331_RS01190,MIDG2331_00241,,BolA family protein,+,256231,256542
+MIDG2331_RS01200,MIDG2331_00243,,copper resistance protein NlpE,-,256935,257309
+MIDG2331_RS01205,,,DciA family protein,-,257329,257637
+MIDG2331_RS01210,MIDG2331_00244,secM,secA translation cis-regulator SecM,+,257740,258066
+MIDG2331_RS01215,MIDG2331_00245,secA,preprotein translocase subunit SecA,+,258175,260892
+MIDG2331_RS01220,MIDG2331_00246,,glycosyltransferase family 9 protein,+,261022,262209
+MIDG2331_RS01225,MIDG2331_00247,mutT,8-oxo-dGTP diphosphatase MutT,+,262206,262604
+MIDG2331_RS01230,MIDG2331_00248,argC,N-acetyl-gamma-glutamyl-phosphate reductase,+,262839,263783
+MIDG2331_RS01235,MIDG2331_00249,argB,acetylglutamate kinase,+,263813,264667
+MIDG2331_RS01240,MIDG2331_00250,,aspartate aminotransferase family protein,+,264681,265862
+MIDG2331_RS01245,MIDG2331_00251,,transferrin-binding protein-like solute binding protein,+,266076,267785
+MIDG2331_RS01265,MIDG2331_00255,rho,transcription termination factor Rho,-,270635,271897
+MIDG2331_RS01270,MIDG2331_00256,cysK,cysteine synthase A,-,272095,273045
+MIDG2331_RS01275,MIDG2331_00257,thrB,homoserine kinase,-,273257,274207
+MIDG2331_RS01280,MIDG2331_00258,thrA,bifunctional aspartate kinase/homoserine dehydrogenase I,-,274207,276663
+MIDG2331_RS01285,MIDG2331_00259,sodA,superoxide dismutase [Mn],+,277072,277713
+MIDG2331_RS01290,MIDG2331_00260,alr,alanine racemase,-,277801,278925
+MIDG2331_RS01295,MIDG2331_00261,recD,exodeoxyribonuclease V subunit alpha,+,279046,280983
+MIDG2331_RS01320,MIDG2331_00266,,aminoacyl-histidine dipeptidase,-,286852,288306
+MIDG2331_RS01325,MIDG2331_00267,gpt,xanthine phosphoribosyltransferase,+,288479,288952
+MIDG2331_RS01330,MIDG2331_00268,gmk,guanylate kinase,+,289036,289656
+MIDG2331_RS01335,MIDG2331_00269,tdeA,toxin/drug exporter TdeA,+,289758,291152
+MIDG2331_RS01340,MIDG2331_00270,,RnfH family protein,-,291200,291529
+MIDG2331_RS01345,MIDG2331_00271,,type II toxin-antitoxin system RatA family toxin,-,291489,291923
+MIDG2331_RS01350,MIDG2331_00272,modC,molybdenum ABC transporter ATP-binding protein ModC,-,291971,293026
+MIDG2331_RS01355,MIDG2331_00273,modB,molybdate ABC transporter permease subunit,-,293030,293719
+MIDG2331_RS01360,MIDG2331_00274,modA,molybdate ABC transporter substrate-binding protein,-,293779,294537
+MIDG2331_RS01365,MIDG2331_00275,,ABC transporter permease,-,294633,295394
+MIDG2331_RS01370,MIDG2331_00276,,ABC transporter ATP-binding protein,-,295398,296306
+MIDG2331_RS01375,MIDG2331_00277,dnaX,DNA polymerase III subunit gamma/tau,-,296306,298372
+MIDG2331_RS01380,MIDG2331_00278,apt,adenine phosphoribosyltransferase,-,298421,298960
+MIDG2331_RS01385,MIDG2331_00279,,helix-turn-helix transcriptional regulator,+,299161,299793
+MIDG2331_RS01390,MIDG2331_00280,,RidA family protein,+,299793,300155
+MIDG2331_RS01395,MIDG2331_00281,,threonine synthase,+,300166,301260
+MIDG2331_RS01400,MIDG2331_00282,,YbaK/prolyl-tRNA synthetase associated domain-containing protein,+,301275,301766
+MIDG2331_RS01405,MIDG2331_00283,,metal ABC transporter ATP-binding protein,-,301877,302632
+MIDG2331_RS01410,MIDG2331_00284,,metal ABC transporter substrate-binding protein,-,302634,303530
+MIDG2331_RS01415,MIDG2331_00285,,TusE/DsrC/DsvC family sulfur relay protein,-,303597,303932
+MIDG2331_RS01420,MIDG2331_00286,,Bax inhibitor-1 family protein,-,303984,304649
+MIDG2331_RS01425,MIDG2331_00287,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,+,304831,305382
+MIDG2331_RS01430,MIDG2331_00288,,TonB-dependent receptor domain-containing protein,+,305502,307472
+MIDG2331_RS01435,MIDG2331_00289,uvrC,excinuclease ABC subunit UvrC,+,307625,309457
+MIDG2331_RS01440,MIDG2331_00290,,TatD family hydrolase,+,309526,310278
+MIDG2331_RS01445,MIDG2331_00291,rep,DNA helicase Rep,-,310415,312433
+MIDG2331_RS01450,MIDG2331_00292,potA,spermidine/putrescine ABC transporter ATP-binding protein PotA,+,312767,313882
+MIDG2331_RS01455,MIDG2331_00293,potB,spermidine/putrescine ABC transporter permease PotB,+,313869,314735
+MIDG2331_RS01460,MIDG2331_00294,potC,spermidine/putrescine ABC transporter permease PotC,+,314735,315502
+MIDG2331_RS01465,MIDG2331_00295,ruvA,Holliday junction branch migration protein RuvA,+,315639,316244
+MIDG2331_RS01470,MIDG2331_00296,ruvB,Holliday junction branch migration DNA helicase RuvB,+,316263,317267
+MIDG2331_RS01475,MIDG2331_00297,ubiG,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,-,317324,318028
+MIDG2331_RS01480,MIDG2331_00298,gyrA,DNA topoisomerase (ATP-hydrolyzing) subunit A,+,318208,320898
+MIDG2331_RS01485,MIDG2331_00299,,type I restriction-modification system subunit M,+,320994,322544
+MIDG2331_RS01490,MIDG2331_00300,,virulence RhuM family protein,+,322541,323542
+MIDG2331_RS01495,MIDG2331_00301,,Abi family protein,+,323884,324795
+MIDG2331_RS01500,MIDG2331_00302,,restriction endonuclease subunit S,+,324963,326177
+MIDG2331_RS01505,MIDG2331_00303,,AAA family ATPase,+,326187,327503
+MIDG2331_RS01510,MIDG2331_00304,,type I restriction endonuclease subunit R,+,327676,330804
+MIDG2331_RS01515,MIDG2331_00305,,ABC transporter ATP-binding protein,+,330823,332766
+MIDG2331_RS01520,MIDG2331_00306,tcdA,tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA,+,332766,333530
+MIDG2331_RS01525,MIDG2331_00307,,DUF5339 domain-containing protein,-,333609,333941
+MIDG2331_RS01530,MIDG2331_00308,,cytochrome ubiquinol oxidase subunit I,+,334398,335948
+MIDG2331_RS01535,MIDG2331_00309,cydB,cytochrome d ubiquinol oxidase subunit II,+,335962,337098
+MIDG2331_RS01540,MIDG2331_00311,ybgE,cyd operon protein YbgE,+,337221,337523
+MIDG2331_RS01545,MIDG2331_00312,ybgC,tol-pal system-associated acyl-CoA thioesterase,+,337666,338055
+MIDG2331_RS01550,MIDG2331_00313,tolQ,protein TolQ,+,338090,338770
+MIDG2331_RS01555,MIDG2331_00314,tolR,colicin uptake protein TolR,+,338849,339289
+MIDG2331_RS01560,MIDG2331_00315,tolA,cell envelope integrity protein TolA,+,339305,340696
+MIDG2331_RS01565,MIDG2331_00316,tolB,Tol-Pal system beta propeller repeat protein TolB,+,340714,341994
+MIDG2331_RS01570,MIDG2331_00317,pal,peptidoglycan-associated lipoprotein Pal,+,342021,342479
+MIDG2331_RS01575,MIDG2331_00318,,DMT family transporter,+,342575,343462
+MIDG2331_RS01580,MIDG2331_00319,djlA,co-chaperone DjlA,+,343542,344402
+MIDG2331_RS01585,MIDG2331_00320,dusC,tRNA dihydrouridine(16) synthase DusC,+,344487,345449
+MIDG2331_RS01590,MIDG2331_00321,,YcjF family protein,+,345501,346547
+MIDG2331_RS01595,MIDG2331_00322,,ABC transporter ATP-binding protein,-,346735,348651
+MIDG2331_RS01600,MIDG2331_00323,,hypothetical protein,+,348812,349054
+MIDG2331_RS01605,MIDG2331_00325,moeA,molybdopterin molybdotransferase MoeA,+,349242,350483
+MIDG2331_RS01610,MIDG2331_00326,moeB,molybdopterin-synthase adenylyltransferase MoeB,+,350493,351239
+MIDG2331_RS01620,MIDG2331_00328,rlmD,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,-,351636,352964
+MIDG2331_RS01625,MIDG2331_00329,,anti-phage deoxyguanosine triphosphatase,+,353022,354347
+MIDG2331_RS01630,MIDG2331_00330,rapA,RNA polymerase-associated protein RapA,+,354519,357428
+MIDG2331_RS01635,MIDG2331_00331,rluA,bifunctional tRNA pseudouridine(32) synthase/23S rRNA pseudouridine(746) synthase RluA,+,357544,358212
+MIDG2331_RS01640,MIDG2331_00332,ampD,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD",-,358408,358956
+MIDG2331_RS01645,MIDG2331_00333,,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ,+,359077,359919
+MIDG2331_RS01650,MIDG2331_00334,pyrE,orotate phosphoribosyltransferase,+,360005,360646
+MIDG2331_RS01655,MIDG2331_00335,,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,+,360785,361873
+MIDG2331_RS01660,MIDG2331_00336,metC,cystathionine beta-lyase,-,361950,363140
+MIDG2331_RS01665,MIDG2331_00337,dsbB,disulfide bond formation protein DsbB,-,363217,363756
+MIDG2331_RS01670,MIDG2331_00338,nhaB,sodium/proton antiporter NhaB,-,363852,365393
+MIDG2331_RS01675,MIDG2331_00339,fadR,fatty acid metabolism transcriptional regulator FadR,+,365558,366286
+MIDG2331_RS01680,MIDG2331_00340,,PhoH family protein,+,366295,367365
+MIDG2331_RS01685,MIDG2331_00341,,AEC family transporter,-,367404,368450
+MIDG2331_RS01690,MIDG2331_00342,prfB,peptide chain release factor 2,-,368451,369549
+MIDG2331_RS01695,MIDG2331_00343,selD,"selenide, water dikinase SelD",+,369690,370733
+MIDG2331_RS01700,MIDG2331_00344,,NUDIX hydrolase,+,370738,371193
+MIDG2331_RS01705,MIDG2331_00345,ubiH,2-octaprenyl-6-methoxyphenyl hydroxylase,+,371203,372402
+MIDG2331_RS01710,MIDG2331_00346,,hypothetical protein,-,372432,372908
+MIDG2331_RS01715,MIDG2331_00347,,hypothetical protein,-,372965,373582
+MIDG2331_RS01720,MIDG2331_00348,,hypothetical protein,-,373663,374142
+MIDG2331_RS01725,MIDG2331_00349,,FAD-dependent monooxygenase,-,374283,375464
+MIDG2331_RS01730,MIDG2331_00350,rapZ,RNase adapter RapZ,-,375552,376412
+MIDG2331_RS01735,MIDG2331_00351,,PTS sugar transporter subunit IIA,-,376431,376943
+MIDG2331_RS01740,MIDG2331_00352,lptB,LPS export ABC transporter ATP-binding protein,-,376993,377718
+MIDG2331_RS01745,MIDG2331_00353,lptA,lipopolysaccharide transport periplasmic protein LptA,-,377728,378231
+MIDG2331_RS01750,MIDG2331_00354,lptC,LPS export ABC transporter periplasmic protein LptC,-,378256,378852
+MIDG2331_RS01755,MIDG2331_00355,ppc,phosphoenolpyruvate carboxylase,-,379012,381651
+MIDG2331_RS01760,MIDG2331_00356,,TPM domain-containing protein,-,381867,382694
+MIDG2331_RS01765,MIDG2331_00357,,TPM domain-containing protein,-,382691,383140
+MIDG2331_RS01770,MIDG2331_00358,,LemA family protein,-,383207,383791
+MIDG2331_RS01775,MIDG2331_00359,,fructose-specific PTS transporter subunit EIIC,-,383944,385605
+MIDG2331_RS01780,MIDG2331_00360,fruK,1-phosphofructokinase,-,385687,386634
+MIDG2331_RS01785,MIDG2331_00361,fruB,fused PTS fructose transporter subunit IIA/HPr protein,-,386649,388157
+MIDG2331_RS01790,MIDG2331_00362,glgB,"1,4-alpha-glucan branching protein GlgB",+,388418,390739
+MIDG2331_RS01795,MIDG2331_00363,glgX,glycogen debranching protein GlgX,+,390759,392744
+MIDG2331_RS01800,MIDG2331_00364,glgC,glucose-1-phosphate adenylyltransferase,+,392760,394076
+MIDG2331_RS01805,MIDG2331_00365,glgA,glycogen synthase GlgA,+,394179,395615
+MIDG2331_RS01810,MIDG2331_00366,,glycogen/starch/alpha-glucan phosphorylase,+,395645,398149
+MIDG2331_RS01815,MIDG2331_00367,ndk,nucleoside-diphosphate kinase,-,398261,398677
+MIDG2331_RS01820,MIDG2331_00368,metG,methionine--tRNA ligase,-,398736,400784
+MIDG2331_RS01825,MIDG2331_00369,menC,o-succinylbenzoate synthase,+,400903,401913
+MIDG2331_RS01830,MIDG2331_00371,rsuA,16S rRNA pseudouridine(516) synthase RsuA,+,402227,402919
+MIDG2331_RS01835,MIDG2331_00372,,Bcr/CflA family multidrug efflux MFS transporter,+,402919,404115
+MIDG2331_RS01840,MIDG2331_00373,,hypothetical protein,-,404161,404547
+MIDG2331_RS01845,MIDG2331_00374,,TorD/DmsD family molecular chaperone,-,404618,405187
+MIDG2331_RS01850,MIDG2331_00375,nfo,deoxyribonuclease IV,+,405245,406087
+MIDG2331_RS01855,MIDG2331_00376,,NlpC/P60 family protein,+,406208,406804
+MIDG2331_RS01860,MIDG2331_00377,,LexA family protein,-,406853,407308
+MIDG2331_RS01865,MIDG2331_00378,grcA,autonomous glycyl radical cofactor GrcA,-,407534,407920
+MIDG2331_RS01870,MIDG2331_00379,ung,uracil-DNA glycosylase,+,408117,408803
+MIDG2331_RS01875,MIDG2331_00380,,VirK/YbjX family protein,-,408901,409773
+MIDG2331_RS01880,MIDG2331_00381,,S8 family serine peptidase,-,409868,412666
+MIDG2331_RS01885,MIDG2331_00382,hrpA,ATP-dependent RNA helicase HrpA,-,412891,416790
+MIDG2331_RS01890,MIDG2331_00383,,DUF441 domain-containing protein,-,416926,417378
+MIDG2331_RS01895,MIDG2331_00384,grpE,nucleotide exchange factor GrpE,-,417575,418171
+MIDG2331_RS01900,MIDG2331_00385,,extracellular solute-binding protein,+,418416,419498
+MIDG2331_RS01905,MIDG2331_00386,,MATE family efflux transporter,+,419642,421033
+MIDG2331_RS01910,MIDG2331_00387,recB,exodeoxyribonuclease V subunit beta,+,421049,424657
+MIDG2331_RS01915,MIDG2331_00388,lnt,apolipoprotein N-acyltransferase,-,424735,426246
+MIDG2331_RS01920,MIDG2331_00389,corC,CNNM family magnesium/cobalt transport protein CorC,-,426328,427221
+MIDG2331_RS01925,MIDG2331_00390,,curli polymerization inhibitor CsgI-related protein,+,427391,427993
+MIDG2331_RS01930,MIDG2331_00391,,MIP/aquaporin family protein,+,428229,429011
+MIDG2331_RS01935,MIDG2331_00392,glpK,glycerol kinase GlpK,+,429046,430557
+MIDG2331_RS01940,MIDG2331_00393,lon,endopeptidase La,-,430678,433086
+MIDG2331_RS01945,MIDG2331_00394,glpT,glycerol-3-phosphate transporter,-,433232,434677
+MIDG2331_RS01950,MIDG2331_00395,glpQ,glycerophosphodiester phosphodiesterase,-,434880,435968
+MIDG2331_RS01955,MIDG2331_00396,glpA,anaerobic glycerol-3-phosphate dehydrogenase subunit A,+,436220,437905
+MIDG2331_RS01960,MIDG2331_00397,glpB,glycerol-3-phosphate dehydrogenase subunit GlpB,+,437895,439181
+MIDG2331_RS01965,MIDG2331_00398,glpC,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpC,+,439178,440452
+MIDG2331_RS01970,MIDG2331_00400,ribD,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,+,440762,441856
+MIDG2331_RS01975,MIDG2331_00401,ribE,riboflavin synthase,+,441979,442626
+MIDG2331_RS01980,MIDG2331_00402,,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",+,442687,443892
+MIDG2331_RS01985,MIDG2331_00403,ribH,"6,7-dimethyl-8-ribityllumazine synthase",+,444003,444464
+MIDG2331_RS01990,MIDG2331_00404,greB,transcription elongation factor GreB,-,444555,445043
+MIDG2331_RS01995,MIDG2331_00405,,KpsF/GutQ family sugar-phosphate isomerase,-,445053,445988
+MIDG2331_RS02000,MIDG2331_00406,pepB,aminopeptidase PepB,-,446116,447399
+MIDG2331_RS02005,MIDG2331_00407,,"5'-nucleotidase, lipoprotein e(P4) family",-,447523,448338
+MIDG2331_RS02010,MIDG2331_00408,,bile acid:sodium symporter family protein,+,448511,449449
+MIDG2331_RS02015,MIDG2331_00409,,efflux RND transporter periplasmic adaptor subunit,-,449529,450710
+MIDG2331_RS02020,MIDG2331_00410,,Cof-type HAD-IIB family hydrolase,-,450807,451622
+MIDG2331_RS02025,MIDG2331_00411,leuA,2-isopropylmalate synthase,+,452219,453760
+MIDG2331_RS02030,MIDG2331_00412,rpoE,RNA polymerase sigma factor RpoE,+,454103,454681
+MIDG2331_RS02035,MIDG2331_00413,,sigma-E factor negative regulatory protein,+,454701,455324
+MIDG2331_RS02040,MIDG2331_00414,,SoxR reducing system RseC family protein,+,455549,455977
+MIDG2331_RS02045,MIDG2331_00415,fadD,long-chain-fatty-acid--CoA ligase FadD,+,455989,457680
+MIDG2331_RS02050,MIDG2331_00416,upp,uracil phosphoribosyltransferase,+,457747,458373
+MIDG2331_RS02055,MIDG2331_00417,rsmA,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA,-,458480,459349
+MIDG2331_RS02060,MIDG2331_00418,,peptidylprolyl isomerase,-,459415,460365
+MIDG2331_RS02065,MIDG2331_00419,pyrR,bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR,-,460446,460985
+MIDG2331_RS02070,MIDG2331_00420,hldE,bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE,-,461001,462431
+MIDG2331_RS02075,MIDG2331_00421,der,ribosome biogenesis GTPase Der,-,462545,464065
+MIDG2331_RS02080,MIDG2331_00422,hemA,glutamyl-tRNA reductase,-,464223,465533
+MIDG2331_RS02085,MIDG2331_00423,relA,GTP diphosphokinase,+,465811,468018
+MIDG2331_RS02090,MIDG2331_00424,ispC,1-deoxy-D-xylulose-5-phosphate reductoisomerase,+,468092,469282
+MIDG2331_RS02095,MIDG2331_00425,,"IS256 family transposase, variant Zn-binding type",-,469367,470290
+MIDG2331_RS02100,MIDG2331_00426,lpxA,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,-,470440,471234
+MIDG2331_RS02105,MIDG2331_00427,fabZ,3-hydroxyacyl-ACP dehydratase FabZ,-,471262,471726
+MIDG2331_RS02110,MIDG2331_00428,lpxD,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,-,471795,472820
+MIDG2331_RS02115,MIDG2331_00429,,OmpH/Skp family outer membrane protein,-,472820,473626
+MIDG2331_RS02120,MIDG2331_00430,bamA,outer membrane protein assembly factor BamA,-,473742,476123
+MIDG2331_RS02125,MIDG2331_00431,rseP,RIP metalloprotease RseP,-,476185,477498
+MIDG2331_RS02130,MIDG2331_00432,,phosphatidate cytidylyltransferase,-,477505,478374
+MIDG2331_RS02135,MIDG2331_00433,,isoprenyl transferase,-,478399,479112
+MIDG2331_RS02140,MIDG2331_00434,gloB,hydroxyacylglutathione hydrolase,-,479285,479992
+MIDG2331_RS02145,MIDG2331_00435,nagK,N-acetylglucosamine kinase,-,480051,480968
+MIDG2331_RS02150,MIDG2331_00436,,phosphatase PAP2 family protein,-,480971,481675
+MIDG2331_RS02155,MIDG2331_00437,yhbY,ribosome assembly RNA-binding protein YhbY,-,481767,482084
+MIDG2331_RS02160,MIDG2331_00438,,glycosyltransferase family 2 protein,+,482206,482964
+MIDG2331_RS02165,MIDG2331_00439,,D-alanyl-D-alanine carboxypeptidase family protein,-,483027,483848
+MIDG2331_RS02170,MIDG2331_00440,,glycosyltransferase family 9 protein,-,483931,484968
+MIDG2331_RS02175,MIDG2331_00441,argG,argininosuccinate synthase,+,485212,486543
+MIDG2331_RS02180,MIDG2331_00442,rnhA,ribonuclease HI,+,486665,487126
+MIDG2331_RS02185,MIDG2331_00443,,CvpA family protein,+,487283,487786
+MIDG2331_RS02190,MIDG2331_00444,purF,amidophosphoribosyltransferase,+,487800,489317
+MIDG2331_RS02195,MIDG2331_00445,,DUF5358 family protein,-,489386,489844
+MIDG2331_RS02200,MIDG2331_00446,gdhA,NADP-specific glutamate dehydrogenase,-,489940,491280
+MIDG2331_RS02205,MIDG2331_00447,bamE,outer membrane protein assembly factor BamE,-,491584,491928
+MIDG2331_RS02210,MIDG2331_00448,yejK,nucleoid-associated protein YejK,-,491999,493000
+MIDG2331_RS02215,MIDG2331_00449,,RidA family protein,+,493093,493482
+MIDG2331_RS02220,MIDG2331_00450,pgeF,peptidoglycan editing factor PgeF,+,493510,494247
+MIDG2331_RS02230,MIDG2331_00452,,YceK/YidQ family lipoprotein,-,494467,494697
+MIDG2331_RS02235,MIDG2331_00453,leuB,3-isopropylmalate dehydrogenase,+,494812,495894
+MIDG2331_RS02240,MIDG2331_00454,msrB,peptide-methionine (R)-S-oxide reductase MsrB,-,496018,496413
+MIDG2331_RS02245,MIDG2331_00455,gap,type I glyceraldehyde-3-phosphate dehydrogenase,+,496636,497640
+MIDG2331_RS02250,MIDG2331_00457,,rod shape-determining protein,+,497836,498888
+MIDG2331_RS02255,MIDG2331_00458,mreC,rod shape-determining protein MreC,+,499005,500054
+MIDG2331_RS02260,MIDG2331_00459,mreD,rod shape-determining protein MreD,+,500054,500542
+MIDG2331_RS02265,MIDG2331_00460,,replication-associated recombination protein A,+,500555,501895
+MIDG2331_RS02270,MIDG2331_00461,znuB,zinc ABC transporter permease subunit ZnuB,+,501976,502761
+MIDG2331_RS02275,MIDG2331_00462,,class II glutamine amidotransferase,+,502940,503737
+MIDG2331_RS02280,MIDG2331_00463,metX,homoserine O-acetyltransferase MetX,-,503817,504893
+MIDG2331_RS02285,MIDG2331_00464,,SanA/YdcF family protein,+,505185,505874
+MIDG2331_RS02290,MIDG2331_00465,,YadA-like family protein,+,506121,516629
+MIDG2331_RS02295,MIDG2331_00466,,LutC/YkgG family protein,-,516939,517637
+MIDG2331_RS02300,MIDG2331_00467,,LutB/LldF family L-lactate oxidation iron-sulfur protein,-,517763,519172
+MIDG2331_RS02305,MIDG2331_00468,,(Fe-S)-binding protein,-,519182,519907
+MIDG2331_RS02310,MIDG2331_00469,,L-lactate permease,-,520077,521672
+MIDG2331_RS02315,MIDG2331_00470,,H-NS family histone-like protein,-,522138,522545
+MIDG2331_RS02320,MIDG2331_00472,,Na+/H+ antiporter NhaC family protein,+,523102,524619
+MIDG2331_RS02325,MIDG2331_00473,,substrate-binding domain-containing protein,+,524825,525796
+MIDG2331_RS02330,MIDG2331_00474,sucD,succinate--CoA ligase subunit alpha,-,525931,526803
+MIDG2331_RS02335,MIDG2331_00475,sucC,ADP-forming succinate--CoA ligase subunit beta,-,526806,527972
+MIDG2331_RS02340,MIDG2331_00476,,VirK/YbjX family protein,-,528116,528982
+MIDG2331_RS02345,MIDG2331_00477,odhB,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,-,529125,530354
+MIDG2331_RS02350,MIDG2331_00478,sucA,2-oxoglutarate dehydrogenase E1 component,-,530474,533284
+MIDG2331_RS02355,MIDG2331_00479,znuC,zinc ABC transporter ATP-binding protein ZnuC,-,533527,534327
+MIDG2331_RS02360,MIDG2331_00480,mepM,murein DD-endopeptidase MepM,+,534531,536021
+MIDG2331_RS02365,MIDG2331_00481,dsbC,bifunctional protein-disulfide isomerase/oxidoreductase DsbC,+,536040,536735
+MIDG2331_RS02370,MIDG2331_00482,recJ,single-stranded-DNA-specific exonuclease RecJ,+,536827,538542
+MIDG2331_RS02375,MIDG2331_00483,,OmpA family protein,+,538676,539527
+MIDG2331_RS02380,MIDG2331_00484,,pyridoxal phosphatase,+,539609,540427
+MIDG2331_RS02385,MIDG2331_00485,narQ,nitrate/nitrite two-component system sensor histidine kinase NarQ,+,540427,542142
+MIDG2331_RS02390,MIDG2331_00486,,GNAT family N-acetyltransferase,+,542165,542683
+MIDG2331_RS02395,MIDG2331_00487,rdgB,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,+,542724,543320
+MIDG2331_RS02400,MIDG2331_00488,,YbjQ family protein,+,543348,543668
+MIDG2331_RS02405,MIDG2331_00489,,formate--tetrahydrofolate ligase,-,543774,545444
+MIDG2331_RS02410,MIDG2331_00490,,YcgN family cysteine cluster protein,+,545554,546000
+MIDG2331_RS02415,MIDG2331_00491,,SDR family oxidoreductase,+,546090,546839
+MIDG2331_RS02420,MIDG2331_00492,trpB,tryptophan synthase subunit beta,+,547025,548215
+MIDG2331_RS02425,MIDG2331_00493,trpA,tryptophan synthase subunit alpha,+,548217,549026
+MIDG2331_RS02430,MIDG2331_00494,,hypothetical protein,-,549103,549396
+MIDG2331_RS02435,MIDG2331_00495,polA,DNA polymerase I,+,549870,552743
+MIDG2331_RS02440,MIDG2331_00496,lolA,outer membrane lipoprotein periplasmic chaperone LolA,+,552901,553542
+MIDG2331_RS02445,MIDG2331_00497,trpR,trp operon repressor,+,553617,553925
+MIDG2331_RS02450,MIDG2331_00498,mtgA,monofunctional biosynthetic peptidoglycan transglycosylase,+,553954,554715
+MIDG2331_RS02455,MIDG2331_00499,,carboxymuconolactone decarboxylase family protein,-,554785,555120
+MIDG2331_RS02460,MIDG2331_00500,,SLAC1 anion channel family protein,-,555147,556151
+MIDG2331_RS02465,MIDG2331_00501,,DUF5368 family protein,-,556263,556502
+MIDG2331_RS02470,MIDG2331_00502,,NAD(P)/FAD-dependent oxidoreductase,-,556513,557856
+MIDG2331_RS02475,MIDG2331_00503,,YgaP family membrane protein,-,557901,558113
+MIDG2331_RS02480,MIDG2331_00504,,ArsR/SmtB family transcription factor,+,558268,558555
+MIDG2331_RS02485,MIDG2331_00505,nfsA,oxygen-insensitive NADPH nitroreductase,+,558630,559349
+MIDG2331_RS02490,MIDG2331_00506,,ATP-grasp domain-containing protein,+,559346,560260
+MIDG2331_RS02495,MIDG2331_00507,,YdcF family protein,-,560295,561053
+MIDG2331_RS02500,MIDG2331_00508,,malic enzyme-like NAD(P)-binding protein,+,561370,562638
+MIDG2331_RS02505,MIDG2331_00509,rplY,50S ribosomal protein L25,+,562824,563111
+MIDG2331_RS02510,MIDG2331_00511,,DUF1007 family protein,+,563690,564331
+MIDG2331_RS02515,MIDG2331_00512,,nickel/cobalt transporter,+,564322,565317
+MIDG2331_RS02520,MIDG2331_00513,,alanine/glycine:cation symporter family protein,+,565417,566865
+MIDG2331_RS02535,MIDG2331_00517,,ABC transporter permease,+,567979,568728
+MIDG2331_RS02540,MIDG2331_00518,,HesA/MoeB/ThiF family protein,+,568772,569473
+MIDG2331_RS02550,MIDG2331_00522,thiH,2-iminoacetate synthase ThiH,+,570272,571417
+MIDG2331_RS02555,MIDG2331_00523,tenA,thiaminase II,+,571423,572094
+MIDG2331_RS02560,MIDG2331_00524,,ABC transporter substrate-binding protein,+,572114,573061
+MIDG2331_RS02565,MIDG2331_00526,thiD,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,+,573086,573661
+MIDG2331_RS02570,MIDG2331_00527,thiE,thiamine phosphate synthase,+,573672,574112
+MIDG2331_RS02575,MIDG2331_00528,lepA,translation elongation factor 4,+,574290,576083
+MIDG2331_RS02580,MIDG2331_00529,lepB,signal peptidase I,+,576188,577147
+MIDG2331_RS02585,MIDG2331_00530,rnc,ribonuclease III,+,577244,577915
+MIDG2331_RS02590,MIDG2331_00531,era,GTPase Era,+,577985,578899
+MIDG2331_RS02595,MIDG2331_00532,recO,DNA repair protein RecO,+,578911,579633
+MIDG2331_RS02600,MIDG2331_00533,,Flp pilus assembly protein,-,579727,581316
+MIDG2331_RS02605,MIDG2331_00534,tadF,tight adherence pilus pseudopilin TadF,-,581340,581936
+MIDG2331_RS02610,MIDG2331_00535,,TadE/TadG family type IV pilus assembly protein,-,581908,582393
+MIDG2331_RS02615,MIDG2331_00536,,tetratricopeptide repeat protein,-,582396,583148
+MIDG2331_RS02620,MIDG2331_00537,,type II secretion system F family protein,-,583138,583983
+MIDG2331_RS02625,MIDG2331_00538,,type II secretion system F family protein,-,583983,584870
+MIDG2331_RS02630,MIDG2331_00539,,CpaF family protein,-,584870,586147
+MIDG2331_RS02635,MIDG2331_00540,,Flp operon protein D,-,586156,587283
+MIDG2331_RS02640,MIDG2331_00541,,Rough colony protein B,-,587446,587949
+MIDG2331_RS02645,MIDG2331_00542,,type II and III secretion system protein family protein,-,587946,589334
+MIDG2331_RS02650,MIDG2331_00543,,SAF domain-containing protein,-,589324,590142
+MIDG2331_RS02655,MIDG2331_00544,,A24 family peptidase,-,590169,590597
+MIDG2331_RS02660,MIDG2331_00545,,Flp family type IVb pilin,-,590641,590838
+MIDG2331_RS02665,MIDG2331_00546,,Flp family type IVb pilin,-,590885,591124
+MIDG2331_RS02670,MIDG2331_00547,rhlB,ATP-dependent RNA helicase RhlB,+,591722,592942
+MIDG2331_RS02675,MIDG2331_00548,,hypothetical protein,+,593060,593482
+MIDG2331_RS02680,MIDG2331_00549,,helicase HerA-like C-terminal domain-containing protein,+,593533,595017
+MIDG2331_RS02685,MIDG2331_00550,,ABC transporter substrate-binding protein,+,595217,596248
+MIDG2331_RS02690,MIDG2331_00551,,ABC transporter permease,+,596380,598380
+MIDG2331_RS02695,MIDG2331_00552,,TonB-dependent siderophore receptor,+,598619,600756
+MIDG2331_RS02705,MIDG2331_00554,,ABC transporter ATP-binding protein/permease,+,600901,602503
+MIDG2331_RS02710,MIDG2331_00556,rpsB,30S ribosomal protein S2,+,602768,603484
+MIDG2331_RS02715,MIDG2331_00557,tsf,translation elongation factor Ts,+,603580,604431
+MIDG2331_RS02720,MIDG2331_00558,,phosphoethanolamine transferase,-,604561,606114
+MIDG2331_RS02725,MIDG2331_00559,pyrH,UMP kinase,+,606226,606939
+MIDG2331_RS02730,MIDG2331_00560,frr,ribosome recycling factor,+,607123,607680
+MIDG2331_RS02735,MIDG2331_00561,pdxR,MocR-like pyridoxine biosynthesis transcription factor PdxR,-,607758,609146
+MIDG2331_RS02740,MIDG2331_00562,pdxS,pyridoxal 5'-phosphate synthase lyase subunit PdxS,+,609245,610132
+MIDG2331_RS02745,MIDG2331_00563,pdxT,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,+,610132,610707
+MIDG2331_RS02750,MIDG2331_00564,tadA,tRNA adenosine(34) deaminase TadA,-,610781,611305
+MIDG2331_RS02755,MIDG2331_00565,,DEAD/DEAH box helicase,-,611388,613247
+MIDG2331_RS02760,MIDG2331_00566,nlpI,lipoprotein NlpI,-,613469,614410
+MIDG2331_RS02765,MIDG2331_00567,pnp,polyribonucleotide nucleotidyltransferase,-,614471,616618
+MIDG2331_RS02770,MIDG2331_00568,parC,DNA topoisomerase IV subunit A,+,616919,619165
+MIDG2331_RS02775,MIDG2331_00569,mukF,chromosome partition protein MukF,+,619305,620636
+MIDG2331_RS02780,MIDG2331_00570,mukE,chromosome partition protein MukE,+,620716,621429
+MIDG2331_RS02785,MIDG2331_00571,mukB,chromosome partition protein MukB,+,621450,625940
+MIDG2331_RS02790,MIDG2331_00572,,sugar transporter,+,626017,627192
+MIDG2331_RS02795,MIDG2331_00573,,DUF3413 domain-containing protein,-,627244,628983
+MIDG2331_RS02800,MIDG2331_00574,,YejL family protein,-,628986,629207
+MIDG2331_RS02805,MIDG2331_00575,,TetR/AcrR family transcriptional regulator,+,629417,629995
+MIDG2331_RS02810,MIDG2331_00576,,efflux RND transporter periplasmic adaptor subunit,+,630028,631233
+MIDG2331_RS02815,MIDG2331_00577,,efflux RND transporter permease subunit,+,631246,634365
+MIDG2331_RS02820,MIDG2331_00578,glmU,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,+,634583,635947
+MIDG2331_RS02825,MIDG2331_00579,,CHY zinc finger protein,-,636054,636371
+MIDG2331_RS02830,MIDG2331_00580,,DUF1919 domain-containing protein,-,636375,636995
+MIDG2331_RS02835,MIDG2331_00581,,phospho-sugar mutase,+,637289,638947
+MIDG2331_RS02840,MIDG2331_00582,guaA,glutamine-hydrolyzing GMP synthase,-,639029,640600
+MIDG2331_RS02845,MIDG2331_00583,,hypothetical protein,-,640615,640929
+MIDG2331_RS02850,MIDG2331_00584,guaB,IMP dehydrogenase,-,641019,642482
+MIDG2331_RS02855,MIDG2331_00585,rlmE,23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE,+,642735,643361
+MIDG2331_RS02860,MIDG2331_00586,ftsH,ATP-dependent zinc metalloprotease FtsH,+,643465,645387
+MIDG2331_RS02865,MIDG2331_00587,,aromatic amino acid transport family protein,+,645625,646839
+MIDG2331_RS02870,MIDG2331_00588,,aromatic amino acid transport family protein,+,646936,648153
+MIDG2331_RS02875,MIDG2331_00589,glnD,bifunctional uridylyltransferase/uridylyl-removing protein GlnD,+,648260,650812
+MIDG2331_RS02880,MIDG2331_00590,,Z-ring associated ZapG family protein,-,650845,651243
+MIDG2331_RS02885,MIDG2331_00591,rplM,50S ribosomal protein L13,+,651548,651976
+MIDG2331_RS02890,MIDG2331_00592,rpsI,30S ribosomal protein S9,+,651993,652388
+MIDG2331_RS02895,MIDG2331_00593,yaaA,peroxide stress protein YaaA,+,652510,653292
+MIDG2331_RS02900,MIDG2331_00594,,hypothetical protein,+,653292,653837
+MIDG2331_RS02905,MIDG2331_00595,,cation diffusion facilitator family transporter,+,653863,654786
+MIDG2331_RS02910,MIDG2331_00596,,Zn-ribbon-containing protein,+,654767,655537
+MIDG2331_RS02915,MIDG2331_00597,,L-cystine transporter,+,655636,656961
+MIDG2331_RS02920,MIDG2331_00598,,NAD(P)H-dependent oxidoreductase,-,657065,657727
+MIDG2331_RS02925,MIDG2331_00599,pheS,phenylalanine--tRNA ligase subunit alpha,+,658006,658992
+MIDG2331_RS02930,MIDG2331_00600,pheT,phenylalanine--tRNA ligase subunit beta,+,659090,661477
+MIDG2331_RS02935,MIDG2331_00601,,integration host factor subunit alpha,+,661495,661791
+MIDG2331_RS02940,MIDG2331_00602,,NlpC/P60 family protein,+,661851,662375
+MIDG2331_RS02955,MIDG2331_00605,bioD,dethiobiotin synthase,-,664054,664773
+MIDG2331_RS02960,MIDG2331_00606,,ROK family protein,-,664827,666017
+MIDG2331_RS02965,MIDG2331_00607,rnd,ribonuclease D,+,666196,667311
+MIDG2331_RS02970,MIDG2331_00608,lrp,leucine-responsive transcriptional regulator Lrp,+,667396,667878
+MIDG2331_RS02975,MIDG2331_00609,,DNA translocase FtsK,+,667890,670760
+MIDG2331_RS02980,MIDG2331_00610,ypfJ,KPN_02809 family neutral zinc metallopeptidase,+,670945,671808
+MIDG2331_RS02985,MIDG2331_00611,aroG,3-deoxy-7-phosphoheptulonate synthase AroG,+,671931,673004
+MIDG2331_RS02990,MIDG2331_00612,tsaB,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,+,673108,673800
+MIDG2331_RS02995,MIDG2331_00613,,thymidine kinase,-,674241,674822
+MIDG2331_RS03000,MIDG2331_00614,zapB,cell division protein ZapB,-,674882,675100
+MIDG2331_RS03005,MIDG2331_00615,glpX,class II fructose-bisphosphatase,+,675285,676283
+MIDG2331_RS03010,MIDG2331_00616,,Nif3-like dinuclear metal center hexameric protein,-,676346,677119
+MIDG2331_RS03015,MIDG2331_00617,,MacB family efflux pump subunit,-,677210,679132
+MIDG2331_RS03020,MIDG2331_00618,cpxA,envelope stress sensor histidine kinase CpxA,-,679276,680676
+MIDG2331_RS03025,MIDG2331_00619,,response regulator,-,680741,681469
+MIDG2331_RS03030,MIDG2331_00620,mazG,nucleoside triphosphate pyrophosphohydrolase,-,681563,682342
+MIDG2331_RS03035,MIDG2331_00621,accD,"acetyl-CoA carboxylase, carboxyltransferase subunit beta",+,682681,683574
+MIDG2331_RS03040,MIDG2331_00622,folC,bifunctional tetrahydrofolate synthase/dihydrofolate synthase,+,683631,684935
+MIDG2331_RS03050,MIDG2331_00624,rimP,ribosome maturation factor RimP,+,685319,685780
+MIDG2331_RS03055,MIDG2331_00625,nusA,transcription termination factor NusA,+,685797,687278
+MIDG2331_RS03060,MIDG2331_00626,infB,translation initiation factor IF-2,+,687300,689825
+MIDG2331_RS03065,MIDG2331_00627,rbfA,30S ribosome-binding factor RbfA,+,689997,690380
+MIDG2331_RS03070,MIDG2331_00628,truB,tRNA pseudouridine(55) synthase TruB,+,690381,691298
+MIDG2331_RS03075,MIDG2331_00629,,lytic murein transglycosylase,+,691344,692432
+MIDG2331_RS03080,MIDG2331_00630,,YegP family protein,+,692561,692746
+MIDG2331_RS03085,MIDG2331_00631,,"IS256 family transposase, variant Zn-binding type",-,692881,693444
+MIDG2331_RS03090,MIDG2331_00632,pta,phosphate acetyltransferase,-,693951,696089
+MIDG2331_RS03095,MIDG2331_00633,,acetate kinase,-,696145,697353
+MIDG2331_RS03100,MIDG2331_00634,cpdB,"2',3'-cyclic-nucleotide 2'-phosphodiesterase",+,697650,699626
+MIDG2331_RS03110,MIDG2331_00636,,hypothetical protein,+,700528,700809
+MIDG2331_RS03115,MIDG2331_00637,,DUF6953 family protein,-,700856,701122
+MIDG2331_RS03120,MIDG2331_00638,,YodC family protein,-,701109,701327
+MIDG2331_RS03125,MIDG2331_00639,,hypothetical protein,-,701421,701885
+MIDG2331_RS03130,MIDG2331_00640,,hypothetical protein,-,701882,702067
+MIDG2331_RS03135,MIDG2331_00641,,phage/plasmid replication domain-containing protein,+,702220,703374
+MIDG2331_RS03140,MIDG2331_00642,,DNA-binding protein,+,703411,703737
+MIDG2331_RS03145,,,hypothetical protein,+,703741,703983
+MIDG2331_RS03150,MIDG2331_00643,,hypothetical protein,+,704069,704326
+MIDG2331_RS03155,MIDG2331_00644,,type II secretion system protein GspD,+,704345,705223
+MIDG2331_RS03160,MIDG2331_00645,,EexN family lipoprotein,+,705268,705489
+MIDG2331_RS03165,MIDG2331_00646,,hypothetical protein,+,705595,705945
+MIDG2331_RS03170,MIDG2331_00647,,hypothetical protein,+,706332,706613
+MIDG2331_RS03175,MIDG2331_00648,,DUF6953 family protein,-,706660,706926
+MIDG2331_RS03180,MIDG2331_00649,,YodC family protein,-,706913,707131
+MIDG2331_RS03185,MIDG2331_00650,,hypothetical protein,-,707225,707689
+MIDG2331_RS03190,MIDG2331_00651,,hypothetical protein,-,707686,707871
+MIDG2331_RS03195,MIDG2331_00652,,phage/plasmid replication domain-containing protein,+,708024,709178
+MIDG2331_RS03200,MIDG2331_00653,,DNA-binding protein,+,709215,709541
+MIDG2331_RS03205,,,hypothetical protein,+,709545,709787
+MIDG2331_RS03210,MIDG2331_00654,,hypothetical protein,+,709873,710130
+MIDG2331_RS03215,MIDG2331_00655,,type II secretion system protein GspD,+,710149,711027
+MIDG2331_RS03220,MIDG2331_00656,,EexN family lipoprotein,+,711072,711293
+MIDG2331_RS03225,MIDG2331_00657,,hypothetical protein,+,711399,711749
+MIDG2331_RS03230,MIDG2331_00658,,porin,-,712179,713264
+MIDG2331_RS03235,MIDG2331_00659,priC,primosomal replication protein PriC,+,713734,714255
+MIDG2331_RS03240,MIDG2331_00660,galU,UTP--glucose-1-phosphate uridylyltransferase GalU,-,714287,715174
+MIDG2331_RS03245,MIDG2331_00661,,phosphohexomutase domain-containing protein,-,715287,716645
+MIDG2331_RS03250,MIDG2331_00662,csrA,carbon storage regulator CsrA,-,716679,716873
+MIDG2331_RS03255,MIDG2331_00663,alaS,alanine--tRNA ligase,-,716952,719576
+MIDG2331_RS03260,MIDG2331_00664,,universal stress protein,-,719802,720227
+MIDG2331_RS03265,MIDG2331_00665,,FNR family transcription factor,+,720491,721258
+MIDG2331_RS03270,MIDG2331_00666,,ClpXP protease specificity-enhancing factor,-,721357,721773
+MIDG2331_RS03275,MIDG2331_00667,sspA,stringent starvation protein SspA,-,721773,722417
+MIDG2331_RS03280,MIDG2331_00668,purE,5-(carboxyamino)imidazole ribonucleotide mutase,+,722636,723130
+MIDG2331_RS03285,MIDG2331_00669,,asparaginase,+,723140,724105
+MIDG2331_RS03290,MIDG2331_00670,purK,5-(carboxyamino)imidazole ribonucleotide synthase,+,724216,725304
+MIDG2331_RS03295,MIDG2331_00671,,amino acid aminotransferase,+,725436,726632
+MIDG2331_RS03300,MIDG2331_00672,pepP,Xaa-Pro aminopeptidase,-,726812,728098
+MIDG2331_RS03305,MIDG2331_00673,,ATP-binding protein,-,728507,729730
+MIDG2331_RS03310,MIDG2331_00674,,type II toxin-antitoxin system VapC family toxin,-,729866,730255
+MIDG2331_RS03315,MIDG2331_00675,,antitoxin,-,730256,730516
+MIDG2331_RS03320,MIDG2331_00676,uvrB,excinuclease ABC subunit UvrB,-,730650,732671
+MIDG2331_RS03325,MIDG2331_00677,efeO,iron uptake system protein EfeO,+,732848,733660
+MIDG2331_RS03330,MIDG2331_00678,efeB,iron uptake transporter deferrochelatase/peroxidase subunit,+,733672,734865
+MIDG2331_RS03335,MIDG2331_00679,,hypothetical protein,+,734876,735496
+MIDG2331_RS03340,MIDG2331_00680,,PHP domain-containing protein,-,735536,736354
+MIDG2331_RS03345,MIDG2331_00681,,hypothetical protein,-,736358,736948
+MIDG2331_RS03350,MIDG2331_00682,sbcB,exodeoxyribonuclease I,-,736965,738509
+MIDG2331_RS03355,MIDG2331_00683,,chloride channel protein,-,738751,740157
+MIDG2331_RS03360,MIDG2331_00684,asnS,asparagine--tRNA ligase,+,740365,741768
+MIDG2331_RS03365,MIDG2331_00685,epmB,EF-P beta-lysylation protein EpmB,-,741870,742871
+MIDG2331_RS03370,MIDG2331_00686,,hypothetical protein,-,742958,743524
+MIDG2331_RS03375,MIDG2331_00687,efp,elongation factor P,+,743675,744241
+MIDG2331_RS03380,MIDG2331_00688,glnS,glutamine--tRNA ligase,+,744396,746066
+MIDG2331_RS03385,MIDG2331_00690,,DHA2 family efflux MFS transporter permease subunit,-,746296,747687
+MIDG2331_RS03390,MIDG2331_00691,,transglycosylase SLT domain-containing protein,-,747868,749976
+MIDG2331_RS03395,MIDG2331_00692,hpt,hypoxanthine phosphoribosyltransferase,-,750085,750624
+MIDG2331_RS03400,MIDG2331_00693,,methionine biosynthesis PLP-dependent protein,-,750728,751864
+MIDG2331_RS03405,MIDG2331_00694,dapB,4-hydroxy-tetrahydrodipicolinate reductase,-,751978,752787
+MIDG2331_RS03410,MIDG2331_00695,,hypothetical protein,-,752846,753424
+MIDG2331_RS03415,MIDG2331_00696,,DUF4747 family protein,-,753421,754338
+MIDG2331_RS03420,MIDG2331_00697,rlmM,23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM,-,754363,755448
+MIDG2331_RS03425,MIDG2331_00699,,DUF423 domain-containing protein,-,755820,756224
+MIDG2331_RS03430,MIDG2331_00700,dld,D-lactate dehydrogenase,+,756328,758019
+MIDG2331_RS03435,MIDG2331_00701,torA,trimethylamine-N-oxide reductase TorA,-,758157,760631
+MIDG2331_RS03440,MIDG2331_00703,,NapC/NirT family cytochrome c,-,760827,761945
+MIDG2331_RS03445,MIDG2331_00705,moaA,"GTP 3',8-cyclase MoaA",+,762297,763319
+MIDG2331_RS03450,MIDG2331_00706,moaC,cyclic pyranopterin monophosphate synthase MoaC,+,763604,764080
+MIDG2331_RS03455,MIDG2331_00707,moaD,molybdopterin synthase sulfur carrier subunit,+,764102,764347
+MIDG2331_RS03460,MIDG2331_00708,moaE,molybdopterin synthase catalytic subunit MoaE,+,764348,764803
+MIDG2331_RS03465,MIDG2331_00709,ybeY,rRNA maturation RNase YbeY,+,764884,765375
+MIDG2331_RS03470,MIDG2331_00710,,GNAT family N-acetyltransferase,+,765375,767177
+MIDG2331_RS03475,MIDG2331_00711,topA,type I DNA topoisomerase,-,767240,769849
+MIDG2331_RS03480,MIDG2331_00712,,LysR family transcriptional regulator,+,769991,770887
+MIDG2331_RS03485,MIDG2331_00713,argA,amino-acid N-acetyltransferase,-,770979,772292
+MIDG2331_RS03490,MIDG2331_00714,aroA,3-phosphoshikimate 1-carboxyvinyltransferase,-,772440,773738
+MIDG2331_RS03495,MIDG2331_00715,hisC,histidinol-phosphate transaminase,-,773752,774846
+MIDG2331_RS03500,MIDG2331_00716,,O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase family protein,-,775046,776314
+MIDG2331_RS03505,MIDG2331_00717,serC,3-phosphoserine/phosphohydroxythreonine transaminase,-,776520,777608
+MIDG2331_RS03510,MIDG2331_00718,,SNF2-related protein,-,777802,780675
+MIDG2331_RS03515,MIDG2331_00719,,DEAD/DEAH box helicase family protein,-,780672,783989
+MIDG2331_RS03520,MIDG2331_00720,,site-specific DNA-methyltransferase,-,784391,787273
+MIDG2331_RS03525,MIDG2331_00721,,MurR/RpiR family transcriptional regulator,-,787578,788450
+MIDG2331_RS03530,MIDG2331_00722,nanQ,N-acetylneuraminate anomerase,-,788460,788927
+MIDG2331_RS03535,MIDG2331_00723,ppx,exopolyphosphatase,-,789128,790636
+MIDG2331_RS03540,MIDG2331_00724,,DUF496 family protein,+,790845,791180
+MIDG2331_RS03545,MIDG2331_00726,lysC,lysine-sensitive aspartokinase 3,+,791675,793027
+MIDG2331_RS03550,MIDG2331_00727,nrdR,transcriptional regulator NrdR,-,793153,793602
+MIDG2331_RS03555,MIDG2331_00728,,YcgL domain-containing protein,-,793602,793889
+MIDG2331_RS03560,MIDG2331_00729,,replicative DNA helicase,-,793879,795342
+MIDG2331_RS03565,MIDG2331_00730,,siderophore ABC transporter substrate-binding protein,+,795522,796430
+MIDG2331_RS03570,MIDG2331_00731,,ABC transporter permease,+,796517,797464
+MIDG2331_RS03575,MIDG2331_00732,,iron chelate uptake ABC transporter family permease subunit,+,797464,798405
+MIDG2331_RS03580,MIDG2331_00733,,iron ABC transporter ATP-binding protein,+,798407,799165
+MIDG2331_RS03585,MIDG2331_00734,,TIGR00153 family protein,+,799354,800034
+MIDG2331_RS03590,MIDG2331_00735,,inorganic phosphate transporter,+,800044,801306
+MIDG2331_RS03595,MIDG2331_00736,,TIGR04211 family SH3 domain-containing protein,+,801371,801976
+MIDG2331_RS03600,MIDG2331_00737,,sulfurtransferase TusA family protein,-,802030,802257
+MIDG2331_RS03605,MIDG2331_00738,,hemerythrin domain-containing protein,-,802264,802779
+MIDG2331_RS03610,MIDG2331_00739,tgt,tRNA guanosine(34) transglycosylase Tgt,-,802852,804000
+MIDG2331_RS03615,MIDG2331_00741,,DUF1439 domain-containing protein,+,804323,804895
+MIDG2331_RS03620,MIDG2331_00742,cspD,cold shock domain-containing protein CspD,+,805003,805209
+MIDG2331_RS03625,MIDG2331_00743,can,carbonate dehydratase,+,805327,806043
+MIDG2331_RS03630,MIDG2331_00744,,acetolactate synthase 3 large subunit,+,806361,808085
+MIDG2331_RS03635,MIDG2331_00745,ilvN,acetolactate synthase small subunit,+,808078,808569
+MIDG2331_RS03640,MIDG2331_00746,pmbA,metalloprotease PmbA,-,808839,810188
+MIDG2331_RS03645,MIDG2331_00747,yjgA,ribosome biogenesis factor YjgA,+,810296,810826
+MIDG2331_RS03650,MIDG2331_00748,,SirB2 family protein,+,810871,811242
+MIDG2331_RS03655,MIDG2331_00749,,UbiX family flavin prenyltransferase,+,811302,811874
+MIDG2331_RS03660,MIDG2331_00750,,DUF554 domain-containing protein,+,811877,812590
+MIDG2331_RS03665,MIDG2331_00751,,PNPOx family protein,+,812637,813086
+MIDG2331_RS03670,MIDG2331_00752,yciH,stress response translation initiation inhibitor YciH,-,813159,813470
+MIDG2331_RS03675,MIDG2331_00753,pyrF,orotidine-5'-phosphate decarboxylase,-,813550,814242
+MIDG2331_RS03680,MIDG2331_00754,lapB,lipopolysaccharide assembly protein LapB,-,814267,815463
+MIDG2331_RS03685,MIDG2331_00755,,LapA family protein,-,815463,815753
+MIDG2331_RS03690,MIDG2331_00756,,integration host factor subunit beta,-,815822,816103
+MIDG2331_RS03695,MIDG2331_00757,rpsA,30S ribosomal protein S1,-,816177,817841
+MIDG2331_RS03700,MIDG2331_00758,cmk,(d)CMP kinase,-,817938,818612
+MIDG2331_RS03705,MIDG2331_00759,degS,outer membrane-stress sensor serine endopeptidase DegS,-,818642,819673
+MIDG2331_RS03715,MIDG2331_00761,secG,preprotein translocase subunit SecG,-,819922,820248
+MIDG2331_RS03720,MIDG2331_00762,,DNA topoisomerase III,-,820380,822296
+MIDG2331_RS03725,MIDG2331_00763,,alkaline phosphatase,+,822479,823924
+MIDG2331_RS03730,MIDG2331_00764,mepA,penicillin-insensitive murein endopeptidase,-,823974,824804
+MIDG2331_RS03735,MIDG2331_00765,aroC,chorismate synthase,-,824899,825981
+MIDG2331_RS03740,MIDG2331_00766,mscK,mechanosensitive channel MscK,-,826003,829311
+MIDG2331_RS03745,MIDG2331_00767,mscK,mechanosensitive channel MscK,-,829329,832673
+MIDG2331_RS03750,MIDG2331_00768,menE,o-succinylbenzoate--CoA ligase,-,832654,834084
+MIDG2331_RS03755,MIDG2331_00769,seqA,replication initiation negative regulator SeqA,-,834102,834662
+MIDG2331_RS03760,MIDG2331_00770,,alpha/beta fold hydrolase,+,834786,835571
+MIDG2331_RS03765,MIDG2331_00771,cmoA,carboxy-S-adenosyl-L-methionine synthase CmoA,+,835579,836304
+MIDG2331_RS03770,MIDG2331_00772,,enoyl-ACP reductase FabI,+,836508,837296
+MIDG2331_RS03775,MIDG2331_00773,,BrnT family toxin,+,837491,837769
+MIDG2331_RS03780,MIDG2331_00774,,BrnA antitoxin family protein,+,837744,838022
+MIDG2331_RS03785,MIDG2331_00775,,exoribonuclease II,+,838154,840130
+MIDG2331_RS03790,MIDG2331_00776,,CidA/LrgA family protein,+,840205,840576
+MIDG2331_RS03795,MIDG2331_00777,,LrgB family protein,+,840573,841259
+MIDG2331_RS03800,MIDG2331_00778,apaH,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH,+,841284,842096
+MIDG2331_RS03810,MIDG2331_00780,,alternative ribosome-rescue factor A,-,842285,842527
+MIDG2331_RS03815,MIDG2331_00781,,class I SAM-dependent methyltransferase,+,842695,843450
+MIDG2331_RS03820,MIDG2331_00782,,AI-2E family transporter,+,843509,844570
+MIDG2331_RS03825,MIDG2331_00783,,gluconeogenesis factor YvcK family protein,+,844600,845529
+MIDG2331_RS03830,MIDG2331_00784,queA,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,+,845577,846662
+MIDG2331_RS03835,MIDG2331_00785,,DNA internalization-related competence protein ComEC/Rec2,-,846697,848991
+MIDG2331_RS03840,MIDG2331_00786,sstT,serine/threonine transporter SstT,-,849091,850305
+MIDG2331_RS03845,MIDG2331_00787,,diacylglycerol kinase,+,850554,850916
+MIDG2331_RS03850,MIDG2331_00788,ushA,bifunctional UDP-sugar hydrolase/5'-nucleotidase UshA,+,850997,852640
+MIDG2331_RS03855,MIDG2331_00789,,DUF4298 domain-containing protein,+,852719,853072
+MIDG2331_RS03860,MIDG2331_00790,,hypothetical protein,+,853145,853516
+MIDG2331_RS03875,MIDG2331_00793,lpdA,dihydrolipoyl dehydrogenase,-,854225,855649
+MIDG2331_RS03880,MIDG2331_00794,aceF,pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase,-,855745,857643
+MIDG2331_RS03885,MIDG2331_00795,aceE,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",-,857703,860357
+MIDG2331_RS03890,MIDG2331_00796,pyrD,quinone-dependent dihydroorotate dehydrogenase,-,860712,861719
+MIDG2331_RS03895,MIDG2331_00797,,ribose-phosphate pyrophosphokinase,-,861793,862743
+MIDG2331_RS03900,MIDG2331_00798,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,-,862755,863612
+MIDG2331_RS03905,MIDG2331_00799,lolB,lipoprotein insertase outer membrane protein LolB,-,863622,864254
+MIDG2331_RS03910,MIDG2331_00800,msbA,lipid A ABC transporter ATP-binding protein/permease MsbA,-,864383,866131
+MIDG2331_RS03915,MIDG2331_00801,,CidB/LrgB family autolysis modulator,-,866236,866922
+MIDG2331_RS03920,MIDG2331_00802,,CidA/LrgA family protein,-,866932,867291
+MIDG2331_RS03925,MIDG2331_00803,,ATP-dependent DNA helicase,-,867358,869280
+MIDG2331_RS03930,MIDG2331_00804,,hypothetical protein,+,869402,869614
+MIDG2331_RS03935,MIDG2331_00805,uvrA,excinuclease ABC subunit UvrA,-,869753,872581
+MIDG2331_RS03940,MIDG2331_00806,,single-stranded DNA-binding protein,+,872732,873256
+MIDG2331_RS03945,MIDG2331_00807,,LysR family transcriptional regulator,-,873466,874365
+MIDG2331_RS03950,MIDG2331_00808,,zinc-dependent alcohol dehydrogenase family protein,+,874477,875466
+MIDG2331_RS03955,MIDG2331_00809,,Cd(II)/Pb(II)-responsive transcriptional regulator,-,875550,875948
+MIDG2331_RS03960,MIDG2331_00810,,cation diffusion facilitator family transporter,+,876020,876634
+MIDG2331_RS03965,MIDG2331_00811,,zinc-dependent alcohol dehydrogenase family protein,+,876821,877810
+MIDG2331_RS03970,MIDG2331_00812,,AAA family ATPase,-,877851,879770
+MIDG2331_RS03975,MIDG2331_00813,,ATP-binding protein,-,879844,881130
+MIDG2331_RS03980,MIDG2331_00814,,LysR family transcriptional regulator,-,881438,882325
+MIDG2331_RS03985,MIDG2331_00815,,NAD(P)H-dependent flavin oxidoreductase,+,882430,883404
+MIDG2331_RS03990,MIDG2331_00816,,MFS transporter,+,883942,885372
+MIDG2331_RS03995,MIDG2331_00817,,MmcQ/YjbR family DNA-binding protein,-,885416,886183
+MIDG2331_RS04000,MIDG2331_00818,,peptide ABC transporter ATP-binding protein,-,886267,887304
+MIDG2331_RS04005,MIDG2331_00819,,ABC transporter permease subunit,-,887318,888205
+MIDG2331_RS04010,MIDG2331_00820,,ABC transporter permease,-,888195,889157
+MIDG2331_RS04015,MIDG2331_00821,,ABC transporter substrate-binding protein,-,889157,890854
+MIDG2331_RS04020,MIDG2331_00822,,sigma 54-interacting transcriptional regulator,-,890864,892012
+MIDG2331_RS04025,MIDG2331_00823,lpcA,D-sedoheptulose 7-phosphate isomerase,+,892217,892801
+MIDG2331_RS04030,MIDG2331_00824,pckA,phosphoenolpyruvate carboxykinase (ATP),-,893016,894626
+MIDG2331_RS04035,MIDG2331_00825,ftsB,cell division protein FtsB,+,894899,895177
+MIDG2331_RS04040,MIDG2331_00826,ispD,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,+,895193,895879
+MIDG2331_RS04045,MIDG2331_00827,ispF,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",+,895876,896352
+MIDG2331_RS04050,MIDG2331_00830,,LTA synthase family protein,-,897021,898997
+MIDG2331_RS04055,MIDG2331_00831,,MOSC domain-containing protein,-,899035,899823
+MIDG2331_RS04060,MIDG2331_00832,xseB,exodeoxyribonuclease VII small subunit,+,899968,900192
+MIDG2331_RS04065,MIDG2331_00833,ispA,"(2E,6E)-farnesyl diphosphate synthase",+,900201,901094
+MIDG2331_RS04070,MIDG2331_00834,,DMT family protein,-,901178,901522
+MIDG2331_RS04075,MIDG2331_00835,lysS,lysine--tRNA ligase,-,901623,903125
+MIDG2331_RS04080,MIDG2331_00836,rng,ribonuclease G,-,903260,904735
+MIDG2331_RS04085,MIDG2331_00837,ycaO,30S ribosomal protein S12 methylthiotransferase accessory factor YcaO,+,904965,906728
+MIDG2331_RS04090,MIDG2331_00838,cmoB,tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB,+,906943,907905
+MIDG2331_RS04095,MIDG2331_00839,,hypothetical protein,+,908051,908386
+MIDG2331_RS04100,MIDG2331_00840,mltA,murein transglycosylase A,-,908453,909550
+MIDG2331_RS04110,MIDG2331_00842,xseA,exodeoxyribonuclease VII large subunit,+,909866,911419
+MIDG2331_RS04120,MIDG2331_00844,uraH,hydroxyisourate hydrolase,-,911795,912208
+MIDG2331_RS04125,MIDG2331_00845,purR,HTH-type transcriptional repressor PurR,+,912407,913417
+MIDG2331_RS04130,MIDG2331_00846,,DedA family protein,+,913440,914042
+MIDG2331_RS04135,MIDG2331_00847,gyrB,DNA topoisomerase (ATP-hydrolyzing) subunit B,-,914142,916574
+MIDG2331_RS04140,MIDG2331_00848,ubiA,4-hydroxybenzoate octaprenyltransferase,-,916787,917668
+MIDG2331_RS04145,MIDG2331_00849,,DeoR/GlpR family transcriptional regulator,-,917668,918429
+MIDG2331_RS04150,MIDG2331_00850,purB,adenylosuccinate lyase,-,918497,919864
+MIDG2331_RS04155,MIDG2331_00851,hflD,high frequency lysogenization protein HflD,-,919921,920553
+MIDG2331_RS04160,MIDG2331_00852,cydC,heme ABC transporter ATP-binding protein/permease CydC,-,920718,922385
+MIDG2331_RS04165,MIDG2331_00853,cydD,heme ABC transporter permease/ATP-binding protein CydD,-,922396,924138
+MIDG2331_RS04170,MIDG2331_00854,tamB,autotransporter assembly complex protein TamB,-,924298,928257
+MIDG2331_RS04175,MIDG2331_00855,tamA,autotransporter assembly complex protein TamA,-,928318,930144
+MIDG2331_RS04180,MIDG2331_00856,,divergent polysaccharide deacetylase family protein,-,930160,931008
+MIDG2331_RS04185,MIDG2331_00857,envC,murein hydrolase activator EnvC,-,931008,932216
+MIDG2331_RS04190,MIDG2331_00858,,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",+,932386,933069
+MIDG2331_RS04195,MIDG2331_00859,,LysE/ArgO family amino acid transporter,-,933153,933788
+MIDG2331_RS04200,MIDG2331_00860,udk,uridine kinase,+,933906,934559
+MIDG2331_RS04205,MIDG2331_00861,dcd,dCTP deaminase,+,934568,935152
+MIDG2331_RS04210,MIDG2331_00862,,TetR/AcrR family transcriptional regulator,-,935221,935775
+MIDG2331_RS04215,MIDG2331_00863,,HlyD family secretion protein,+,935916,936977
+MIDG2331_RS04220,MIDG2331_00864,rbbA,ribosome-associated ATPase/putative transporter RbbA,+,936981,939722
+MIDG2331_RS04225,MIDG2331_00865,,ABC transporter permease,+,939724,940848
+MIDG2331_RS04230,MIDG2331_00866,,efflux transporter outer membrane subunit,+,940865,942259
+MIDG2331_RS04235,MIDG2331_00867,pntB,Re/Si-specific NAD(P)(+) transhydrogenase subunit beta,-,942337,943785
+MIDG2331_RS04240,MIDG2331_00868,pntA,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha,-,943796,945334
+MIDG2331_RS04245,MIDG2331_00869,trmJ,tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ,+,945539,946267
+MIDG2331_RS04250,MIDG2331_00870,,hypothetical protein,-,946360,947523
+MIDG2331_RS04255,MIDG2331_00871,,nucleoid-associated protein,-,947520,948611
+MIDG2331_RS04260,MIDG2331_00872,queF,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,-,948824,949663
+MIDG2331_RS04265,MIDG2331_00873,gmhB,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase",-,949753,950301
+MIDG2331_RS04270,MIDG2331_00874,bcp,thioredoxin-dependent thiol peroxidase,-,950301,950771
+MIDG2331_RS04275,MIDG2331_00875,,hypothetical protein,-,950836,951045
+MIDG2331_RS04280,MIDG2331_00876,hemW,radical SAM family heme chaperone HemW,-,951158,952315
+MIDG2331_RS04285,MIDG2331_00877,,ABC transporter substrate-binding protein,+,952578,954152
+MIDG2331_RS04290,MIDG2331_00878,,ABC transporter permease,+,954251,955204
+MIDG2331_RS04295,MIDG2331_00879,,dipeptide/oligopeptide/nickel ABC transporter permease/ATP-binding protein,+,955204,957177
+MIDG2331_RS04300,MIDG2331_00880,,ABC transporter ATP-binding protein,+,957181,957987
+MIDG2331_RS04305,MIDG2331_00881,,FAD-binding protein,+,958039,959637
+MIDG2331_RS04310,MIDG2331_00882,,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,-,959699,960856
+MIDG2331_RS04315,MIDG2331_00883,metF,methylenetetrahydrofolate reductase,+,961077,961958
+MIDG2331_RS04320,MIDG2331_00884,,ABC transporter substrate-binding protein,-,962054,963649
+MIDG2331_RS04325,MIDG2331_00885,,serine/threonine transporter,+,964006,965235
+MIDG2331_RS04330,MIDG2331_00886,,L-serine ammonia-lyase,+,965331,966710
+MIDG2331_RS04335,MIDG2331_00887,mnmC,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmC2/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC1,-,966889,968892
+MIDG2331_RS04340,MIDG2331_00888,trpCF,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF,-,969108,970517
+MIDG2331_RS04345,MIDG2331_00889,,Fic family protein,+,970671,971360
+MIDG2331_RS04350,MIDG2331_00890,,YqcC family protein,+,971368,971679
+MIDG2331_RS04355,MIDG2331_00891,truC,tRNA pseudouridine(65) synthase TruC,+,971680,972423
+MIDG2331_RS04360,MIDG2331_00893,,hypothetical protein,+,972586,973038
+MIDG2331_RS04365,MIDG2331_00894,,CYTH domain-containing protein,-,973082,973921
+MIDG2331_RS04370,MIDG2331_00895,,YcjX family GTP-binding protein,+,973989,975398
+MIDG2331_RS04375,MIDG2331_00896,smpB,SsrA-binding protein SmpB,+,975532,976011
+MIDG2331_RS04380,MIDG2331_00897,serS,serine--tRNA ligase,+,976129,977436
+MIDG2331_RS04385,MIDG2331_00898,,M20 family metallo-hydrolase,-,977507,978775
+MIDG2331_RS04390,MIDG2331_00899,dcuC,C4-dicarboxylate transporter DcuC,-,978869,980161
+MIDG2331_RS04395,MIDG2331_00900,pepE,dipeptidase PepE,-,980172,980876
+MIDG2331_RS04400,MIDG2331_00901,leuS,leucine--tRNA ligase,+,981127,983712
+MIDG2331_RS04405,MIDG2331_00902,,LPS-assembly lipoprotein LptE,+,983812,984306
+MIDG2331_RS04410,MIDG2331_00903,holA,DNA polymerase III subunit delta,+,984415,985440
+MIDG2331_RS04415,MIDG2331_00904,yacG,DNA gyrase inhibitor YacG,-,985517,985705
+MIDG2331_RS04420,MIDG2331_00905,coaE,dephospho-CoA kinase,-,985687,986325
+MIDG2331_RS04425,MIDG2331_00906,,prepilin peptidase,-,986347,986985
+MIDG2331_RS04430,MIDG2331_00907,,type II secretion system F family protein,-,987012,988214
+MIDG2331_RS04435,MIDG2331_00908,,GspE/PulE family protein,-,988198,989592
+MIDG2331_RS04440,MIDG2331_00909,,prepilin-type N-terminal cleavage/methylation domain-containing protein,-,989610,990056
+MIDG2331_RS04445,MIDG2331_00910,radA,DNA repair protein RadA,+,990238,991617
+MIDG2331_RS04450,MIDG2331_00911,,YgjV family protein,-,991661,991894
+MIDG2331_RS04455,MIDG2331_00912,folA,type 3 dihydrofolate reductase,-,992021,992509
+MIDG2331_RS04460,MIDG2331_00913,proB,glutamate 5-kinase,+,992596,993687
+MIDG2331_RS04465,MIDG2331_00914,,TSUP family transporter,+,993700,994476
+MIDG2331_RS04470,MIDG2331_00915,nth,endonuclease III,+,994477,995109
+MIDG2331_RS04475,MIDG2331_00916,,acetyl-CoA C-acyltransferase,+,995319,996623
+MIDG2331_RS04480,MIDG2331_00917,,3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein,+,996633,998750
+MIDG2331_RS04485,MIDG2331_00918,,YdgA family protein,+,998841,1000256
+MIDG2331_RS04490,MIDG2331_00919,,AEC family transporter,-,1000339,1001271
+MIDG2331_RS04495,MIDG2331_00920,fdhD,formate dehydrogenase accessory sulfurtransferase FdhD,-,1001273,1002079
+MIDG2331_RS04505,MIDG2331_00923,fdnG,formate dehydrogenase-N subunit alpha,+,1002498,1005557
+MIDG2331_RS04510,MIDG2331_00924,fdxH,formate dehydrogenase subunit beta,+,1005557,1006456
+MIDG2331_RS04515,MIDG2331_00925,,formate dehydrogenase subunit gamma,+,1006449,1007120
+MIDG2331_RS04520,MIDG2331_00926,fdhE,formate dehydrogenase accessory protein FdhE,+,1007230,1008147
+MIDG2331_RS04535,MIDG2331_00929,folD,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD,+,1008751,1009608
+MIDG2331_RS04540,MIDG2331_00930,,L-lactate MFS transporter,+,1009753,1011291
+MIDG2331_RS04545,MIDG2331_00931,dapA,4-hydroxy-tetrahydrodipicolinate synthase,-,1011389,1012282
+MIDG2331_RS04550,MIDG2331_00932,,Kdo(2)-lipid IV(A) acyltransferase,-,1012435,1013376
+MIDG2331_RS04555,MIDG2331_00933,hpf,"ribosome hibernation-promoting factor, HPF/YfiA family",+,1013541,1013855
+MIDG2331_RS04560,MIDG2331_00934,truA,tRNA pseudouridine(38-40) synthase TruA,-,1013913,1014701
+MIDG2331_RS04565,MIDG2331_00935,folE,GTP cyclohydrolase I FolE,-,1014780,1015436
+MIDG2331_RS04570,MIDG2331_00936,,3-deoxy-D-manno-octulosonic acid kinase,+,1015537,1016241
+MIDG2331_RS04575,MIDG2331_00937,,cyclophilin-like fold protein,-,1016320,1016658
+MIDG2331_RS04580,MIDG2331_00938,,sugar O-acetyltransferase,-,1016717,1017292
+MIDG2331_RS04585,MIDG2331_00939,,alpha/beta hydrolase,-,1017377,1018519
+MIDG2331_RS04590,MIDG2331_00940,,LysR family transcriptional regulator,+,1018678,1019562
+MIDG2331_RS04595,MIDG2331_00941,,MetQ/NlpA family ABC transporter substrate-binding protein,-,1019616,1020434
+MIDG2331_RS04600,MIDG2331_00942,,MetQ/NlpA family lipoprotein,-,1020547,1021368
+MIDG2331_RS04605,MIDG2331_00943,,methionine ABC transporter permease,-,1021394,1022071
+MIDG2331_RS04610,MIDG2331_00944,metN,methionine ABC transporter ATP-binding protein MetN,-,1022061,1023095
+MIDG2331_RS04615,MIDG2331_00945,cysS,cysteine--tRNA ligase,-,1023293,1024672
+MIDG2331_RS04620,MIDG2331_00946,,peptidylprolyl isomerase,+,1024817,1025326
+MIDG2331_RS04625,MIDG2331_00947,,multifunctional CCA addition/repair protein,+,1025430,1026665
+MIDG2331_RS04640,MIDG2331_00950,,TonB-dependent receptor,-,1028116,1030488
+MIDG2331_RS04645,MIDG2331_00951,,membrane protein,+,1030650,1031906
+MIDG2331_RS04650,MIDG2331_00952,,surface lipoprotein assembly modifier,+,1031963,1033378
+MIDG2331_RS04655,MIDG2331_00953,iscX,Fe-S cluster assembly protein IscX,-,1034396,1034590
+MIDG2331_RS04660,MIDG2331_00954,fdx,ISC system 2Fe-2S type ferredoxin,-,1034590,1034931
+MIDG2331_RS04665,MIDG2331_00955,hscA,Fe-S protein assembly chaperone HscA,-,1035052,1036905
+MIDG2331_RS04670,MIDG2331_00956,,DUF2625 family protein,-,1037024,1037656
+MIDG2331_RS04675,MIDG2331_00957,,DMT family transporter,-,1037684,1038136
+MIDG2331_RS04680,MIDG2331_00958,hscB,Fe-S protein assembly co-chaperone HscB,-,1038184,1038705
+MIDG2331_RS04685,MIDG2331_00959,iscA,iron-sulfur cluster assembly protein IscA,-,1038715,1039038
+MIDG2331_RS04690,MIDG2331_00960,iscU,Fe-S cluster assembly scaffold IscU,-,1039184,1039567
+MIDG2331_RS04695,MIDG2331_00961,,IscS subfamily cysteine desulfurase,-,1039701,1040927
+MIDG2331_RS04700,MIDG2331_00962,,Rrf2 family transcriptional regulator,-,1040982,1041434
+MIDG2331_RS04705,MIDG2331_00963,,outer membrane protein transport protein,+,1041924,1043315
+MIDG2331_RS04710,MIDG2331_00964,,methylated-DNA--[protein]-cysteine S-methyltransferase,+,1043401,1043964
+MIDG2331_RS04715,MIDG2331_00965,,ATP-binding protein,-,1043984,1045834
+MIDG2331_RS04720,MIDG2331_00966,,membrane protein,-,1045940,1046803
+MIDG2331_RS04725,MIDG2331_00967,smrB,endonuclease SmrB,-,1046919,1047461
+MIDG2331_RS04730,MIDG2331_00968,bioD,dethiobiotin synthase,-,1047451,1048095
+MIDG2331_RS04735,MIDG2331_00969,bioC,malonyl-ACP O-methyltransferase BioC,-,1048095,1048865
+MIDG2331_RS04740,MIDG2331_00970,,DUF452 family protein,-,1048853,1049512
+MIDG2331_RS04745,MIDG2331_00971,,8-amino-7-oxononanoate synthase,-,1049522,1050685
+MIDG2331_RS04750,MIDG2331_00972,bioA,adenosylmethionine--8-amino-7-oxononanoate transaminase,-,1050712,1052010
+MIDG2331_RS04755,MIDG2331_00973,prmB,50S ribosomal protein L3 N(5)-glutamine methyltransferase,+,1052101,1053045
+MIDG2331_RS04760,MIDG2331_00974,greA,transcription elongation factor GreA,-,1053126,1053602
+MIDG2331_RS04765,MIDG2331_00975,dacB,serine-type D-Ala-D-Ala carboxypeptidase,+,1053686,1055128
+MIDG2331_RS04770,MIDG2331_00976,,GNAT family N-acetyltransferase,-,1055165,1055434
+MIDG2331_RS04775,MIDG2331_00977,,IS1595 family transposase,-,1055753,1056874
+MIDG2331_RS04780,MIDG2331_00978,,hypothetical protein,-,1057286,1057585
+MIDG2331_RS04785,MIDG2331_00979,,IS481 family transposase,+,1057705,1058745
+MIDG2331_RS04790,MIDG2331_00980,,FRG domain-containing protein,-,1058784,1059818
+MIDG2331_RS04795,MIDG2331_00981,,ImmA/IrrE family metallo-endopeptidase,-,1059811,1060374
+MIDG2331_RS04800,MIDG2331_00982,,helix-turn-helix domain-containing protein,-,1060528,1060866
+MIDG2331_RS04805,MIDG2331_00983,,IS1595 family transposase,+,1060950,1061984
+MIDG2331_RS04810,MIDG2331_00984,,hypothetical protein,+,1061984,1062418
+MIDG2331_RS04815,MIDG2331_00985,,hypothetical protein,-,1062419,1062832
+MIDG2331_RS04820,MIDG2331_00986,,cysteine peptidase family C39 domain-containing protein,-,1062922,1063422
+MIDG2331_RS04825,MIDG2331_00987,,RTX family hemolysin,-,1063487,1066357
+MIDG2331_RS04830,MIDG2331_00988,apxIIC,RTX-II toxin-activating lysine-acyltransferase ApxIIC,-,1066396,1066878
+MIDG2331_RS04845,MIDG2331_00991,ybeY,rRNA maturation RNase YbeY,-,1068953,1069444
+MIDG2331_RS04850,MIDG2331_00992,purH,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,+,1069867,1071456
+MIDG2331_RS04855,MIDG2331_00993,,hypothetical protein,-,1071646,1072002
+MIDG2331_RS04860,MIDG2331_00994,,hypothetical protein,-,1072016,1072321
+MIDG2331_RS04865,MIDG2331_00995,,hypothetical protein,-,1072722,1073060
+MIDG2331_RS04875,MIDG2331_00996,,hypothetical protein,-,1073439,1073738
+MIDG2331_RS04890,MIDG2331_01000,,ShlB/FhaC/HecB family hemolysin secretion/activation protein,-,1081697,1083463
+MIDG2331_RS04895,MIDG2331_01001,lptD,LPS assembly protein LptD,-,1083652,1085988
+MIDG2331_RS04900,MIDG2331_01002,hemN,oxygen-independent coproporphyrinogen III oxidase,-,1086045,1087412
+MIDG2331_RS04905,MIDG2331_01003,,DUF2489 domain-containing protein,-,1087442,1087909
+MIDG2331_RS04910,MIDG2331_01004,yihI,Der GTPase-activating protein YihI,-,1087925,1088503
+MIDG2331_RS04915,MIDG2331_01005,,putative transporter,-,1088652,1090310
+MIDG2331_RS04920,MIDG2331_01006,gltS,sodium/glutamate symporter,+,1090573,1091790
+MIDG2331_RS04925,MIDG2331_01007,,YacL family protein,-,1091860,1092237
+MIDG2331_RS04930,MIDG2331_01008,glnE,bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase,-,1092334,1095213
+MIDG2331_RS04935,MIDG2331_01009,,YciI family protein,-,1095288,1095569
+MIDG2331_RS04940,MIDG2331_01010,yciA,acyl-CoA thioester hydrolase YciA,-,1095580,1096071
+MIDG2331_RS04945,MIDG2331_01011,,septation protein A,-,1096058,1096609
+MIDG2331_RS04950,MIDG2331_01012,,hypothetical protein,-,1096611,1097348
+MIDG2331_RS04955,MIDG2331_01013,yfbV,terminus macrodomain insulation protein YfbV,+,1097507,1097941
+MIDG2331_RS04960,MIDG2331_01014,ttcA,tRNA 2-thiocytidine(32) synthetase TtcA,+,1098109,1099065
+MIDG2331_RS04965,MIDG2331_01015,,Na+/H+ antiporter family protein,+,1099272,1100648
+MIDG2331_RS04970,MIDG2331_01016,xthA,exodeoxyribonuclease III,+,1100739,1101542
+MIDG2331_RS04975,MIDG2331_01017,ilvY,HTH-type transcriptional activator IlvY,-,1101606,1102490
+MIDG2331_RS04980,MIDG2331_01018,,glycosyltransferase family 9 protein,-,1102491,1103531
+MIDG2331_RS04985,MIDG2331_01019,,glycosyltransferase family 25 protein,-,1103533,1104216
+MIDG2331_RS04990,MIDG2331_01020,,heptosyltransferase,+,1104325,1105386
+MIDG2331_RS04995,MIDG2331_01021,rpmE,50S ribosomal protein L31,-,1105448,1105660
+MIDG2331_RS05000,MIDG2331_01022,tkt,transketolase,+,1106042,1108048
+MIDG2331_RS05005,MIDG2331_01023,htpG,molecular chaperone HtpG,-,1108183,1110060
+MIDG2331_RS05010,MIDG2331_01024,,catalase,+,1110285,1111811
+MIDG2331_RS05020,MIDG2331_01026,,IS3 family transposase,+,1112148,1112516
+MIDG2331_RS05025,MIDG2331_01027,,metallophosphoesterase,+,1112629,1113708
+MIDG2331_RS05030,MIDG2331_01028,nrdA,class 1a ribonucleoside-diphosphate reductase subunit alpha,+,1113922,1116192
+MIDG2331_RS05035,MIDG2331_01029,nrdB,class Ia ribonucleoside-diphosphate reductase subunit beta,+,1116456,1117586
+MIDG2331_RS05040,MIDG2331_01030,galT,galactose-1-phosphate uridylyltransferase,+,1117848,1118897
+MIDG2331_RS05045,MIDG2331_01031,galK,galactokinase,+,1118925,1120079
+MIDG2331_RS05050,MIDG2331_01032,,galactose-1-epimerase,+,1120137,1121105
+MIDG2331_RS05055,MIDG2331_01033,,glycoside hydrolase family 2 TIM barrel-domain containing protein,+,1121130,1124150
+MIDG2331_RS05065,MIDG2331_01035,,hypothetical protein,-,1129020,1129556
+MIDG2331_RS05070,MIDG2331_01036,,"IS256 family transposase, variant Zn-binding type",+,1129731,1130618
+MIDG2331_RS05075,MIDG2331_01037,,calcium-binding protein,-,1131104,1136935
+MIDG2331_RS05080,MIDG2331_01038,,hypothetical protein,-,1136961,1137431
+MIDG2331_RS05085,MIDG2331_01039,apbC,iron-sulfur cluster carrier protein ApbC,-,1137628,1138725
+MIDG2331_RS05090,MIDG2331_01040,,peptide ABC transporter substrate-binding protein,-,1138729,1140279
+MIDG2331_RS05095,MIDG2331_01041,,YchE family NAAT transporter,-,1140294,1140947
+MIDG2331_RS05100,MIDG2331_01042,,SurA N-terminal domain-containing protein,-,1141070,1142947
+MIDG2331_RS05105,MIDG2331_01043,,cation:proton antiporter,+,1143176,1144489
+MIDG2331_RS05110,MIDG2331_01045,rpsO,30S ribosomal protein S15,+,1144611,1144880
+MIDG2331_RS05115,MIDG2331_01046,,DUF808 domain-containing protein,+,1144958,1145827
+MIDG2331_RS05120,MIDG2331_01047,,heme biosynthesis protein HemY,-,1145884,1147134
+MIDG2331_RS05125,MIDG2331_01048,,uroporphyrinogen-III C-methyltransferase,-,1147146,1148486
+MIDG2331_RS05130,MIDG2331_01049,,uroporphyrinogen-III synthase,-,1148496,1149260
+MIDG2331_RS05135,MIDG2331_01050,hemC,hydroxymethylbilane synthase,-,1149269,1150198
+MIDG2331_RS05140,MIDG2331_01051,adhE,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,+,1150467,1153082
+MIDG2331_RS05145,MIDG2331_01052,groL,chaperonin GroEL,-,1153256,1154899
+MIDG2331_RS05150,MIDG2331_01053,,co-chaperone GroES,-,1154959,1155249
+MIDG2331_RS05155,MIDG2331_01054,deoD,purine-nucleoside phosphorylase,-,1155461,1156183
+MIDG2331_RS05160,MIDG2331_01055,deoC,deoxyribose-phosphate aldolase,-,1156242,1157018
+MIDG2331_RS05165,MIDG2331_01056,,NupC/NupG family nucleoside CNT transporter,-,1157155,1158423
+MIDG2331_RS05170,MIDG2331_01057,yczE,membrane protein YczE,+,1158636,1159280
+MIDG2331_RS05175,MIDG2331_01058,,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,-,1159332,1159973
+MIDG2331_RS05180,MIDG2331_01059,,sugar kinase,-,1159988,1160932
+MIDG2331_RS05185,MIDG2331_01060,,glucuronate isomerase,-,1160945,1161520
+MIDG2331_RS05190,MIDG2331_01061,,glycoside hydrolase family 31 protein,+,1161538,1163769
+MIDG2331_RS05195,MIDG2331_01062,,GntR family transcriptional regulator,+,1163773,1164009
+MIDG2331_RS05200,MIDG2331_01063,,DMT family transporter,+,1163984,1164565
+MIDG2331_RS05205,MIDG2331_01064,msrA,peptide-methionine (S)-S-oxide reductase MsrA,+,1164656,1165162
+MIDG2331_RS05210,MIDG2331_01065,,glycosyltransferase family 2 protein,-,1165198,1165998
+MIDG2331_RS05215,MIDG2331_01066,,glycosyltransferase family 2 protein,-,1165998,1166879
+MIDG2331_RS05220,MIDG2331_01067,,hypothetical protein,-,1166872,1168071
+MIDG2331_RS05225,MIDG2331_01068,,glycosyltransferase family 25 protein,-,1168072,1168842
+MIDG2331_RS05230,MIDG2331_01069,,lipopolysaccharide biosynthesis protein,-,1168839,1170047
+MIDG2331_RS05235,MIDG2331_01070,,polysaccharide pyruvyl transferase family protein,-,1170025,1170990
+MIDG2331_RS05240,MIDG2331_01071,,YdcF family protein,+,1171146,1171886
+MIDG2331_RS05245,MIDG2331_01072,priA,primosomal protein N',-,1171966,1174182
+MIDG2331_RS05250,MIDG2331_01073,,chorismate mutase,-,1174267,1175424
+MIDG2331_RS05255,MIDG2331_01074,prlC,oligopeptidase A,-,1175547,1177580
+MIDG2331_RS05260,MIDG2331_01075,pflA,pyruvate formate lyase 1-activating protein,-,1177723,1178460
+MIDG2331_RS05265,MIDG2331_01076,pflB,formate C-acetyltransferase,-,1178587,1180899
+MIDG2331_RS05270,MIDG2331_01077,focA,formate transporter FocA,-,1180992,1181816
+MIDG2331_RS05275,MIDG2331_01078,,YqaA family protein,+,1182022,1182504
+MIDG2331_RS05280,MIDG2331_01079,htpX,protease HtpX,-,1182576,1183445
+MIDG2331_RS05285,MIDG2331_01080,dinB,DNA polymerase IV,-,1183533,1184603
+MIDG2331_RS05290,MIDG2331_01081,,LysO family transporter,+,1184710,1185618
+MIDG2331_RS05295,MIDG2331_01082,,isochorismate synthase,-,1185657,1186937
+MIDG2331_RS05300,MIDG2331_01083,,pyridoxal phosphate-dependent aminotransferase,+,1187101,1188318
+MIDG2331_RS05305,MIDG2331_01084,rarD,EamA family transporter RarD,+,1188362,1189255
+MIDG2331_RS05310,MIDG2331_01085,rarD,EamA family transporter RarD,+,1189256,1190122
+MIDG2331_RS05315,MIDG2331_01086,,LysE family translocator,+,1190119,1190736
+MIDG2331_RS05320,MIDG2331_01087,,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor,-,1190817,1193663
+MIDG2331_RS05325,MIDG2331_01088,hutZ,heme utilization protein HutZ,-,1193723,1194244
+MIDG2331_RS05330,MIDG2331_01089,,TPR domain-containing protein,-,1194448,1195194
+MIDG2331_RS05335,MIDG2331_01090,nrfF,heme lyase NrfEFG subunit NrfF,-,1195172,1195606
+MIDG2331_RS05340,MIDG2331_01091,,redoxin family protein,-,1195606,1196139
+MIDG2331_RS05345,MIDG2331_01092,nrfE,heme lyase NrfEFG subunit NrfE,-,1196141,1198057
+MIDG2331_RS05350,MIDG2331_01093,,monovalent cation:proton antiporter-2 (CPA2) family protein,-,1198228,1200093
+MIDG2331_RS05355,MIDG2331_01094,,class I adenylate cyclase,-,1200182,1202710
+MIDG2331_RS05360,MIDG2331_01095,fabB,beta-ketoacyl-ACP synthase I,+,1202965,1204185
+MIDG2331_RS05375,MIDG2331_01098,,YgiW/YdeI family stress tolerance OB fold protein,+,1205857,1206204
+MIDG2331_RS05380,MIDG2331_01099,,NirD/YgiW/YdeI family stress tolerance protein,+,1206260,1206856
+MIDG2331_RS05385,MIDG2331_01100,,YgiW/YdeI family stress tolerance OB fold protein,+,1206897,1207271
+MIDG2331_RS05390,MIDG2331_01101,,response regulator,+,1207360,1208025
+MIDG2331_RS05395,MIDG2331_01102,,ATP-binding protein,+,1208018,1209394
+MIDG2331_RS05400,MIDG2331_01103,,YtfJ family protein,-,1209442,1210002
+MIDG2331_RS05405,MIDG2331_01104,yajC,preprotein translocase subunit YajC,+,1210196,1210492
+MIDG2331_RS05410,MIDG2331_01105,secD,protein translocase subunit SecD,+,1210519,1212366
+MIDG2331_RS05415,MIDG2331_01106,secF,protein translocase subunit SecF,+,1212377,1213351
+MIDG2331_RS05420,MIDG2331_01107,ftnA,non-heme ferritin,+,1213501,1214007
+MIDG2331_RS05425,MIDG2331_01108,ftnA,non-heme ferritin,+,1214007,1214504
+MIDG2331_RS05430,MIDG2331_01109,,NCS2 family permease,+,1214744,1216045
+MIDG2331_RS05435,MIDG2331_01110,,Maf family protein,-,1216100,1216690
+MIDG2331_RS05440,MIDG2331_01111,,carboxymuconolactone decarboxylase family protein,+,1216846,1217388
+MIDG2331_RS05445,MIDG2331_01112,thiI,tRNA uracil 4-sulfurtransferase ThiI,-,1217484,1218932
+MIDG2331_RS05450,MIDG2331_01113,purA,adenylosuccinate synthase,-,1219119,1220417
+MIDG2331_RS05455,MIDG2331_01114,hflC,protease modulator HflC,-,1220604,1221491
+MIDG2331_RS05460,MIDG2331_01115,hflK,FtsH protease activity modulator HflK,-,1221494,1222684
+MIDG2331_RS05465,MIDG2331_01116,trxA,thioredoxin,-,1222862,1223179
+MIDG2331_RS05470,MIDG2331_01117,,nucleobase:cation symporter-2 family protein,-,1223315,1224607
+MIDG2331_RS05475,MIDG2331_01118,metK,methionine adenosyltransferase,-,1224769,1225920
+MIDG2331_RS05480,MIDG2331_01119,,homocysteine S-methyltransferase family protein,+,1226140,1227033
+MIDG2331_RS05485,MIDG2331_01120,,basic amino acid/polyamine antiporter,+,1227126,1228541
+MIDG2331_RS05490,MIDG2331_01121,,basic amino acid/polyamine antiporter,+,1228637,1230037
+MIDG2331_RS05495,MIDG2331_01122,,hypothetical protein,+,1230051,1230830
+MIDG2331_RS05500,MIDG2331_01123,argE,acetylornithine deacetylase,+,1230847,1231989
+MIDG2331_RS05505,MIDG2331_01124,,OmpW/AlkL family protein,-,1232196,1232840
+MIDG2331_RS05510,MIDG2331_01125,clpB,ATP-dependent chaperone ClpB,+,1233101,1235674
+MIDG2331_RS05515,MIDG2331_01126,arsB,ACR3 family arsenite efflux transporter,-,1235731,1236732
+MIDG2331_RS05520,MIDG2331_01127,arsC,arsenate reductase (glutaredoxin),-,1236744,1237148
+MIDG2331_RS05525,MIDG2331_01128,,ArsR/SmtB family transcription factor,-,1237208,1237522
+MIDG2331_RS05530,MIDG2331_01129,aspA,aspartate ammonia-lyase,-,1237650,1239077
+MIDG2331_RS05535,MIDG2331_01130,,DUF1294 domain-containing protein,-,1239218,1239499
+MIDG2331_RS05540,MIDG2331_01131,purM,phosphoribosylformylglycinamidine cyclo-ligase,-,1239573,1240610
+MIDG2331_RS05545,MIDG2331_01132,,family 20 glycosylhydrolase,+,1240825,1241958
+MIDG2331_RS05550,MIDG2331_01133,queC,7-cyano-7-deazaguanine synthase QueC,+,1242106,1242774
+MIDG2331_RS05555,MIDG2331_01134,queD,6-carboxytetrahydropterin synthase QueD,+,1242767,1243189
+MIDG2331_RS05560,MIDG2331_01135,,7-carboxy-7-deazaguanine synthase QueE,+,1243282,1243914
+MIDG2331_RS05565,MIDG2331_01136,,hypothetical protein,-,1244055,1244612
+MIDG2331_RS05570,MIDG2331_01137,,hypothetical protein,-,1244668,1244937
+MIDG2331_RS05575,MIDG2331_01138,pepA,leucyl aminopeptidase,-,1245281,1246780
+MIDG2331_RS05580,MIDG2331_01139,,hypothetical protein,+,1247148,1247963
+MIDG2331_RS05585,MIDG2331_01140,lptF,LPS export ABC transporter permease LptF,+,1248162,1249265
+MIDG2331_RS05590,MIDG2331_01141,lptG,LPS export ABC transporter permease LptG,+,1249266,1250348
+MIDG2331_RS05595,MIDG2331_01142,dnaE,DNA polymerase III subunit alpha,+,1250555,1254031
+MIDG2331_RS05600,MIDG2331_01143,,ATP-grasp domain-containing protein,-,1254980,1255354
+MIDG2331_RS05610,,,hypothetical protein,-,1255780,1255971
+MIDG2331_RS05615,MIDG2331_01146,purT,formate-dependent phosphoribosylglycinamide formyltransferase,-,1256674,1257855
+MIDG2331_RS05620,MIDG2331_01147,plsB,glycerol-3-phosphate 1-O-acyltransferase PlsB,-,1257978,1260452
+MIDG2331_RS05625,MIDG2331_01148,lexA,transcriptional repressor LexA,+,1260609,1261241
+MIDG2331_RS05630,MIDG2331_01149,mutH,DNA mismatch repair endonuclease MutH,+,1261301,1261981
+MIDG2331_RS05635,MIDG2331_01150,,TerC family protein,+,1262067,1262798
+MIDG2331_RS05640,MIDG2331_01151,nagZ,beta-N-acetylhexosaminidase,+,1262913,1263950
+MIDG2331_RS05645,MIDG2331_01152,rlmC,23S rRNA (uracil(747)-C(5))-methyltransferase RlmC,+,1264031,1265206
+MIDG2331_RS05650,MIDG2331_01153,eno,phosphopyruvate hydratase,+,1265413,1266723
+MIDG2331_RS05655,MIDG2331_01154,,NUDIX hydrolase N-terminal domain-containing protein,+,1266799,1267428
+MIDG2331_RS05660,MIDG2331_01155,,DUF2251 domain-containing protein,+,1267442,1267852
+MIDG2331_RS05665,MIDG2331_01156,recQ,ATP-dependent DNA helicase RecQ,-,1267911,1269719
+MIDG2331_RS05670,MIDG2331_01157,cyaY,iron donor protein CyaY,-,1269804,1270109
+MIDG2331_RS05685,MIDG2331_01160,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,-,1270821,1271864
+MIDG2331_RS05690,MIDG2331_01161,,outer membrane protein assembly factor BamD,-,1271956,1272732
+MIDG2331_RS05695,MIDG2331_01162,rluD,23S rRNA pseudouridine(1911/1915/1917) synthase RluD,+,1272885,1273862
+MIDG2331_RS05700,MIDG2331_01163,,YwiC-like family protein,-,1273906,1274619
+MIDG2331_RS05705,MIDG2331_01164,pfkA,6-phosphofructokinase,-,1274678,1275652
+MIDG2331_RS05710,MIDG2331_01165,,aminotransferase class V-fold PLP-dependent enzyme,-,1275762,1276964
+MIDG2331_RS05715,MIDG2331_01166,,thermonuclease family protein,-,1276964,1277662
+MIDG2331_RS05720,MIDG2331_01167,,alanine/glycine:cation symporter family protein,-,1277728,1279095
+MIDG2331_RS05725,MIDG2331_01169,,AI-2E family transporter,-,1279561,1280613
+MIDG2331_RS05730,MIDG2331_01170,,cytochrome b562,-,1280707,1281081
+MIDG2331_RS05735,MIDG2331_01171,trhP,prephenate-dependent tRNA uridine(34) hydroxylase TrhP,+,1281230,1282627
+MIDG2331_RS05740,MIDG2331_01172,,O-antigen ligase family protein,+,1282874,1284121
+MIDG2331_RS05745,MIDG2331_01173,waaA,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,+,1284121,1285401
+MIDG2331_RS05750,MIDG2331_01174,coaD,pantetheine-phosphate adenylyltransferase,+,1285403,1285879
+MIDG2331_RS05755,MIDG2331_01175,orn,oligoribonuclease,+,1285882,1286436
+MIDG2331_RS05760,MIDG2331_01176,tsaE,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,+,1286444,1286935
+MIDG2331_RS05765,MIDG2331_01177,,N-acetylmuramoyl-L-alanine amidase family protein,+,1286959,1288104
+MIDG2331_RS05770,MIDG2331_01178,pgi,glucose-6-phosphate isomerase,-,1288183,1289823
+MIDG2331_RS05775,MIDG2331_01179,ubiK,ubiquinone biosynthesis accessory factor UbiK,-,1289860,1290111
+MIDG2331_RS05800,MIDG2331_01184,aroE,shikimate dehydrogenase,-,1290799,1291623
+MIDG2331_RS05805,MIDG2331_01185,tsaC,L-threonylcarbamoyladenylate synthase type 1 TsaC,-,1291630,1292184
+MIDG2331_RS05810,MIDG2331_01186,,DNA topoisomerase family protein,-,1292177,1292710
+MIDG2331_RS05815,MIDG2331_01187,yqfB,N(4)-acetylcytidine aminohydrolase,-,1292707,1293015
+MIDG2331_RS05820,MIDG2331_01188,recX,recombination regulator RecX,-,1293008,1293463
+MIDG2331_RS05825,MIDG2331_01189,recA,recombinase RecA,-,1293534,1294664
+MIDG2331_RS05830,MIDG2331_01190,,aminotransferase class IV family protein,-,1294778,1295383
+MIDG2331_RS05835,MIDG2331_01191,,aminodeoxychorismate synthase component I,-,1295361,1296329
+MIDG2331_RS05840,MIDG2331_01192,,DNA recombination protein RmuC,+,1296464,1298098
+MIDG2331_RS05845,MIDG2331_01193,,anthranilate synthase component II,+,1298070,1298681
+MIDG2331_RS05850,MIDG2331_01194,,DUF302 domain-containing protein,+,1298753,1299202
+MIDG2331_RS05855,MIDG2331_01195,aspS,aspartate--tRNA ligase,+,1299374,1301149
+MIDG2331_RS05860,MIDG2331_01196,nudB,dihydroneopterin triphosphate diphosphatase,+,1301183,1301653
+MIDG2331_RS05865,MIDG2331_01197,,YebC/PmpR family DNA-binding transcriptional regulator,+,1301677,1302417
+MIDG2331_RS05870,MIDG2331_01198,,hypothetical protein,+,1302551,1303075
+MIDG2331_RS05875,MIDG2331_01199,ruvC,crossover junction endodeoxyribonuclease RuvC,+,1303159,1303737
+MIDG2331_RS05880,MIDG2331_01200,,M16 family metallopeptidase,-,1303777,1305291
+MIDG2331_RS05885,MIDG2331_01201,metE,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,-,1305449,1307722
+MIDG2331_RS05890,MIDG2331_01202,,DASS family sodium-coupled anion symporter,-,1307953,1309413
+MIDG2331_RS05895,MIDG2331_01203,,LysR family transcriptional regulator,+,1309640,1310569
+MIDG2331_RS05905,MIDG2331_01205,rluB,23S rRNA pseudouridine(2605) synthase RluB,-,1311900,1312949
+MIDG2331_RS05910,MIDG2331_01206,,L-threonylcarbamoyladenylate synthase,-,1313021,1313638
+MIDG2331_RS05920,MIDG2331_01209,,Dyp-type peroxidase,-,1314182,1315078
+MIDG2331_RS05925,MIDG2331_01210,,anthranilate synthase component 1,+,1315237,1316787
+MIDG2331_RS05930,MIDG2331_01211,,aminodeoxychorismate/anthranilate synthase component II,+,1316801,1317388
+MIDG2331_RS05935,MIDG2331_01212,trpD,anthranilate phosphoribosyltransferase,+,1317445,1318449
+MIDG2331_RS05940,MIDG2331_01213,,class I SAM-dependent methyltransferase,+,1318492,1319247
+MIDG2331_RS05945,MIDG2331_01214,,prolipoprotein diacylglyceryl transferase,-,1319274,1320359
+MIDG2331_RS05950,MIDG2331_01215,,YdcH family protein,+,1320555,1320770
+MIDG2331_RS05955,MIDG2331_01216,rplI,50S ribosomal protein L9,-,1320859,1321308
+MIDG2331_RS05960,MIDG2331_01217,rpsR,30S ribosomal protein S18,-,1321326,1321553
+MIDG2331_RS05965,,priB,primosomal replication protein N,-,1321528,1321902
+MIDG2331_RS05970,MIDG2331_01218,rpsF,30S ribosomal protein S6,-,1321877,1322251
+MIDG2331_RS05975,MIDG2331_01219,purD,phosphoribosylamine--glycine ligase,+,1322543,1323829
+MIDG2331_RS05980,MIDG2331_01220,pnuC,nicotinamide riboside transporter PnuC,-,1323921,1324613
+MIDG2331_RS05985,MIDG2331_01221,,YfgM family protein,-,1324741,1325364
+MIDG2331_RS05990,MIDG2331_01222,hisS,histidine--tRNA ligase,-,1325380,1326651
+MIDG2331_RS05995,MIDG2331_01223,ispG,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,-,1326779,1327891
+MIDG2331_RS06000,MIDG2331_01224,,RodZ domain-containing protein,-,1327901,1328869
+MIDG2331_RS06005,MIDG2331_01225,,SulP family inorganic anion transporter,+,1329149,1330705
+MIDG2331_RS06010,MIDG2331_01226,argH,argininosuccinate lyase,-,1331015,1332391
+MIDG2331_RS06015,MIDG2331_01227,,Gfo/Idh/MocA family oxidoreductase,-,1332673,1333716
+MIDG2331_RS06020,MIDG2331_01228,,monovalent cation:proton antiporter-2 (CPA2) family protein,+,1333964,1335772
+MIDG2331_RS06025,MIDG2331_01229,,ATP-binding protein,+,1335967,1337175
+MIDG2331_RS06030,MIDG2331_01230,,SIR2 family protein,+,1337272,1338672
+MIDG2331_RS06035,MIDG2331_01232,,TIR domain-containing protein,+,1338675,1339172
+MIDG2331_RS06040,MIDG2331_01233,,TIR domain-containing protein,+,1339186,1339830
+MIDG2331_RS06045,MIDG2331_01234,,LysR family transcriptional regulator,-,1340052,1340945
+MIDG2331_RS06050,MIDG2331_01235,,nuclear transport factor 2 family protein,+,1341069,1341521
+MIDG2331_RS06055,MIDG2331_01236,,"IS256 family transposase, variant Zn-binding type",-,1341644,1342537
+MIDG2331_RS06060,MIDG2331_01237,,AraC family transcriptional regulator,+,1342634,1343476
+MIDG2331_RS06065,MIDG2331_01238,,LysR family transcriptional regulator,-,1343535,1344434
+MIDG2331_RS06070,MIDG2331_01239,,NADH:flavin oxidoreductase/NADH oxidase,+,1344525,1345595
+MIDG2331_RS06075,MIDG2331_01240,,LLM class flavin-dependent oxidoreductase,+,1345677,1346714
+MIDG2331_RS06080,MIDG2331_01241,,NAD(P)-dependent oxidoreductase,-,1346773,1347675
+MIDG2331_RS06085,MIDG2331_01242,,NAD(P)H-dependent oxidoreductase,+,1347954,1348616
+MIDG2331_RS06090,MIDG2331_01243,,MarC family protein,+,1348770,1349387
+MIDG2331_RS06095,MIDG2331_01244,,ACP phosphodiesterase,+,1349466,1350028
+MIDG2331_RS06100,MIDG2331_01245,fghA,S-formylglutathione hydrolase,-,1350102,1350959
+MIDG2331_RS06105,MIDG2331_01246,yghU,glutathione-dependent disulfide-bond oxidoreductase,-,1350974,1351768
+MIDG2331_RS06110,MIDG2331_01247,,type II toxin-antitoxin system VapC family toxin,-,1351944,1352363
+MIDG2331_RS06115,MIDG2331_01248,,type II toxin-antitoxin system Phd/YefM family antitoxin,-,1352373,1352630
+MIDG2331_RS06120,MIDG2331_01249,,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,-,1352780,1353898
+MIDG2331_RS06125,MIDG2331_01250,,BCCT family transporter,-,1354053,1356079
+MIDG2331_RS06130,MIDG2331_01252,,GNAT family N-acetyltransferase,+,1356376,1357086
+MIDG2331_RS06135,MIDG2331_01253,,DUF72 domain-containing protein,+,1357080,1357922
+MIDG2331_RS06140,MIDG2331_01254,tehA,dicarboxylate transporter/tellurite-resistance protein TehA,-,1358001,1358951
+MIDG2331_RS06145,MIDG2331_01255,hxpB,hexitol phosphatase HxpB,-,1359047,1359697
+MIDG2331_RS06150,MIDG2331_01256,,flavin reductase family protein,-,1359935,1360498
+MIDG2331_RS06155,MIDG2331_01257,,ABC transporter ATP-binding protein,-,1360585,1362429
+MIDG2331_RS06160,MIDG2331_01258,luxS,S-ribosylhomocysteine lyase,-,1362535,1363044
+MIDG2331_RS06165,MIDG2331_01259,,PqiB family protein,-,1363099,1365765
+MIDG2331_RS06170,MIDG2331_01260,fur,ferric iron uptake transcriptional regulator,-,1365913,1366362
+MIDG2331_RS06175,MIDG2331_01261,fldA,flavodoxin FldA,-,1366393,1366917
+MIDG2331_RS06180,MIDG2331_01262,ybfE,LexA regulated protein,-,1366939,1367223
+MIDG2331_RS06185,MIDG2331_01263,ybaK,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,-,1367432,1367908
+MIDG2331_RS06190,MIDG2331_01264,,oxidoreductase,+,1367993,1368994
+MIDG2331_RS06195,MIDG2331_01265,,NCS2 family permease,+,1369055,1370350
+MIDG2331_RS06200,MIDG2331_01266,,DsrE/DsrF/TusD sulfur relay family protein,+,1370460,1370810
+MIDG2331_RS06205,MIDG2331_01267,,BaiN/RdsA family NAD(P)/FAD-dependent oxidoreductase,+,1370810,1371997
+MIDG2331_RS06210,MIDG2331_01268,infA,translation initiation factor IF-1,-,1372075,1372293
+MIDG2331_RS06215,MIDG2331_01269,,YtjB family periplasmic protein,-,1372386,1373048
+MIDG2331_RS06220,MIDG2331_01270,serB,phosphoserine phosphatase SerB,+,1373141,1374001
+MIDG2331_RS06225,MIDG2331_01271,,YajQ family cyclic di-GMP-binding protein,+,1374060,1374551
+MIDG2331_RS06230,MIDG2331_01272,,DUF5363 domain-containing protein,+,1374600,1374797
+MIDG2331_RS06235,MIDG2331_01273,glgP,glycogen/starch/alpha-glucan family phosphorylase,+,1374905,1377304
+MIDG2331_RS06240,MIDG2331_01274,malT,HTH-type transcriptional regulator MalT,-,1377382,1380099
+MIDG2331_RS06245,MIDG2331_01275,malM,maltose operon protein MalM,-,1380214,1381098
+MIDG2331_RS06250,MIDG2331_01276,,maltoporin,-,1381170,1382462
+MIDG2331_RS06255,MIDG2331_01277,malK,maltose/maltodextrin ABC transporter ATP-binding protein MalK,-,1382532,1383671
+MIDG2331_RS06260,MIDG2331_01278,malE,maltose/maltodextrin ABC transporter substrate-binding protein MalE,+,1384003,1385187
+MIDG2331_RS06265,MIDG2331_01279,malF,maltose ABC transporter permease MalF,+,1385266,1386816
+MIDG2331_RS06270,MIDG2331_01280,malG,maltose ABC transporter permease MalG,+,1386867,1387757
+MIDG2331_RS06275,MIDG2331_01281,malQ,4-alpha-glucanotransferase,+,1387818,1389866
+MIDG2331_RS06280,MIDG2331_01282,,carbon starvation CstA family protein,+,1390084,1391670
+MIDG2331_RS06285,MIDG2331_01283,,TatD family hydrolase,+,1391744,1392538
+MIDG2331_RS06290,MIDG2331_01284,gorA,glutathione-disulfide reductase,-,1392597,1393967
+MIDG2331_RS06295,MIDG2331_01285,,TIGR00645 family protein,-,1394053,1394571
+MIDG2331_RS06300,MIDG2331_01286,,nitroreductase family protein,-,1394673,1395311
+MIDG2331_RS06305,MIDG2331_01287,,AzlD family protein,-,1395474,1395767
+MIDG2331_RS06310,MIDG2331_01288,,AzlC family ABC transporter permease,-,1395767,1396471
+MIDG2331_RS06315,MIDG2331_01289,,peptide ABC transporter ATP-binding protein,-,1396500,1397300
+MIDG2331_RS06320,MIDG2331_01290,fbaA,class II fructose-bisphosphate aldolase,-,1397416,1398492
+MIDG2331_RS06325,MIDG2331_01291,,phosphoglycerate kinase,-,1398594,1399769
+MIDG2331_RS06330,MIDG2331_01292,,SLC13 family permease,-,1399927,1401315
+MIDG2331_RS06335,MIDG2331_01293,sdcA,sodium/C4-dicarboxylate transporter SdcA,-,1401547,1402821
+MIDG2331_RS06340,MIDG2331_01294,,DASS family sodium-coupled anion symporter,-,1403126,1404517
+MIDG2331_RS06345,MIDG2331_01295,parE,DNA topoisomerase IV subunit B,-,1404712,1406625
+MIDG2331_RS06350,,phoR,phosphate regulon sensor histidine kinase PhoR,-,1406703,1407996
+MIDG2331_RS06355,MIDG2331_01298,phoB,phosphate regulon transcriptional regulator PhoB,-,1407996,1408637
+MIDG2331_RS06360,MIDG2331_01299,pstB,phosphate ABC transporter ATP-binding protein PstB,-,1408817,1409596
+MIDG2331_RS06365,MIDG2331_01300,pstA,phosphate ABC transporter permease PstA,-,1409605,1410348
+MIDG2331_RS06370,MIDG2331_01302,pstC,phosphate ABC transporter permease subunit PstC,-,1410456,1411409
+MIDG2331_RS06375,MIDG2331_01303,pstS,phosphate ABC transporter substrate-binding protein PstS,-,1411558,1412601
+MIDG2331_RS06380,MIDG2331_01304,cueR,Cu(I)-responsive transcriptional regulator,-,1412723,1413109
+MIDG2331_RS06385,MIDG2331_01305,,DUF411 domain-containing protein,+,1413195,1413647
+MIDG2331_RS06390,MIDG2331_01306,,heavy-metal-associated domain-containing protein,+,1413665,1413865
+MIDG2331_RS06395,MIDG2331_01307,,heavy metal translocating P-type ATPase,+,1414104,1416254
+MIDG2331_RS06400,MIDG2331_01308,,SDR family NAD(P)-dependent oxidoreductase,-,1416362,1417183
+MIDG2331_RS06405,MIDG2331_01309,,NAD(P)H nitroreductase,-,1417211,1417786
+MIDG2331_RS06410,MIDG2331_01310,sppA,signal peptide peptidase SppA,+,1417889,1419745
+MIDG2331_RS06415,MIDG2331_01311,,ribonuclease T2 family protein,+,1419880,1420647
+MIDG2331_RS06420,MIDG2331_01312,,SprT family zinc-dependent metalloprotease,+,1420648,1421169
+MIDG2331_RS06425,MIDG2331_01313,,NAD(P)/FAD-dependent oxidoreductase,+,1421274,1422560
+MIDG2331_RS06430,MIDG2331_01314,,Tex family protein,-,1422752,1425079
+MIDG2331_RS06435,MIDG2331_01315,pilW,type IV pilus biogenesis/stability protein PilW,-,1425154,1425702
+MIDG2331_RS06440,MIDG2331_01316,rlmN,dual-specificity RNA methyltransferase RlmN,-,1425756,1426937
+MIDG2331_RS06465,MIDG2331_01321,gltX,glutamate--tRNA ligase,+,1427842,1429281
+MIDG2331_RS06475,MIDG2331_01323,,tyrosine-type recombinase/integrase,+,1429586,1430806
+MIDG2331_RS06480,MIDG2331_01324,,hypothetical protein,+,1431563,1432384
+MIDG2331_RS06485,MIDG2331_01325,,helix-turn-helix transcriptional regulator,+,1432616,1432855
+MIDG2331_RS06490,MIDG2331_01326,,hypothetical protein,+,1432867,1433247
+MIDG2331_RS06500,MIDG2331_01328,,antA/AntB antirepressor family protein,+,1433535,1434260
+MIDG2331_RS06505,MIDG2331_01329,,terminase small subunit,+,1434265,1434651
+MIDG2331_RS06510,MIDG2331_01330,,YlcI/YnfO family protein,-,1434942,1435130
+MIDG2331_RS06515,MIDG2331_01331,,ash family protein,+,1435353,1436015
+MIDG2331_RS06520,MIDG2331_01333,,hypothetical protein,+,1436008,1436349
+MIDG2331_RS06525,MIDG2331_01334,,hypothetical protein,+,1436342,1436545
+MIDG2331_RS06530,MIDG2331_01335,,hypothetical protein,+,1436538,1436762
+MIDG2331_RS06535,MIDG2331_01336,,DUF927 domain-containing protein,+,1436740,1438911
+MIDG2331_RS06540,MIDG2331_01337,yefM,YoeB-YefM toxin-antitoxin system antitoxin YefM,+,1440179,1440430
+MIDG2331_RS06545,MIDG2331_01338,,Txe/YoeB family addiction module toxin,+,1440427,1440687
+MIDG2331_RS06550,MIDG2331_01339,,Trm112 family protein,-,1440846,1441013
+MIDG2331_RS06555,MIDG2331_01340,lpxK,tetraacyldisaccharide 4'-kinase,-,1441015,1441995
+MIDG2331_RS06560,MIDG2331_01342,clpX,ATP-dependent protease ATP-binding subunit ClpX,-,1442089,1443347
+MIDG2331_RS06565,MIDG2331_01343,clpP,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,-,1443347,1443937
+MIDG2331_RS06570,MIDG2331_01344,,SufE family protein,+,1444059,1444451
+MIDG2331_RS06585,MIDG2331_01347,dnaQ,DNA polymerase III subunit epsilon,-,1444822,1445583
+MIDG2331_RS06590,MIDG2331_01348,ettA,energy-dependent translational throttle protein EttA,-,1445670,1447340
+MIDG2331_RS06595,MIDG2331_01349,,carboxymuconolactone decarboxylase family protein,+,1447505,1447843
+MIDG2331_RS06600,MIDG2331_01350,,rhodanese-like domain-containing protein,+,1447836,1448204
+MIDG2331_RS06605,MIDG2331_01351,,hypothetical protein,+,1448313,1448633
+MIDG2331_RS06610,MIDG2331_01352,murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,-,1448691,1449965
+MIDG2331_RS06615,MIDG2331_01353,,BolA family protein,-,1450097,1450357
+MIDG2331_RS06620,MIDG2331_01354,,STAS domain-containing protein,-,1450370,1450723
+MIDG2331_RS06625,MIDG2331_01355,mlaC,phospholipid-binding protein MlaC,-,1450733,1451371
+MIDG2331_RS06630,MIDG2331_01356,mlaD,outer membrane lipid asymmetry maintenance protein MlaD,-,1451449,1451976
+MIDG2331_RS06635,MIDG2331_01357,mlaE,lipid asymmetry maintenance ABC transporter permease subunit MlaE,-,1451995,1452825
+MIDG2331_RS06640,MIDG2331_01358,mlaF,phospholipid ABC transporter ATP-binding protein MlaF,-,1452764,1453567
+MIDG2331_RS06645,MIDG2331_01359,,DegQ family serine endoprotease,+,1453828,1455219
+MIDG2331_RS06650,MIDG2331_01360,,TIGR01777 family oxidoreductase,-,1455259,1456146
+MIDG2331_RS06655,MIDG2331_01361,argR,transcriptional regulator ArgR,-,1456146,1456607
+MIDG2331_RS06660,MIDG2331_01362,mdh,malate dehydrogenase,+,1456801,1457754
+MIDG2331_RS06665,MIDG2331_01363,,hypothetical protein,+,1457844,1458113
+MIDG2331_RS06670,MIDG2331_01364,adk,adenylate kinase,-,1458181,1458825
+MIDG2331_RS06675,MIDG2331_01365,,TonB-dependent receptor domain-containing protein,-,1458977,1461100
+MIDG2331_RS06680,MIDG2331_01366,,AmpG family muropeptide MFS transporter,-,1461277,1462557
+MIDG2331_RS06685,MIDG2331_01367,galE,UDP-glucose 4-epimerase GalE,-,1462696,1463712
+MIDG2331_RS06690,MIDG2331_01368,ligA,NAD-dependent DNA ligase LigA,-,1463776,1465824
+MIDG2331_RS06695,MIDG2331_01369,zipA,cell division protein ZipA,-,1465888,1466898
+MIDG2331_RS06700,MIDG2331_01370,cysZ,sulfate transporter CysZ,+,1467018,1467899
+MIDG2331_RS06705,MIDG2331_01371,,hypothetical protein,-,1467959,1468285
+MIDG2331_RS06710,MIDG2331_01372,gnd,decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase,-,1468377,1469831
+MIDG2331_RS06715,MIDG2331_01373,,hypothetical protein,-,1470044,1470493
+MIDG2331_RS06720,MIDG2331_01374,,aspartate/glutamate racemase family protein,-,1470679,1471368
+MIDG2331_RS06725,MIDG2331_01375,,MFS transporter,-,1471471,1472790
+MIDG2331_RS06730,MIDG2331_01376,pgl,6-phosphogluconolactonase,-,1472923,1473621
+MIDG2331_RS06735,MIDG2331_01377,zwf,glucose-6-phosphate dehydrogenase,-,1473708,1475195
+MIDG2331_RS06740,MIDG2331_01378,cysQ,"3'(2'),5'-bisphosphate nucleotidase CysQ",-,1475267,1476082
+MIDG2331_RS06745,MIDG2331_01379,nudE,ADP compounds hydrolase NudE,-,1476095,1476652
+MIDG2331_RS06750,MIDG2331_01380,hslR,ribosome-associated heat shock protein Hsp15,+,1476795,1477199
+MIDG2331_RS06755,MIDG2331_01381,hslO,Hsp33 family molecular chaperone HslO,+,1477330,1478220
+MIDG2331_RS06760,MIDG2331_01382,,anaerobic C4-dicarboxylate transporter,-,1478288,1479622
+MIDG2331_RS06770,MIDG2331_01384,,ornithine carbamoyltransferase,+,1480475,1481479
+MIDG2331_RS06775,MIDG2331_01385,arcC,carbamate kinase,+,1481501,1482448
+MIDG2331_RS06780,MIDG2331_01386,,sucrose-specific PTS transporter subunit IIBC,-,1482696,1484117
+MIDG2331_RS06785,MIDG2331_01387,thiQ,thiamine ABC transporter ATP-binding protein,-,1484308,1484952
+MIDG2331_RS06790,MIDG2331_01388,thiP,thiamine/thiamine pyrophosphate ABC transporter permease ThiP,-,1484949,1486574
+MIDG2331_RS06795,MIDG2331_01389,ptsH,phosphocarrier protein Hpr,+,1486811,1487068
+MIDG2331_RS06800,MIDG2331_01390,ptsI,phosphoenolpyruvate-protein phosphotransferase PtsI,+,1487192,1488913
+MIDG2331_RS06805,MIDG2331_01391,crr,PTS glucose transporter subunit IIA,+,1488998,1489498
+MIDG2331_RS06810,MIDG2331_01392,miaB,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,+,1489683,1491110
+MIDG2331_RS06815,MIDG2331_01393,uvrD,DNA helicase II,+,1491312,1493510
+MIDG2331_RS06820,MIDG2331_01394,hypB,hydrogenase nickel incorporation protein HypB,+,1493714,1494523
+MIDG2331_RS06825,MIDG2331_01395,hypD,hydrogenase formation protein HypD,+,1494535,1495650
+MIDG2331_RS06830,MIDG2331_01396,hypE,hydrogenase expression/formation protein HypE,+,1495652,1496665
+MIDG2331_RS06835,MIDG2331_01397,,HlyD family type I secretion periplasmic adaptor subunit,-,1497005,1498438
+MIDG2331_RS06840,MIDG2331_01398,,type I secretion system permease/ATPase,-,1498450,1500585
+MIDG2331_RS06845,MIDG2331_01399,,RTX family hemolysin,-,1500642,1503800
+MIDG2331_RS06850,MIDG2331_01400,apxIIIC,RTX-III toxin-activating lysine-acyltransferase ApxIIC,-,1503804,1504325
+MIDG2331_RS06855,MIDG2331_01401,hypF,carbamoyltransferase HypF,-,1504767,1507070
+MIDG2331_RS06860,MIDG2331_01402,hybO,hydrogenase 2 small subunit,+,1507305,1508447
+MIDG2331_RS06865,MIDG2331_01403,hybA,hydrogenase 2 operon protein HybA,+,1508440,1509477
+MIDG2331_RS06870,MIDG2331_01404,hybB,Ni/Fe-hydrogenase cytochrome b subunit,+,1509470,1510651
+MIDG2331_RS06875,MIDG2331_01405,hybC,hydrogenase 2 large subunit,+,1510648,1512357
+MIDG2331_RS06880,MIDG2331_01406,,HyaD/HybD family hydrogenase maturation endopeptidase,+,1512357,1512854
+MIDG2331_RS06885,MIDG2331_01407,hybE,hydrogenase-2 assembly chaperone,+,1512847,1513350
+MIDG2331_RS06890,MIDG2331_01408,hybG,hydrogenase maturation factor HybG,+,1513378,1513656
+MIDG2331_RS06895,MIDG2331_01409,hypA,hydrogenase maturation nickel metallochaperone HypA,-,1513751,1514092
+MIDG2331_RS06905,MIDG2331_01411,,tyrosine-type recombinase/integrase,-,1514592,1515434
+MIDG2331_RS06910,MIDG2331_01412,mobH,MobH family relaxase,-,1515496,1517382
+MIDG2331_RS06915,MIDG2331_01413,,phosphoribosyltransferase,+,1517620,1518324
+MIDG2331_RS06920,MIDG2331_01414,,helix-turn-helix domain-containing protein,-,1518640,1519320
+MIDG2331_RS06925,MIDG2331_01416,,hypothetical protein,-,1519627,1519914
+MIDG2331_RS06930,MIDG2331_01417,,hypothetical protein,+,1520161,1520352
+MIDG2331_RS06935,MIDG2331_01418,,recombinase family protein,+,1520367,1520957
+MIDG2331_RS06940,MIDG2331_01419,,hypothetical protein,+,1521040,1521483
+MIDG2331_RS06945,MIDG2331_01420,,N-6 DNA methylase,-,1521560,1522321
+MIDG2331_RS06950,MIDG2331_01421,,ArdC family protein,-,1522425,1523378
+MIDG2331_RS06955,MIDG2331_01423,,hypothetical protein,-,1523671,1523919
+MIDG2331_RS06960,MIDG2331_01424,,hypothetical protein,-,1523922,1524155
+MIDG2331_RS06965,MIDG2331_01425,,hypothetical protein,-,1524240,1524596
+MIDG2331_RS06970,MIDG2331_01426,,TIGR03757 family integrating conjugative element protein,+,1524977,1525414
+MIDG2331_RS06975,MIDG2331_01427,,TIGR03756 family integrating conjugative element protein,+,1525411,1526352
+MIDG2331_RS06980,MIDG2331_01428,,integrating conjugative element protein,+,1526367,1528367
+MIDG2331_RS06985,MIDG2331_01429,,hypothetical protein,+,1528383,1528790
+MIDG2331_RS06990,MIDG2331_01430,,hypothetical protein,-,1528835,1529014
+MIDG2331_RS06995,MIDG2331_01431,,hypothetical protein,+,1529211,1529567
+MIDG2331_RS07000,MIDG2331_01432,,conjugal transfer protein TraG N-terminal domain-containing protein,-,1529594,1531090
+MIDG2331_RS07005,MIDG2331_01433,,hypothetical protein,-,1531099,1531422
+MIDG2331_RS07010,MIDG2331_01434,,hypothetical protein,-,1531432,1531875
+MIDG2331_RS07015,MIDG2331_01435,,conjugative transfer ATPase,-,1531847,1534717
+MIDG2331_RS07020,MIDG2331_01436,,TIGR03751 family conjugal transfer lipoprotein,-,1534733,1535140
+MIDG2331_RS07025,MIDG2331_01437,,TIGR03752 family integrating conjugative element protein,-,1535150,1536550
+MIDG2331_RS07030,MIDG2331_01438,,TIGR03749 family integrating conjugative element protein,-,1536561,1537430
+MIDG2331_RS07035,MIDG2331_01439,,PFL_4703 family integrating conjugative element protein,-,1537430,1538074
+MIDG2331_RS07040,MIDG2331_01440,,TIGR03750 family conjugal transfer protein,-,1538086,1538457
+MIDG2331_RS07045,MIDG2331_01441,,DUF2976 domain-containing protein,-,1538477,1538878
+MIDG2331_RS07050,MIDG2331_01442,,DUF3262 family protein,-,1538898,1539143
+MIDG2331_RS07055,MIDG2331_01443,,"integrative conjugative element protein, RAQPRD family",-,1539147,1539467
+MIDG2331_RS07060,MIDG2331_01444,,TIGR03747 family integrating conjugative element membrane protein,-,1539628,1540314
+MIDG2331_RS07065,MIDG2331_01445,,hypothetical protein,-,1540314,1540649
+MIDG2331_RS07070,MIDG2331_01446,traD,type IV conjugative transfer system coupling protein TraD,-,1540633,1542882
+MIDG2331_RS07075,MIDG2331_01447,,integrating conjugative element protein,-,1542879,1543385
+MIDG2331_RS07080,MIDG2331_01448,,transglycosylase SLT domain-containing protein,-,1543401,1544159
+MIDG2331_RS07085,MIDG2331_01449,,TIGR03759 family integrating conjugative element protein,-,1544138,1544878
+MIDG2331_RS07090,MIDG2331_01450,pilL2,PFGI-1 class ICE element type IV pilus protein PilL2,-,1544882,1545511
+MIDG2331_RS07095,MIDG2331_01451,,TraX family protein,-,1545610,1546341
+MIDG2331_RS07100,MIDG2331_01452,,hypothetical protein,-,1546432,1546635
+MIDG2331_RS07105,MIDG2331_01454,,IS4-like element ISVsa5 family transposase,+,1546833,1548041
+MIDG2331_RS07110,MIDG2331_01455,,helix-turn-helix domain-containing protein,-,1548051,1548467
+MIDG2331_RS07115,MIDG2331_01456,tetC,tetracyline resistance-associated transcriptional repressor TetC,+,1548555,1549148
+MIDG2331_RS07120,MIDG2331_01457,tet(B),tetracycline efflux MFS transporter Tet(B),-,1549261,1550466
+MIDG2331_RS07125,,tetR(B),tetracycline resistance transcriptional repressor TetR(B),+,1550548,1551170
+MIDG2331_RS07130,MIDG2331_01459,,ArsR/SmtB family transcription factor,-,1551148,1551771
+MIDG2331_RS07135,MIDG2331_01460,,hypothetical protein,-,1551842,1552228
+MIDG2331_RS07140,MIDG2331_01461,,antibiotic biosynthesis monooxygenase family protein,-,1552221,1552541
+MIDG2331_RS07145,MIDG2331_01462,gltS,sodium/glutamate symporter,+,1552985,1554190
+MIDG2331_RS07155,MIDG2331_01464,,IS4-like element ISVsa5 family transposase,-,1554556,1555764
+MIDG2331_RS07160,MIDG2331_01466,,hypothetical protein,-,1555824,1556183
+MIDG2331_RS07165,MIDG2331_01467,radC,RadC family protein,-,1556276,1556746
+MIDG2331_RS07170,MIDG2331_01468,,DUF3560 domain-containing protein,-,1556885,1557526
+MIDG2331_RS07175,MIDG2331_01469,,STY4534 family ICE replication protein,-,1557641,1558069
+MIDG2331_RS07180,MIDG2331_01470,,DNA topoisomerase III,-,1558954,1560999
+MIDG2331_RS07185,MIDG2331_01471,,plasmid fertility inhibition factor family protein,+,1561090,1561647
+MIDG2331_RS07190,MIDG2331_01472,,membrane lipoprotein lipid attachment site-containing protein,-,1561863,1562381
+MIDG2331_RS07195,MIDG2331_01473,,single-stranded DNA-binding protein,-,1562408,1562830
+MIDG2331_RS07200,MIDG2331_01474,,DUF3158 family protein,-,1563077,1563550
+MIDG2331_RS07205,MIDG2331_01475,,PFL_4669 family integrating conjugative element protein,-,1563565,1564320
+MIDG2331_RS07215,MIDG2331_01476,,STY4528 family pathogenicity island replication protein,-,1564545,1565768
+MIDG2331_RS07220,MIDG2331_01477,,DUF2857 domain-containing protein,-,1565918,1566469
+MIDG2331_RS07225,MIDG2331_01478,,ParB family protein,-,1566469,1568157
+MIDG2331_RS07230,MIDG2331_01479,dnaB,replicative DNA helicase,-,1568150,1569505
+MIDG2331_RS07235,MIDG2331_01480,,ParA family protein,-,1569507,1570343
+MIDG2331_RS07265,MIDG2331_01486,mfd,transcription-repair coupling factor,-,1571090,1574539
+MIDG2331_RS07270,MIDG2331_01487,pepN,aminopeptidase N,+,1574641,1577250
+MIDG2331_RS07275,MIDG2331_01488,plsY,glycerol-3-phosphate 1-O-acyltransferase PlsY,-,1577388,1577978
+MIDG2331_RS07280,MIDG2331_01489,folB,dihydroneopterin aldolase,+,1578050,1578403
+MIDG2331_RS07285,MIDG2331_01490,cdd,cytidine deaminase,+,1578512,1579405
+MIDG2331_RS07290,MIDG2331_01491,ftsX,permease-like cell division protein FtsX,-,1579452,1580390
+MIDG2331_RS07295,MIDG2331_01492,ftsE,cell division ATP-binding protein FtsE,-,1580400,1581053
+MIDG2331_RS07300,MIDG2331_01493,ftsY,signal recognition particle-docking protein FtsY,-,1581144,1582877
+MIDG2331_RS07305,MIDG2331_01494,rsmD,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,+,1582955,1583548
+MIDG2331_RS07310,MIDG2331_01495,,HI1450 family dsDNA-mimic protein,+,1583613,1583924
+MIDG2331_RS07315,MIDG2331_01496,hpaC,"4-hydroxyphenylacetate 3-monooxygenase, reductase component",+,1583940,1584452
+MIDG2331_RS07320,MIDG2331_01497,tehB,SAM-dependent methyltransferase TehB,+,1584567,1585439
+MIDG2331_RS07325,MIDG2331_01498,artM,arginine ABC transporter permease ArtM,-,1585567,1586250
+MIDG2331_RS07330,MIDG2331_01499,artQ,arginine ABC transporter permease ArtQ,-,1586250,1586921
+MIDG2331_RS07335,MIDG2331_01500,,transporter substrate-binding domain-containing protein,-,1586927,1587646
+MIDG2331_RS07340,MIDG2331_01501,artP,arginine ABC transporter ATP-binding protein ArtP,-,1587666,1588400
+MIDG2331_RS07345,MIDG2331_01502,,YbhB/YbcL family Raf kinase inhibitor-like protein,-,1588625,1589122
+MIDG2331_RS07350,MIDG2331_01503,,calcium/sodium antiporter,+,1589195,1590157
+MIDG2331_RS07355,MIDG2331_01504,,helix-turn-helix domain-containing protein,-,1590235,1590528
+MIDG2331_RS07360,MIDG2331_01505,,type II toxin-antitoxin system RelE/ParE family toxin,-,1590509,1590880
+MIDG2331_RS07365,MIDG2331_01506,,protein-disulfide reductase DsbD,+,1591074,1592825
+MIDG2331_RS07370,MIDG2331_01507,,elongation factor P hydroxylase,+,1592883,1593452
+MIDG2331_RS07375,MIDG2331_01508,rsmI,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,-,1593496,1594350
+MIDG2331_RS07380,MIDG2331_01509,,penicillin-binding protein activator,+,1594423,1596171
+MIDG2331_RS07385,MIDG2331_01510,,YraN family protein,+,1596146,1596517
+MIDG2331_RS07390,MIDG2331_01511,,D-sedoheptulose-7-phosphate isomerase,+,1596526,1597104
+MIDG2331_RS07395,MIDG2331_01512,dolP,division/outer membrane stress-associated lipid-binding lipoprotein,+,1597126,1597713
+MIDG2331_RS07400,MIDG2331_01514,mltF,membrane-bound lytic murein transglycosylase MltF,-,1597925,1599376
+MIDG2331_RS07420,MIDG2331_01518,,heme lyase CcmF/NrfE family subunit,-,1600163,1602112
+MIDG2331_RS07425,MIDG2331_01519,ccmE,cytochrome c maturation protein CcmE,-,1602112,1602657
+MIDG2331_RS07430,MIDG2331_01520,ccmD,heme exporter protein CcmD,-,1602841,1603038
+MIDG2331_RS07435,MIDG2331_01521,,heme ABC transporter permease,-,1603051,1603782
+MIDG2331_RS07440,MIDG2331_01522,ccmB,heme exporter protein CcmB,-,1603833,1604495
+MIDG2331_RS07445,MIDG2331_01523,ccmA,cytochrome c biogenesis heme-transporting ATPase CcmA,-,1604492,1605127
+MIDG2331_RS07450,MIDG2331_01524,hda,DnaA regulatory inactivator Hda,-,1605268,1605978
+MIDG2331_RS07480,MIDG2331_01530,,DUF5718 family protein,+,1611972,1612805
+MIDG2331_RS07485,MIDG2331_01531,,oxaloacetate decarboxylase subunit gamma,+,1612987,1613244
+MIDG2331_RS07490,MIDG2331_01532,oadA,sodium-extruding oxaloacetate decarboxylase subunit alpha,+,1613260,1615062
+MIDG2331_RS07495,MIDG2331_01533,,sodium ion-translocating decarboxylase subunit beta,+,1615079,1616383
+MIDG2331_RS07500,MIDG2331_01534,,zinc ribbon domain-containing protein YjdM,+,1616516,1616839
+MIDG2331_RS07505,MIDG2331_01535,,cytochrome c peroxidase,+,1617011,1618411
+MIDG2331_RS07510,MIDG2331_01536,yggU,DUF167 family protein YggU,-,1618477,1618770
+MIDG2331_RS07515,MIDG2331_01537,,YggT family protein,-,1618772,1619305
+MIDG2331_RS07520,MIDG2331_01538,,YggL family protein,-,1619427,1619768
+MIDG2331_RS07525,MIDG2331_01539,trmB,tRNA (guanosine(46)-N7)-methyltransferase TrmB,-,1619824,1620576
+MIDG2331_RS07530,MIDG2331_01540,,beta-ketoacyl-ACP synthase III,-,1620624,1621574
+MIDG2331_RS07535,MIDG2331_01541,plsX,phosphate acyltransferase PlsX,-,1621586,1622620
+MIDG2331_RS07540,MIDG2331_01542,rpmF,50S ribosomal protein L32,-,1622645,1622815
+MIDG2331_RS07545,MIDG2331_01543,yceD,23S rRNA accumulation protein YceD,-,1622833,1623357
+MIDG2331_RS07550,MIDG2331_01544,,cytochrome C assembly family protein,+,1623577,1624368
+MIDG2331_RS07555,MIDG2331_01545,,HlyC/CorC family transporter,+,1624464,1625726
+MIDG2331_RS07560,MIDG2331_01546,,sodium-dependent transporter,+,1626105,1627619
+MIDG2331_RS07565,MIDG2331_01548,manX,PTS mannose transporter subunit IIAB,+,1628007,1628978
+MIDG2331_RS07570,MIDG2331_01549,,PTS mannose/fructose/sorbose transporter subunit IIC,+,1628991,1629791
+MIDG2331_RS07575,MIDG2331_01550,,PTS mannose transporter subunit IID,+,1629805,1630641
+MIDG2331_RS07580,MIDG2331_01551,,DUF986 family protein,+,1630740,1631198
+MIDG2331_RS07585,MIDG2331_01552,manA,"mannose-6-phosphate isomerase, class I",+,1631195,1632400
+MIDG2331_RS07590,MIDG2331_01553,,hypothetical protein,+,1632462,1632977
+MIDG2331_RS07595,MIDG2331_01554,apxID,RTX toxin T1SS ABC transporter adaptor subunit ApxID,-,1633059,1634495
+MIDG2331_RS07600,MIDG2331_01555,apxIB,RTX toxin T1SS ABC transporter permease/ATPase subunit ApxIB,-,1634504,1636627
+MIDG2331_RS07605,MIDG2331_01556,,hypothetical protein,-,1636708,1637010
+MIDG2331_RS07610,MIDG2331_01557,,ABC transporter substrate-binding protein,+,1637482,1638522
+MIDG2331_RS07615,MIDG2331_01558,,ABC transporter permease,+,1638628,1640691
+MIDG2331_RS07620,MIDG2331_01559,fbpC,ferric ABC transporter ATP-binding protein,+,1640738,1641784
+MIDG2331_RS07625,MIDG2331_01560,mpl,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase,-,1641875,1643239
+MIDG2331_RS07630,MIDG2331_01561,fbp,class 1 fructose-bisphosphatase,+,1643362,1644366
+MIDG2331_RS07635,MIDG2331_01562,,"IS256 family transposase, variant Zn-binding type",-,1644522,1645085
+MIDG2331_RS07640,MIDG2331_01563,tuf,elongation factor Tu,-,1645588,1646772
+MIDG2331_RS07645,MIDG2331_01564,fusA,elongation factor G,-,1646834,1648939
+MIDG2331_RS07650,MIDG2331_01565,rpsG,30S ribosomal protein S7,-,1649039,1649509
+MIDG2331_RS07655,MIDG2331_01566,rpsL,30S ribosomal protein S12,-,1649646,1650020
+MIDG2331_RS07660,MIDG2331_01567,rfaC,lipopolysaccharide heptosyltransferase RfaC,-,1650142,1651101
+MIDG2331_RS07665,MIDG2331_01568,waaF,lipopolysaccharide heptosyltransferase II,-,1651176,1652213
+MIDG2331_RS07670,MIDG2331_01569,,MliC family protein,-,1652295,1652699
+MIDG2331_RS07675,MIDG2331_01570,,LysM-like peptidoglycan-binding domain-containing protein,-,1652821,1654212
+MIDG2331_RS07680,MIDG2331_01571,,ComEA family DNA-binding protein,+,1654513,1654857
+MIDG2331_RS07685,MIDG2331_01572,asd,archaetidylserine decarboxylase,+,1655008,1655898
+MIDG2331_RS07690,MIDG2331_01573,hsdR,EcoAI/FtnUII family type I restriction enzme subunit R,+,1656015,1658378
+MIDG2331_RS07695,MIDG2331_01574,,class I SAM-dependent DNA methyltransferase,+,1658462,1659931
+MIDG2331_RS07700,MIDG2331_01575,,virulence RhuM family protein,+,1659940,1660935
+MIDG2331_RS07705,MIDG2331_01576,,restriction endonuclease subunit S,+,1660932,1662401
+MIDG2331_RS07710,MIDG2331_01577,,tyrosine-type recombinase/integrase,+,1662453,1663256
+MIDG2331_RS07715,MIDG2331_01578,,restriction endonuclease subunit S,-,1663296,1664579
+MIDG2331_RS07720,MIDG2331_01579,gshAB,bifunctional glutamate--cysteine ligase GshA/glutathione synthetase GshB,+,1664766,1667039
+MIDG2331_RS07725,MIDG2331_01580,,MerR family transcriptional regulator,-,1667131,1667751
+MIDG2331_RS07730,MIDG2331_01581,,aromatic amino acid transporter,+,1667951,1669153
+MIDG2331_RS07735,MIDG2331_01582,,YfcZ/YiiS family protein,-,1669217,1669510
+MIDG2331_RS07740,MIDG2331_01583,,aldo/keto reductase,+,1669650,1670552
+MIDG2331_RS07745,MIDG2331_01584,,AMP-dependent synthetase/ligase,-,1670615,1672390
+MIDG2331_RS07750,MIDG2331_01585,mqo,malate dehydrogenase (quinone),-,1672571,1674046
+MIDG2331_RS07755,MIDG2331_01586,,hypothetical protein,-,1674154,1674567
+MIDG2331_RS07760,MIDG2331_01587,,glycine zipper 2TM domain-containing protein,+,1674787,1675128
+MIDG2331_RS07765,MIDG2331_01588,,PACE efflux transporter,+,1675170,1675595
+MIDG2331_RS07770,MIDG2331_01589,mglC,galactose/methyl galactoside ABC transporter permease MglC,-,1675666,1676676
+MIDG2331_RS07775,MIDG2331_01590,mglA,galactose/methyl galactoside ABC transporter ATP-binding protein MglA,-,1676693,1678192
+MIDG2331_RS07780,MIDG2331_01591,mglB,galactose/glucose ABC transporter substrate-binding protein MglB,-,1678255,1679247
+MIDG2331_RS07785,MIDG2331_01592,ompA,porin OmpA,-,1679501,1680607
+MIDG2331_RS07790,MIDG2331_01593,ydiJ,D-2-hydroxyglutarate dehydrogenase YdiJ,+,1681035,1684124
+MIDG2331_RS07795,MIDG2331_01594,,hotdog fold thioesterase,+,1684257,1684682
+MIDG2331_RS07800,MIDG2331_01595,yidC,membrane protein insertase YidC,+,1684835,1686463
+MIDG2331_RS07805,MIDG2331_01596,,cytochrome c3 family protein,-,1686748,1687362
+MIDG2331_RS07810,MIDG2331_01597,,nitrate reductase cytochrome c-type subunit,-,1687374,1687796
+MIDG2331_RS07815,MIDG2331_01598,napH,quinol dehydrogenase ferredoxin subunit NapH,-,1687815,1688708
+MIDG2331_RS07820,MIDG2331_01599,napG,ferredoxin-type protein NapG,-,1688708,1689613
+MIDG2331_RS07825,MIDG2331_01600,napA,nitrate reductase catalytic subunit NapA,-,1689748,1692231
+MIDG2331_RS07830,MIDG2331_01601,,chaperone NapD,-,1692263,1692532
+MIDG2331_RS07835,MIDG2331_01602,napF,ferredoxin-type protein NapF,-,1692535,1693065
+MIDG2331_RS07840,MIDG2331_01603,,NAD(P)H-dependent oxidoreductase,+,1693264,1693839
+MIDG2331_RS07855,MIDG2331_01606,,hypothetical protein,-,1695412,1695924
+MIDG2331_RS07860,MIDG2331_01607,rne,ribonuclease E,-,1696085,1699072
+MIDG2331_RS07865,MIDG2331_01608,,RsiV family protein,+,1699473,1700549
+MIDG2331_RS07870,MIDG2331_01609,,isoprenylcysteine carboxyl methyltransferase family protein,-,1700619,1701140
+MIDG2331_RS07875,MIDG2331_01610,ubiD,4-hydroxy-3-polyprenylbenzoate decarboxylase,-,1701290,1702753
+MIDG2331_RS07880,MIDG2331_01611,znuA,zinc ABC transporter substrate-binding protein ZnuA,+,1702899,1703876
+MIDG2331_RS07885,MIDG2331_01612,,"IS256 family transposase, variant Zn-binding type",-,1703975,1704538
+MIDG2331_RS07890,MIDG2331_01613,,glutathione peroxidase,-,1704978,1705712
+MIDG2331_RS07895,MIDG2331_01614,oxyR,DNA-binding transcriptional regulator OxyR,+,1705837,1706730
+MIDG2331_RS07900,MIDG2331_01615,fabR,HTH-type transcriptional repressor FabR,+,1706723,1707355
+MIDG2331_RS07905,MIDG2331_01616,,protein disulfide oxidoreductase,+,1707355,1707870
+MIDG2331_RS07910,MIDG2331_01617,rnr,ribonuclease R,+,1707938,1710292
+MIDG2331_RS07915,MIDG2331_01618,,hypothetical protein,+,1710405,1710869
+MIDG2331_RS07920,MIDG2331_01619,tyrS,tyrosine--tRNA ligase,+,1711215,1712405
+MIDG2331_RS07925,MIDG2331_01620,rpoD,RNA polymerase sigma factor RpoD,-,1712558,1714420
+MIDG2331_RS07930,MIDG2331_01621,dnaG,DNA primase,-,1714522,1716264
+MIDG2331_RS07935,MIDG2331_01622,rpsU,30S ribosomal protein S21,-,1716441,1716656
+MIDG2331_RS07940,MIDG2331_01623,rfbB,"dTDP-glucose 4,6-dehydratase",-,1716894,1717967
+MIDG2331_RS07945,,,acyltransferase,-,1717981,1718958
+MIDG2331_RS07950,MIDG2331_01625,,acyltransferase family protein,-,1719045,1719392
+MIDG2331_RS07955,MIDG2331_01626,,acyltransferase family protein,-,1719625,1720104
+MIDG2331_RS07960,MIDG2331_01627,,sugar transferase,-,1720108,1721418
+MIDG2331_RS07965,MIDG2331_01628,glf,UDP-galactopyranose mutase,-,1721436,1722533
+MIDG2331_RS07970,MIDG2331_01629,,flippase,-,1722576,1724027
+MIDG2331_RS07975,MIDG2331_01630,,O-antigen polymerase,-,1724024,1725355
+MIDG2331_RS07980,MIDG2331_01631,,sugar transferase,-,1725358,1726407
+MIDG2331_RS07985,MIDG2331_01632,,glycosyltransferase family 2 protein,-,1726424,1727476
+MIDG2331_RS07990,MIDG2331_01633,,glycosyltransferase,-,1727485,1728552
+MIDG2331_RS07995,MIDG2331_01634,,DUF4422 domain-containing protein,-,1728573,1729376
+MIDG2331_RS08000,MIDG2331_01635,,LPS O-antigen chain length determinant protein WzzB,-,1729379,1730491
+MIDG2331_RS08005,MIDG2331_01636,erpA,iron-sulfur cluster insertion protein ErpA,+,1730637,1730978
+MIDG2331_RS08010,MIDG2331_01637,,"1,4-dihydroxy-2-naphthoate polyprenyltransferase",-,1731056,1731964
+MIDG2331_RS08015,MIDG2331_01638,tsaA,tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO,+,1732061,1732819
+MIDG2331_RS08020,MIDG2331_01639,,SIMPL domain-containing protein,+,1732861,1733577
+MIDG2331_RS08025,MIDG2331_01640,aqpZ,aquaporin Z,+,1733723,1734409
+MIDG2331_RS08030,MIDG2331_01642,slyD,peptidylprolyl isomerase,+,1734758,1735351
+MIDG2331_RS08035,MIDG2331_01643,ilvA,"threonine ammonia-lyase, biosynthetic",+,1735477,1737003
+MIDG2331_RS08040,MIDG2331_01644,glmM,phosphoglucosamine mutase,+,1737075,1738409
+MIDG2331_RS08045,MIDG2331_01645,rpiA,ribose-5-phosphate isomerase RpiA,+,1738556,1739215
+MIDG2331_RS08050,MIDG2331_01646,serA,phosphoglycerate dehydrogenase,+,1739359,1740588
+MIDG2331_RS08055,MIDG2331_01647,,"IS256 family transposase, variant Zn-binding type",+,1741087,1741650
+MIDG2331_RS08060,MIDG2331_01648,,"IS256 family transposase, variant Zn-binding type",-,1741884,1742777
+MIDG2331_RS08065,MIDG2331_01649,pdxY,pyridoxal kinase PdxY,-,1742920,1743780
+MIDG2331_RS08075,MIDG2331_01651,accA,acetyl-CoA carboxylase carboxyl transferase subunit alpha,-,1744084,1745037
+MIDG2331_RS08080,MIDG2331_01652,,multicopper oxidase domain-containing protein,-,1745154,1746566
+MIDG2331_RS08085,MIDG2331_01653,,1-acylglycerol-3-phosphate O-acyltransferase,-,1746569,1747315
+MIDG2331_RS08090,MIDG2331_01654,tpx,thiol peroxidase,+,1747458,1747958
+MIDG2331_RS08095,MIDG2331_01655,mnmE,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,+,1748081,1749439
+MIDG2331_RS08100,MIDG2331_01656,,PFL family protein,-,1749547,1750902
+MIDG2331_RS08105,MIDG2331_01657,,ACT domain-containing protein,-,1750915,1751187
+MIDG2331_RS08110,MIDG2331_01658,,pirin family protein,-,1751325,1752014
+MIDG2331_RS08115,MIDG2331_01659,,Dps family protein,+,1752330,1752899
+MIDG2331_RS08120,MIDG2331_01660,,helix-turn-helix domain-containing protein,+,1753132,1753434
+MIDG2331_RS08125,MIDG2331_01661,,patatin-like phospholipase family protein,+,1753581,1754945
+MIDG2331_RS08130,MIDG2331_01662,yccS,YccS family putative transporter,-,1755013,1757187
+MIDG2331_RS08135,MIDG2331_01663,mgsA,methylglyoxal synthase,-,1757269,1757727
+MIDG2331_RS08140,MIDG2331_01664,thrC,threonine synthase,+,1757860,1759140
+MIDG2331_RS08155,MIDG2331_01667,,valine--tRNA ligase,-,1760684,1763548
+MIDG2331_RS08160,MIDG2331_01668,,phospholipase D-like domain-containing protein,-,1763564,1764241
+MIDG2331_RS08170,MIDG2331_01670,,UPF0149 family protein,-,1765270,1765848
+MIDG2331_RS08175,MIDG2331_01671,,GNAT family N-acetyltransferase,-,1765850,1766281
+MIDG2331_RS08180,MIDG2331_01672,,DNA polymerase III subunit chi,-,1766299,1766736
+MIDG2331_RS08185,MIDG2331_01673,lysM,peptidoglycan-binding protein LysM,+,1766988,1767431
+MIDG2331_RS08190,MIDG2331_01674,tig,trigger factor,+,1767633,1768934
+MIDG2331_RS08195,MIDG2331_01675,,rhodanese-like domain-containing protein,+,1769067,1769516
+MIDG2331_RS08200,MIDG2331_01676,secB,protein-export chaperone SecB,+,1769541,1770041
+MIDG2331_RS08205,MIDG2331_01677,gpsA,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,+,1770226,1771236
+MIDG2331_RS08210,MIDG2331_01678,cysE,serine O-acetyltransferase,+,1771248,1772063
+MIDG2331_RS08215,MIDG2331_01679,tuf,elongation factor Tu,-,1772258,1773442
+MIDG2331_RS08240,MIDG2331_01684,coaA,type I pantothenate kinase,+,1774196,1775146
+MIDG2331_RS08245,MIDG2331_01685,,DsbE family thiol:disulfide interchange protein,+,1775281,1775823
+MIDG2331_RS08250,MIDG2331_01686,,cytochrome c-type biogenesis protein,+,1775804,1776295
+MIDG2331_RS08255,MIDG2331_01687,ccmI,c-type cytochrome biogenesis protein CcmI,+,1776295,1777209
+MIDG2331_RS08260,MIDG2331_01688,mog,molybdopterin adenylyltransferase,+,1777281,1777865
+MIDG2331_RS08265,MIDG2331_01689,glnB,nitrogen regulatory protein P-II,+,1777976,1778314
+MIDG2331_RS08270,MIDG2331_01690,lspA,signal peptidase II,+,1778393,1778875
+MIDG2331_RS08275,MIDG2331_01691,ispH,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,+,1778876,1779820
+MIDG2331_RS08280,MIDG2331_01692,,FAD assembly factor SdhE,+,1779820,1780068
+MIDG2331_RS08285,MIDG2331_01693,,NAD(P)-dependent oxidoreductase,-,1780137,1780736
+MIDG2331_RS08290,MIDG2331_01694,hutW,heme anaerobic degradation radical SAM methyltransferase ChuW/HutW,-,1780736,1782553
+MIDG2331_RS08295,MIDG2331_01695,,glutathione S-transferase family protein,-,1782710,1783327
+MIDG2331_RS08300,MIDG2331_01696,lysA,diaminopimelate decarboxylase,-,1783393,1784643
+MIDG2331_RS08305,MIDG2331_01698,frdD,fumarate reductase subunit FrdD,-,1785057,1785401
+MIDG2331_RS08310,MIDG2331_01699,frdC,fumarate reductase subunit FrdC,-,1785414,1785806
+MIDG2331_RS08315,MIDG2331_01700,,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,-,1785815,1786549
+MIDG2331_RS08320,MIDG2331_01701,frdA,fumarate reductase (quinol) flavoprotein subunit,-,1786562,1788361
+MIDG2331_RS08325,MIDG2331_01702,epmA,elongation factor P--(R)-beta-lysine ligase,+,1788704,1789687
+MIDG2331_RS08330,MIDG2331_01703,dapF,diaminopimelate epimerase,-,1789769,1790593
+MIDG2331_RS08335,MIDG2331_01704,,anaerobic C4-dicarboxylate transporter,+,1790774,1792096
+MIDG2331_RS08340,MIDG2331_01705,,fluoride efflux transporter FluC,-,1792168,1792539
+MIDG2331_RS08345,MIDG2331_01706,,MFS transporter,-,1792542,1793606
+MIDG2331_RS08350,MIDG2331_01707,,anhydro-N-acetylmuramic acid kinase,+,1793701,1794810
+MIDG2331_RS08355,MIDG2331_01708,murQ,N-acetylmuramic acid 6-phosphate etherase,+,1794863,1795777
+MIDG2331_RS08360,MIDG2331_01709,prmA,50S ribosomal protein L11 methyltransferase,-,1795844,1796725
+MIDG2331_RS08365,MIDG2331_01710,,GNAT family N-acetyltransferase,-,1796808,1797275
+MIDG2331_RS08370,MIDG2331_01711,,type II toxin-antitoxin system TacA family antitoxin,-,1797279,1797539
+MIDG2331_RS08375,MIDG2331_01712,tldD,metalloprotease TldD,-,1797660,1799120
+MIDG2331_RS08380,MIDG2331_01713,tilS,tRNA lysidine(34) synthetase TilS,+,1799250,1800509
+MIDG2331_RS08385,MIDG2331_01714,,DUF5389 family protein,-,1800536,1800826
+MIDG2331_RS08390,MIDG2331_01715,xerD,site-specific tyrosine recombinase XerD,-,1800828,1801721
+MIDG2331_RS08450,MIDG2331_01727,wecG,lipopolysaccharide N-acetylmannosaminouronosyltransferase,-,1808089,1808814
+MIDG2331_RS08455,MIDG2331_01728,wzyE,ECA oligosaccharide polymerase,-,1808798,1810135
+MIDG2331_RS08460,MIDG2331_01729,,TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase,-,1810132,1811202
+MIDG2331_RS08465,MIDG2331_01730,hcp,hydroxylamine reductase,+,1811480,1813135
+MIDG2331_RS08470,MIDG2331_01731,hcr,NADH oxidoreductase,+,1813258,1814277
+MIDG2331_RS08475,MIDG2331_01732,wzxE,lipid III flippase WzxE,-,1814319,1815569
+MIDG2331_RS08480,MIDG2331_01733,rffA,"dTDP-4-amino-4,6-dideoxygalactose transaminase",-,1815557,1816702
+MIDG2331_RS08485,MIDG2331_01734,rffC,"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase",-,1816709,1817332
+MIDG2331_RS08490,MIDG2331_01735,wecC,UDP-N-acetyl-D-mannosamine dehydrogenase,-,1817332,1818603
+MIDG2331_RS08495,MIDG2331_01736,wecB,non-hydrolyzing UDP-N-acetylglucosamine 2-epimerase,-,1818682,1819818
+MIDG2331_RS08500,MIDG2331_01737,,transporter,-,1819802,1820680
+MIDG2331_RS08505,MIDG2331_01738,wecA,UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase,-,1820715,1821788
+MIDG2331_RS08510,MIDG2331_01739,hemL,"glutamate-1-semialdehyde 2,1-aminomutase",+,1822086,1823366
+MIDG2331_RS08515,MIDG2331_01740,,MFS transporter,-,1823421,1824488
+MIDG2331_RS08520,MIDG2331_01741,murJ,murein biosynthesis integral membrane protein MurJ,-,1824508,1826079
+MIDG2331_RS08525,MIDG2331_01742,rpsT,30S ribosomal protein S20,+,1826471,1826734
+MIDG2331_RS08530,MIDG2331_01743,trkA,Trk system potassium transporter TrkA,-,1826791,1828167
+MIDG2331_RS08535,MIDG2331_01744,rsmB,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB,-,1828217,1829515
+MIDG2331_RS08540,MIDG2331_01745,selB,selenocysteine-specific translation elongation factor,-,1829529,1831364
+MIDG2331_RS08545,MIDG2331_01746,selA,L-seryl-tRNA(Sec) selenium transferase,-,1831361,1832746
+MIDG2331_RS08555,MIDG2331_01748,mioC,FMN-binding protein MioC,+,1832923,1833366
+MIDG2331_RS08560,MIDG2331_01750,,FGGY-family carbohydrate kinase,-,1834204,1835661
+MIDG2331_RS08565,,,SMP-30/gluconolactonase/LRE family protein,-,1835745,1836095
+MIDG2331_RS08570,,,hypothetical protein,-,1836494,1836676
+MIDG2331_RS08575,MIDG2331_01751,,lactoferrin/transferrin family TonB-dependent receptor,-,1837169,1839865
+MIDG2331_RS08580,MIDG2331_01752,,transferrin-binding protein-like solute binding protein,-,1839879,1841522
+MIDG2331_RS08585,MIDG2331_01753,,ExbD/TolR family protein,-,1841551,1841961
+MIDG2331_RS08590,MIDG2331_01754,,MotA/TolQ/ExbB proton channel family protein,-,1841961,1842629
+MIDG2331_RS08595,MIDG2331_01755,,energy transducer TonB,-,1842651,1843400
+MIDG2331_RS08600,MIDG2331_01756,,LysO family transporter,-,1843676,1844020
+MIDG2331_RS08605,MIDG2331_01757,yiaK,3-dehydro-L-gulonate 2-dehydrogenase,-,1844091,1845090
+MIDG2331_RS08615,MIDG2331_01759,,RBBP9/YdeN family alpha/beta hydrolase,+,1845319,1845861
+MIDG2331_RS08620,MIDG2331_01760,,diaminopimelate decarboxylase family protein,-,1846144,1846544
+MIDG2331_RS08625,MIDG2331_01762,,hypothetical protein,-,1847343,1848254
+MIDG2331_RS08630,MIDG2331_01763,,prolyl oligopeptidase family serine peptidase,-,1848335,1850035
+MIDG2331_RS08635,MIDG2331_01764,,hypothetical protein,-,1850216,1851463
+MIDG2331_RS08640,MIDG2331_01765,,glycosyltransferase family 2 protein,-,1851488,1852522
+MIDG2331_RS08645,MIDG2331_01766,,CDP-glycerol glycerophosphotransferase family protein,-,1852535,1855492
+MIDG2331_RS08650,MIDG2331_01767,,LicD family protein,-,1855512,1856654
+MIDG2331_RS08655,MIDG2331_01768,tagD,glycerol-3-phosphate cytidylyltransferase,-,1856662,1857090
+MIDG2331_RS08660,MIDG2331_01769,,CDP-glycerol glycerophosphotransferase family protein,-,1857143,1858285
+MIDG2331_RS08665,MIDG2331_01770,,polysaccharide biosynthesis/export family protein,+,1858464,1859651
+MIDG2331_RS08670,MIDG2331_01771,,capsule biosynthesis protein,+,1859677,1860834
+MIDG2331_RS08675,MIDG2331_01772,,ABC transporter permease,+,1860834,1861631
+MIDG2331_RS08680,MIDG2331_01773,,ABC transporter ATP-binding protein,+,1861628,1862278
+MIDG2331_RS08685,MIDG2331_01774,modF,molybdate ABC transporter ATP-binding protein ModF,-,1862475,1863932
+MIDG2331_RS08690,MIDG2331_01775,fmt,methionyl-tRNA formyltransferase,-,1864025,1864975
+MIDG2331_RS08695,MIDG2331_01776,,TAXI family TRAP transporter solute-binding subunit,-,1865138,1866088
+MIDG2331_RS08700,MIDG2331_01777,,YigZ family protein,+,1866241,1866867
+MIDG2331_RS08705,MIDG2331_01778,,TrkH family potassium uptake protein,+,1866948,1868426
+MIDG2331_RS08710,MIDG2331_01779,hemG,menaquinone-dependent protoporphyrinogen IX dehydrogenase,+,1868441,1868968
+MIDG2331_RS08715,MIDG2331_01780,mscL,large-conductance mechanosensitive channel protein MscL,+,1869072,1869461
+MIDG2331_RS08720,MIDG2331_01781,lipA,lipoyl synthase,-,1869591,1870583
+MIDG2331_RS08725,MIDG2331_01782,lipB,lipoyl(octanoyl) transferase LipB,-,1870695,1871351
+MIDG2331_RS08730,MIDG2331_01783,ybeD,DUF493 family protein YbeD,-,1871383,1871682
+MIDG2331_RS08735,MIDG2331_01784,,serine hydrolase,-,1871816,1872994
+MIDG2331_RS08740,MIDG2331_01785,,septal ring lytic transglycosylase RlpA family protein,-,1873090,1873653
+MIDG2331_RS08745,MIDG2331_01786,rodA,rod shape-determining protein RodA,-,1873828,1874952
+MIDG2331_RS08750,MIDG2331_01787,mrdA,penicillin-binding protein 2,-,1874945,1876906
+MIDG2331_RS08755,MIDG2331_01788,rlmH,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,-,1876988,1877455
+MIDG2331_RS08760,MIDG2331_01789,rsfS,ribosome silencing factor,-,1877478,1877792
+MIDG2331_RS08765,MIDG2331_01790,mutS,DNA mismatch repair protein MutS,-,1878014,1880608
+MIDG2331_RS08770,MIDG2331_01791,,amino acid ABC transporter ATP-binding protein,-,1880774,1881523
+MIDG2331_RS08775,MIDG2331_01792,,amino acid ABC transporter permease,-,1881545,1882261
+MIDG2331_RS08780,MIDG2331_01793,,L-cysteine desulfidase family protein,-,1882409,1883707
+MIDG2331_RS08785,MIDG2331_01794,,hemerythrin domain-containing protein,+,1883979,1884473
+MIDG2331_RS08790,MIDG2331_01795,,DMT family transporter,-,1884552,1884881
+MIDG2331_RS08795,MIDG2331_01796,,YfcZ/YiiS family protein,-,1884969,1885259
+MIDG2331_RS08800,MIDG2331_01797,,tellurite resistance TerB family protein,-,1885413,1886045
+MIDG2331_RS08805,MIDG2331_01798,,putative quinol monooxygenase,-,1886218,1886511
+MIDG2331_RS08810,MIDG2331_01799,,urease accessory protein UreD,-,1886527,1887339
+MIDG2331_RS08815,MIDG2331_01800,ureG,urease accessory protein UreG,-,1887508,1888143
+MIDG2331_RS08820,MIDG2331_01801,,urease accessory protein UreF,-,1888164,1888847
+MIDG2331_RS08825,MIDG2331_01802,ureE,urease accessory protein UreE,-,1888859,1889422
+MIDG2331_RS08830,MIDG2331_01803,,glutathione S-transferase,-,1889495,1890112
+MIDG2331_RS08835,MIDG2331_01804,ureC,urease subunit alpha,-,1890236,1891954
+MIDG2331_RS08840,MIDG2331_01805,ureB,urease subunit beta,-,1891965,1892270
+MIDG2331_RS08845,MIDG2331_01806,ureA,urease subunit gamma,-,1892463,1892765
+MIDG2331_RS08850,MIDG2331_01807,,urea transporter,-,1892837,1893739
+MIDG2331_RS08855,MIDG2331_01808,,energy-coupling factor ABC transporter ATP-binding protein,-,1893776,1894405
+MIDG2331_RS08860,MIDG2331_01809,,energy-coupling factor transporter transmembrane component T family protein,-,1894428,1895045
+MIDG2331_RS08865,MIDG2331_01810,cbiM,cobalt transporter CbiM,-,1895052,1895660
+MIDG2331_RS08870,MIDG2331_01811,,hypothetical protein,-,1895661,1896074
+MIDG2331_RS08875,MIDG2331_01812,,DUF4198 domain-containing protein,-,1896143,1896829
+MIDG2331_RS08880,MIDG2331_01813,,LysR family transcriptional regulator,+,1897031,1897930
+MIDG2331_RS08885,MIDG2331_01814,,nuclear transport factor 2 family protein,-,1898009,1898470
+MIDG2331_RS08890,MIDG2331_01815,,SLC13 family permease,-,1898698,1900563
+MIDG2331_RS08895,MIDG2331_01816,,MltR family transcriptional regulator,-,1900624,1901148
+MIDG2331_RS08900,MIDG2331_01817,,mannitol-1-phosphate 5-dehydrogenase,-,1901148,1902287
+MIDG2331_RS08905,MIDG2331_01818,,PTS mannitol transporter subunit IICBA,-,1902374,1904263
+MIDG2331_RS08910,MIDG2331_01819,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),-,1904568,1906400
+MIDG2331_RS08915,MIDG2331_01820,,DeoR/GlpR family DNA-binding transcription regulator,-,1906524,1907282
+MIDG2331_RS08920,MIDG2331_01821,,glycine zipper 2TM domain-containing protein,-,1907420,1907620
+MIDG2331_RS08925,MIDG2331_01822,,"alpha-1,6-glucosyltransferase",-,1907719,1908711
+MIDG2331_RS08930,MIDG2331_01823,,UDP-glucose:protein N-beta-glucosyltransferase,-,1908760,1910622
+MIDG2331_RS08935,MIDG2331_01824,rimO,30S ribosomal protein S12 methylthiotransferase RimO,-,1910638,1911969
+MIDG2331_RS08940,MIDG2331_01825,mtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,-,1912142,1912840
+MIDG2331_RS08945,MIDG2331_01826,,thiol:disulfide interchange protein DsbA/DsbL,-,1912840,1913547
+MIDG2331_RS08950,MIDG2331_01827,,SlyX family protein,-,1913614,1913835
+MIDG2331_RS08955,MIDG2331_01828,fkpA,FKBP-type peptidyl-prolyl cis-trans isomerase,+,1913926,1914657
+MIDG2331_RS08960,MIDG2331_01829,,helix-turn-helix transcriptional regulator,+,1914769,1915428
+MIDG2331_RS08965,MIDG2331_01830,tusD,sulfurtransferase complex subunit TusD,+,1915428,1915805
+MIDG2331_RS08970,MIDG2331_01831,tusC,sulfurtransferase complex subunit TusC,+,1915805,1916179
+MIDG2331_RS08975,MIDG2331_01832,tusB,sulfurtransferase complex subunit TusB,+,1916192,1916461
+MIDG2331_RS09000,MIDG2331_01837,,F0F1 ATP synthase subunit epsilon,-,1922342,1922761
+MIDG2331_RS09005,MIDG2331_01838,atpD,F0F1 ATP synthase subunit beta,-,1922801,1924174
+MIDG2331_RS09010,MIDG2331_01839,atpG,F0F1 ATP synthase subunit gamma,-,1924188,1925054
+MIDG2331_RS09015,MIDG2331_01840,atpA,F0F1 ATP synthase subunit alpha,-,1925077,1926618
+MIDG2331_RS09020,MIDG2331_01841,atpH,F0F1 ATP synthase subunit delta,-,1926631,1927164
+MIDG2331_RS09025,MIDG2331_01842,atpF,F0F1 ATP synthase subunit B,-,1927178,1927648
+MIDG2331_RS09030,MIDG2331_01843,atpE,F0F1 ATP synthase subunit C,-,1927708,1927962
+MIDG2331_RS09035,MIDG2331_01844,atpB,F0F1 ATP synthase subunit A,-,1928081,1928869
+MIDG2331_RS09040,MIDG2331_01845,,ATP synthase subunit I,-,1928894,1929277
+MIDG2331_RS09045,MIDG2331_01846,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,-,1929638,1930255
+MIDG2331_RS09050,MIDG2331_01847,mnmG,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,-,1930355,1932247
+MIDG2331_RS09055,MIDG2331_01848,,Cof-type HAD-IIB family hydrolase,+,1932697,1933509
+MIDG2331_RS09060,MIDG2331_01849,,amino acid ABC transporter substrate-binding protein,-,1933559,1934341
+MIDG2331_RS09065,MIDG2331_01850,,YchJ family protein,-,1934553,1935029
+MIDG2331_RS09070,MIDG2331_01851,,hypothetical protein,-,1935032,1935409
+MIDG2331_RS09075,MIDG2331_01852,manZ,PTS mannose transporter subunit IID,-,1935497,1936324
+MIDG2331_RS09080,MIDG2331_01853,,PTS mannose/fructose/sorbose transporter subunit IIC,-,1936335,1937129
+MIDG2331_RS09085,MIDG2331_01854,,mannose/fructose/sorbose PTS transporter subunit IIA,-,1937144,1938112
+MIDG2331_RS09090,MIDG2331_01855,,GntP family permease,-,1938302,1939651
+MIDG2331_RS09095,MIDG2331_01856,,gluconokinase,+,1939829,1940344
+MIDG2331_RS09100,MIDG2331_01857,gntR,gluconate operon transcriptional repressor GntR,-,1940416,1941414
+MIDG2331_RS09105,MIDG2331_01858,,substrate-binding domain-containing protein,+,1941537,1942526
+MIDG2331_RS09110,MIDG2331_01859,rbsD,D-ribose pyranase,+,1942647,1943066
+MIDG2331_RS09115,MIDG2331_01860,rbsA,ribose ABC transporter ATP-binding protein RbsA,+,1943079,1944560
+MIDG2331_RS09120,MIDG2331_01861,rbsC,ribose ABC transporter permease,+,1944613,1945572
+MIDG2331_RS09125,MIDG2331_01862,rbsB,ribose ABC transporter substrate-binding protein RbsB,+,1945596,1946468
+MIDG2331_RS09130,MIDG2331_01863,rbsK,ribokinase,+,1946541,1947452
+MIDG2331_RS09135,MIDG2331_01864,,DMSO/selenate family reductase complex A subunit,+,1947687,1950104
+MIDG2331_RS09140,MIDG2331_01865,,DMSO/selenate family reductase complex B subunit,+,1950114,1950731
+MIDG2331_RS09145,MIDG2331_01866,,DmsC/YnfH family molybdoenzyme membrane anchor subunit,+,1950733,1951566
+MIDG2331_RS09150,MIDG2331_01867,dmsD,Tat proofreading chaperone DmsD,+,1951622,1952227
+MIDG2331_RS09155,MIDG2331_01868,napF,ferredoxin-type protein NapF,+,1952231,1952749
+MIDG2331_RS09160,MIDG2331_01869,,class I SAM-dependent methyltransferase,-,1952746,1953375
+MIDG2331_RS09175,MIDG2331_01872,,DUF6037 family protein,-,1954829,1955470
+MIDG2331_RS09180,MIDG2331_01873,purL,phosphoribosylformylglycinamidine synthase,-,1955527,1959423
+MIDG2331_RS09185,MIDG2331_01874,,DeoR/GlpR family DNA-binding transcription regulator,+,1959650,1960396
+MIDG2331_RS09190,MIDG2331_01875,fucI,L-fucose isomerase,+,1960618,1962384
+MIDG2331_RS09195,MIDG2331_01876,fucK,L-fuculokinase,+,1962461,1963894
+MIDG2331_RS09200,MIDG2331_01877,fucU,L-fucose mutarotase,+,1964029,1964463
+MIDG2331_RS09205,MIDG2331_01878,,L-fuculose-phosphate aldolase,+,1964514,1965164
+MIDG2331_RS09210,MIDG2331_01879,fucP,L-fucose:H+ symporter permease,+,1965219,1966508
+MIDG2331_RS09215,MIDG2331_01880,fucO,lactaldehyde reductase,+,1966628,1967779
+MIDG2331_RS09220,MIDG2331_01881,,YagU family protein,+,1967981,1968622
+MIDG2331_RS09225,MIDG2331_01882,,amino acid ABC transporter permease,+,1968824,1969483
+MIDG2331_RS09230,MIDG2331_01883,,amino acid ABC transporter permease,+,1969473,1970141
+MIDG2331_RS09245,MIDG2331_01885,,capsular polysaccharide biosynthesis protein,+,1971903,1973972
+MIDG2331_RS09250,MIDG2331_01886,,capsule biosynthesis protein,+,1973995,1975215
+MIDG2331_RS09255,MIDG2331_01887,,hypothetical protein,-,1975284,1976246
+MIDG2331_RS09260,MIDG2331_01888,,3-keto-L-gulonate-6-phosphate decarboxylase UlaD,-,1976407,1977087
+MIDG2331_RS09265,MIDG2331_01889,,PTS sugar transporter subunit IIA,-,1977158,1977625
+MIDG2331_RS09270,MIDG2331_01890,,PTS ascorbate-specific subunit IIBC,-,1977702,1979507
+MIDG2331_RS09275,MIDG2331_01891,ulaG,L-ascorbate 6-phosphate lactonase,+,1979981,1981072
+MIDG2331_RS09280,MIDG2331_01892,ulaR,HTH-type transcriptional regulator UlaR,+,1981174,1981920
+MIDG2331_RS09285,MIDG2331_01893,,L-ribulose-5-phosphate 3-epimerase,+,1982006,1982866
+MIDG2331_RS09290,MIDG2331_01894,araD,L-ribulose-5-phosphate 4-epimerase,+,1982860,1983573
+MIDG2331_RS09295,MIDG2331_01895,,FKBP-type peptidyl-prolyl cis-trans isomerase,-,1983725,1984354
+MIDG2331_RS09300,MIDG2331_01896,,hypothetical protein,+,1984681,1985410
+MIDG2331_RS09305,,,hypothetical protein,-,1985534,1985722
+MIDG2331_RS09310,MIDG2331_01897,,factor H binding protein domain-containing protein,+,1985756,1986190
+MIDG2331_RS09320,MIDG2331_01899,,surface lipoprotein assembly modifier,+,1986616,1987743
+MIDG2331_RS09325,MIDG2331_01900,rfaD,ADP-glyceromanno-heptose 6-epimerase,-,1987803,1988729
+MIDG2331_RS09330,MIDG2331_01901,def,peptide deformylase,-,1988869,1989381
+MIDG2331_RS09335,MIDG2331_01902,dprA,DNA-processing protein DprA,+,1989567,1990721
+MIDG2331_RS09340,MIDG2331_01903,,OPT family oligopeptide transporter,-,1990765,1992771
+MIDG2331_RS09345,MIDG2331_01904,,PTS ascorbate transporter subunit IIC,-,1992993,1994348
+MIDG2331_RS09350,MIDG2331_01905,,PTS sugar transporter subunit IIB,-,1994357,1994629
+MIDG2331_RS09355,MIDG2331_01906,secE,preprotein translocase subunit SecE,+,1994932,1995345
+MIDG2331_RS09360,MIDG2331_01907,nusG,transcription termination/antitermination protein NusG,+,1995347,1995910
+MIDG2331_RS09365,MIDG2331_01908,rplK,50S ribosomal protein L11,+,1996198,1996626
+MIDG2331_RS09370,MIDG2331_01909,rplA,50S ribosomal protein L1,+,1996631,1997320
+MIDG2331_RS09375,MIDG2331_01910,rplJ,50S ribosomal protein L10,+,1997609,1998100
+MIDG2331_RS09380,MIDG2331_01911,rplL,50S ribosomal protein L7/L12,+,1998161,1998529
+MIDG2331_RS09385,MIDG2331_01912,,helix-turn-helix domain-containing protein,+,1998693,1998965
+MIDG2331_RS09390,MIDG2331_01913,,type II toxin-antitoxin system HipA family toxin,+,1998970,2000226
+MIDG2331_RS09395,MIDG2331_01914,,hypothetical protein,+,2000385,2000603
+MIDG2331_RS09400,MIDG2331_01915,,hypothetical protein,+,2000662,2001153
+MIDG2331_RS09405,MIDG2331_01916,,hypothetical protein,+,2001228,2001542
+MIDG2331_RS09410,MIDG2331_01918,,"IS256 family transposase, variant Zn-binding type",+,2001806,2002729
+MIDG2331_RS09415,MIDG2331_01919,,hypothetical protein,+,2002835,2003449
+MIDG2331_RS09420,MIDG2331_01920,rpoB,DNA-directed RNA polymerase subunit beta,+,2003804,2007832
+MIDG2331_RS09425,MIDG2331_01921,rpoC,DNA-directed RNA polymerase subunit beta',+,2007958,2012229
+MIDG2331_RS09430,MIDG2331_01922,,hypothetical protein,+,2012302,2013933
+MIDG2331_RS09435,MIDG2331_01923,vapB,type II toxin-antitoxin system VapB family antitoxin,+,2014453,2014683
+MIDG2331_RS09440,MIDG2331_01924,vapC,type II toxin-antitoxin system tRNA(fMet)-specific endonuclease VapC,+,2014683,2015081
+MIDG2331_RS09445,MIDG2331_01925,,DUF417 family protein,-,2015216,2015632
+MIDG2331_RS09450,MIDG2331_01926,,DUF2202 domain-containing protein,+,2015879,2016529
+MIDG2331_RS09455,MIDG2331_01927,,hypothetical protein,-,2016604,2017263
+MIDG2331_RS09460,MIDG2331_01929,,hypothetical protein,-,2017663,2018334
+MIDG2331_RS09465,MIDG2331_01930,hslU,HslU--HslV peptidase ATPase subunit,-,2018406,2019728
+MIDG2331_RS09470,MIDG2331_01931,hslV,ATP-dependent protease subunit HslV,-,2019994,2020515
+MIDG2331_RS09475,MIDG2331_01932,sfsA,DNA/RNA nuclease SfsA,-,2020593,2021306
+MIDG2331_RS09480,MIDG2331_01933,gloA2,SMU1112c/YaeR family gloxylase I-like metalloprotein,-,2021612,2022004
+MIDG2331_RS09485,MIDG2331_01934,mutY,A/G-specific adenine glycosylase,+,2022102,2023247
+MIDG2331_RS09490,MIDG2331_01935,,oxidative damage protection protein,+,2023251,2023526
+MIDG2331_RS09495,MIDG2331_01936,mltC,membrane-bound lytic murein transglycosylase MltC,+,2023544,2024641
+MIDG2331_RS09530,MIDG2331_01943,,DnaB-like helicase N-terminal domain-containing protein,+,2026166,2026486
+MIDG2331_RS09535,,,conjugal transfer nickase/helicase domain-containing protein,+,2026470,2026826
+MIDG2331_RS09540,,,tyrosine-type recombinase/integrase,+,2026852,2027742
+MIDG2331_RS09560,MIDG2331_01948,,"IS256 family transposase, variant Zn-binding type",-,2030294,2031229
+MIDG2331_RS09565,MIDG2331_01949,,peptidase domain-containing ABC transporter,-,2031422,2033503
+MIDG2331_RS09570,MIDG2331_01950,,HlyD family secretion protein,-,2033493,2034449
+MIDG2331_RS09585,MIDG2331_01953,ffh,signal recognition particle protein,+,2035981,2037372
+MIDG2331_RS09590,MIDG2331_01954,,bifunctional metallophosphatase/5'-nucleotidase,-,2037527,2039191
+MIDG2331_RS09595,MIDG2331_01955,,FAD-dependent oxidoreductase,-,2039383,2040549
+MIDG2331_RS09600,MIDG2331_01956,,YifB family Mg chelatase-like AAA ATPase,+,2040755,2042281
+MIDG2331_RS09605,MIDG2331_01957,,HupA family protein,+,2042404,2043498
+MIDG2331_RS09610,MIDG2331_01958,menH,"2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase",-,2043549,2044313
+MIDG2331_RS09615,MIDG2331_01959,menD,2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylic-acid synthase,-,2044313,2046019
+MIDG2331_RS09620,MIDG2331_01960,,SGNH/GDSL hydrolase family protein,+,2046272,2046865
+MIDG2331_RS09625,MIDG2331_01961,,N-acetylmannosamine-6-phosphate 2-epimerase,+,2046903,2047592
+MIDG2331_RS09630,MIDG2331_01962,,N-acetylmannosamine kinase,+,2047602,2048474
+MIDG2331_RS09635,MIDG2331_01963,nanA,N-acetylneuraminate lyase,+,2048495,2049373
+MIDG2331_RS09640,MIDG2331_01964,nagB,glucosamine-6-phosphate deaminase,+,2049423,2050226
+MIDG2331_RS09645,MIDG2331_01965,nagA,N-acetylglucosamine-6-phosphate deacetylase,+,2050278,2051423
+MIDG2331_RS09650,MIDG2331_01966,fumC,class II fumarate hydratase,-,2051573,2052967
+MIDG2331_RS09655,MIDG2331_01967,,TfoX/Sxy family DNA transformation protein,-,2053122,2053778
+MIDG2331_RS09660,MIDG2331_01968,rpsJ,30S ribosomal protein S10,+,2054186,2054497
+MIDG2331_RS09665,MIDG2331_01969,rplC,50S ribosomal protein L3,+,2054523,2055149
+MIDG2331_RS09670,MIDG2331_01970,rplD,50S ribosomal protein L4,+,2055165,2055767
+MIDG2331_RS09675,MIDG2331_01971,rplW,50S ribosomal protein L23,+,2055764,2056069
+MIDG2331_RS09680,MIDG2331_01972,rplB,50S ribosomal protein L2,+,2056090,2056911
+MIDG2331_RS09685,MIDG2331_01973,rpsS,30S ribosomal protein S19,+,2056939,2057214
+MIDG2331_RS09690,MIDG2331_01974,rplV,50S ribosomal protein L22,+,2057225,2057557
+MIDG2331_RS09695,MIDG2331_01975,rpsC,30S ribosomal protein S3,+,2057576,2058283
+MIDG2331_RS09700,MIDG2331_01976,rplP,50S ribosomal protein L16,+,2058297,2058707
+MIDG2331_RS09705,MIDG2331_01977,rpmC,50S ribosomal protein L29,+,2058707,2058898
+MIDG2331_RS09710,MIDG2331_01978,rpsQ,30S ribosomal protein S17,+,2058898,2059152
+MIDG2331_RS09715,MIDG2331_01979,rplN,50S ribosomal protein L14,+,2059392,2059763
+MIDG2331_RS09720,MIDG2331_01980,rplX,50S ribosomal protein L24,+,2059774,2060085
+MIDG2331_RS09725,MIDG2331_01981,rplE,50S ribosomal protein L5,+,2060103,2060642
+MIDG2331_RS09730,MIDG2331_01982,rpsN,30S ribosomal protein S14,+,2060654,2060959
+MIDG2331_RS09735,MIDG2331_01983,rpsH,30S ribosomal protein S8,+,2060996,2061388
+MIDG2331_RS09740,MIDG2331_01984,rplF,50S ribosomal protein L6,+,2061405,2061938
+MIDG2331_RS09745,MIDG2331_01985,rplR,50S ribosomal protein L18,+,2061953,2062306
+MIDG2331_RS09750,MIDG2331_01986,rpsE,30S ribosomal protein S5,+,2062321,2062821
+MIDG2331_RS09755,MIDG2331_01987,rpmD,50S ribosomal protein L30,+,2062828,2063007
+MIDG2331_RS09760,MIDG2331_01988,rplO,50S ribosomal protein L15,+,2063012,2063446
+MIDG2331_RS09765,MIDG2331_01989,secY,preprotein translocase subunit SecY,+,2063450,2064772
+MIDG2331_RS09770,MIDG2331_01990,rpmJ,50S ribosomal protein L36,+,2064798,2064911
+MIDG2331_RS09775,MIDG2331_01992,rpsM,30S ribosomal protein S13,+,2065048,2065404
+MIDG2331_RS09780,MIDG2331_01993,rpsK,30S ribosomal protein S11,+,2065421,2065810
+MIDG2331_RS09785,MIDG2331_01994,rpsD,30S ribosomal protein S4,+,2065839,2066465
+MIDG2331_RS09790,MIDG2331_01995,,DNA-directed RNA polymerase subunit alpha,+,2066531,2067520
+MIDG2331_RS09795,MIDG2331_01996,rplQ,50S ribosomal protein L17,+,2067556,2067939
+MIDG2331_RS09800,MIDG2331_01997,rpsP,30S ribosomal protein S16,+,2068176,2068424
+MIDG2331_RS09805,MIDG2331_01998,rimM,ribosome maturation factor RimM,+,2068458,2068985
+MIDG2331_RS09810,MIDG2331_01999,trmD,tRNA (guanosine(37)-N1)-methyltransferase TrmD,+,2069043,2069798
+MIDG2331_RS09815,MIDG2331_02000,rplS,50S ribosomal protein L19,+,2069824,2070174
+MIDG2331_RS09820,MIDG2331_02001,,ribosomal protein uL16 3-hydroxylase,-,2070344,2071537
+MIDG2331_RS09825,MIDG2331_02002,,ABC transporter substrate-binding protein,+,2071753,2072868
+MIDG2331_RS09830,MIDG2331_02003,,FecCD family ABC transporter permease,+,2072871,2073908
+MIDG2331_RS09835,MIDG2331_02004,,ABC transporter ATP-binding protein,+,2073924,2074691
+MIDG2331_RS09840,MIDG2331_02005,,pseudoazurin,+,2074701,2075132
+MIDG2331_RS09845,MIDG2331_02006,,ABC transporter substrate-binding protein,+,2075141,2076247
+MIDG2331_RS09850,MIDG2331_02007,,ATP-grasp domain-containing protein,+,2076306,2077145
+MIDG2331_RS09855,MIDG2331_02008,torD,molecular chaperone TorD,-,2077199,2077798
+MIDG2331_RS09860,MIDG2331_02009,torA,trimethylamine-N-oxide reductase TorA,-,2077798,2080281
+MIDG2331_RS09865,MIDG2331_02010,,hypothetical protein,-,2080291,2080911
+MIDG2331_RS09870,MIDG2331_02011,glyQ,glycine--tRNA ligase subunit alpha,+,2081105,2082019
+MIDG2331_RS09875,MIDG2331_02012,,endonuclease domain-containing protein,+,2082074,2082445
+MIDG2331_RS09880,MIDG2331_02013,,hypothetical protein,+,2082918,2083322
+MIDG2331_RS09885,MIDG2331_02014,glyS,glycine--tRNA ligase subunit beta,+,2083360,2085426
+MIDG2331_RS09890,MIDG2331_02015,,methyltransferase domain-containing protein,+,2085560,2086327
+MIDG2331_RS09895,MIDG2331_02016,,DUF5377 family protein,+,2086467,2086757
+MIDG2331_RS09900,MIDG2331_02017,xerC,tyrosine recombinase XerC,+,2086848,2087768
+MIDG2331_RS09905,MIDG2331_02018,,YbaN family protein,-,2087772,2088161
+MIDG2331_RS09910,MIDG2331_02019,,glycosyltransferase family 2 protein,-,2088225,2089016
+MIDG2331_RS09915,MIDG2331_02020,lpxH,"UDP-2,3-diacylglucosamine diphosphatase",-,2089013,2089711
+MIDG2331_RS09920,MIDG2331_02021,,DUF1523 family protein,-,2089777,2090301
+MIDG2331_RS09925,MIDG2331_02022,,TatD family hydrolase,-,2090336,2091124
+MIDG2331_RS09930,MIDG2331_02024,,"IS256 family transposase, variant Zn-binding type",+,2091872,2092759
+MIDG2331_RS09935,MIDG2331_02025,,MacB family efflux pump subunit,-,2092871,2094811
+MIDG2331_RS09940,MIDG2331_02026,,efflux RND transporter periplasmic adaptor subunit,-,2094811,2095974
+MIDG2331_RS09945,MIDG2331_02027,,MipA/OmpV family protein,-,2096107,2096883
+MIDG2331_RS09950,MIDG2331_02028,,DNA polymerase III subunit delta',-,2097237,2098220
+MIDG2331_RS09955,MIDG2331_02029,tmk,dTMP kinase,-,2098223,2098849
+MIDG2331_RS09960,MIDG2331_02030,mltG,endolytic transglycosylase MltG,-,2098853,2099887
+MIDG2331_RS09980,MIDG2331_02034,acpP,acyl carrier protein,-,2100486,2100719
+MIDG2331_RS09985,MIDG2331_02035,rpe,ribulose-phosphate 3-epimerase,-,2100983,2101657
+MIDG2331_RS09990,MIDG2331_02036,,type B 50S ribosomal protein L31,+,2101879,2102148
+MIDG2331_RS09995,MIDG2331_02037,ykgO,type B 50S ribosomal protein L36,+,2102162,2102287
+MIDG2331_RS10000,MIDG2331_02038,mrcB,penicillin-binding protein 1B,-,2102392,2104794
+MIDG2331_RS10005,MIDG2331_02039,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",-,2104873,2105730
+MIDG2331_RS10010,MIDG2331_02040,,RelA/SpoT family protein,-,2105865,2107571
+MIDG2331_RS10015,MIDG2331_02041,rpoZ,DNA-directed RNA polymerase subunit omega,-,2107667,2107948
+MIDG2331_RS10020,MIDG2331_02042,recG,ATP-dependent DNA helicase RecG,-,2108075,2110156
+MIDG2331_RS10025,MIDG2331_02043,,type II toxin-antitoxin system VapC family toxin,-,2110280,2110708
+MIDG2331_RS10030,MIDG2331_02044,,type II toxin-antitoxin system Phd/YefM family antitoxin,-,2110708,2110995
+MIDG2331_RS10035,MIDG2331_02045,proS,proline--tRNA ligase,+,2111201,2112916
+MIDG2331_RS10040,MIDG2331_02046,,anti-sigma factor family protein,-,2112982,2113170
+MIDG2331_RS10045,MIDG2331_02047,,sigma-70 family RNA polymerase sigma factor,-,2113173,2113754
+MIDG2331_RS10050,MIDG2331_02048,msrP,protein-methionine-sulfoxide reductase catalytic subunit MsrP,+,2113843,2114799
+MIDG2331_RS10055,MIDG2331_02049,,protein-methionine-sulfoxide reductase heme-binding subunit MsrQ,+,2114799,2115392
+MIDG2331_RS10060,MIDG2331_02050,rpoH,RNA polymerase sigma factor RpoH,-,2115503,2116453
+MIDG2331_RS10065,MIDG2331_02051,,MFS transporter,-,2116602,2117939
+MIDG2331_RS10070,MIDG2331_02053,,hypothetical protein,+,2118514,2119026
+MIDG2331_RS10075,MIDG2331_02054,,type II toxin-antitoxin system YafO family toxin,+,2119029,2119496
+MIDG2331_RS10080,MIDG2331_02055,asnA,aspartate--ammonia ligase,-,2119539,2120531
+MIDG2331_RS10085,MIDG2331_02056,asnC,transcriptional regulator AsnC,+,2120713,2121174
+MIDG2331_RS10090,MIDG2331_02057,udp,uridine phosphorylase,+,2121363,2122127
+MIDG2331_RS10095,MIDG2331_02058,,chorismate--pyruvate lyase family protein,+,2122191,2122685
+MIDG2331_RS10100,MIDG2331_02059,murI,glutamate racemase,+,2122757,2123560
+MIDG2331_RS10130,MIDG2331_02065,cysI,assimilatory sulfite reductase (NADPH) hemoprotein subunit,-,2129737,2131503
+MIDG2331_RS10135,MIDG2331_02066,,assimilatory sulfite reductase (NADPH) flavoprotein subunit,-,2131531,2133342
+MIDG2331_RS10140,MIDG2331_02067,,sulfate adenylyltransferase subunit 1,-,2133643,2134935
+MIDG2331_RS10145,MIDG2331_02068,cysD,sulfate adenylyltransferase subunit CysD,-,2135027,2135953
+MIDG2331_RS10150,MIDG2331_02069,,phosphoadenylyl-sulfate reductase,-,2135968,2136702
+MIDG2331_RS10155,MIDG2331_02070,cysG,siroheme synthase CysG,-,2136716,2138176
+MIDG2331_RS10160,MIDG2331_02072,,sulfate ABC transporter substrate-binding protein,+,2138451,2139456
+MIDG2331_RS10165,MIDG2331_02073,cysT,sulfate ABC transporter permease subunit CysT,+,2139475,2140287
+MIDG2331_RS10170,MIDG2331_02074,cysW,sulfate ABC transporter permease subunit CysW,+,2140306,2141121
+MIDG2331_RS10175,MIDG2331_02075,,sulfate/molybdate ABC transporter ATP-binding protein,+,2141131,2142201
+MIDG2331_RS10180,MIDG2331_02076,lldD,FMN-dependent L-lactate dehydrogenase LldD,-,2142290,2143435
+MIDG2331_RS10185,MIDG2331_02077,,biotin--[acetyl-CoA-carboxylase] ligase,-,2143619,2144383
+MIDG2331_RS10190,MIDG2331_02078,murB,UDP-N-acetylmuramate dehydrogenase,-,2144392,2145426
+MIDG2331_RS10195,MIDG2331_02079,ompA,porin OmpA,-,2145576,2146670
+MIDG2331_RS10200,MIDG2331_02080,ilvC,ketol-acid reductoisomerase,-,2147059,2148540
+MIDG2331_RS10205,MIDG2331_02081,,paraquat-inducible protein A,+,2148776,2150017
+MIDG2331_RS10210,MIDG2331_02082,,transglutaminase-like domain-containing protein,+,2150194,2151294
+MIDG2331_RS10215,MIDG2331_02083,,mercuric transporter MerT family protein,+,2151266,2151619
+MIDG2331_RS10220,MIDG2331_02084,,heavy-metal-associated domain-containing protein,+,2151616,2151930
+MIDG2331_RS10225,MIDG2331_02085,,iron-containing alcohol dehydrogenase,-,2152158,2153342
+MIDG2331_RS10230,MIDG2331_02086,,LysR family transcriptional regulator,+,2153458,2154360
+MIDG2331_RS10235,MIDG2331_02087,dapD,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",+,2154564,2155388
+MIDG2331_RS10240,MIDG2331_02088,aroQ,type II 3-dehydroquinate dehydratase,+,2155453,2155917
+MIDG2331_RS10245,MIDG2331_02089,,glycosyltransferase family 32 protein,+,2155910,2156698
+MIDG2331_RS10250,MIDG2331_02090,accB,acetyl-CoA carboxylase biotin carboxyl carrier protein,+,2156869,2157330
+MIDG2331_RS10255,MIDG2331_02091,accC,acetyl-CoA carboxylase biotin carboxylase subunit,+,2157486,2158829
+MIDG2331_RS10260,MIDG2331_02092,mobA,molybdenum cofactor guanylyltransferase MobA,-,2158872,2159963
+MIDG2331_RS10265,MIDG2331_02093,,YihD family protein,+,2160050,2160319
+MIDG2331_RS10270,MIDG2331_02094,dsbA,thiol:disulfide interchange protein DsbA,+,2160363,2161001
+MIDG2331_RS10280,MIDG2331_02096,ftsN,cell division protein FtsN,-,2161781,2162704
+MIDG2331_RS10285,MIDG2331_02097,,class I SAM-dependent methyltransferase,-,2162816,2163571
+MIDG2331_RS10290,MIDG2331_02098,,M15 family metallopeptidase,-,2163589,2164257
+MIDG2331_RS10295,MIDG2331_02099,dapE,succinyl-diaminopimelate desuccinylase,-,2164276,2165409
+MIDG2331_RS10300,MIDG2331_02100,,ArsC family reductase,-,2165432,2165782
+MIDG2331_RS10305,MIDG2331_02101,,DUF5358 family protein,+,2165990,2166700
+MIDG2331_RS10310,MIDG2331_02102,folP,dihydropteroate synthase,-,2166751,2167596
+MIDG2331_RS10315,MIDG2331_02103,rluC,23S rRNA pseudouridine(955/2504/2580) synthase RluC,-,2167658,2168623
+MIDG2331_RS10320,MIDG2331_02104,,TonB-dependent receptor plug domain-containing protein,+,2169016,2171334
+MIDG2331_RS10325,MIDG2331_02105,,mechanosensitive ion channel family protein,+,2171490,2172401
+MIDG2331_RS10330,MIDG2331_02106,,ATP-grasp domain-containing protein,+,2172597,2173775
+MIDG2331_RS10335,MIDG2331_02107,,esterase family protein,+,2173787,2174539
+MIDG2331_RS10340,MIDG2331_02108,ptrA,pitrilysin,-,2174607,2177555
+MIDG2331_RS10345,MIDG2331_02109,recC,exodeoxyribonuclease V subunit gamma,-,2177564,2180908
+MIDG2331_RS10350,MIDG2331_02110,,DUF5374 domain-containing protein,-,2181013,2181309
+MIDG2331_RS10355,MIDG2331_02111,,DUF2572 family protein,-,2181299,2181955
+MIDG2331_RS10360,MIDG2331_02112,,hypothetical protein,-,2181965,2182597
+MIDG2331_RS10365,MIDG2331_02113,,pilus assembly FimT family protein,-,2182623,2183153
+MIDG2331_RS10370,MIDG2331_02114,fabA,bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase,-,2183241,2183771
+MIDG2331_RS10375,MIDG2331_02115,,AAA family ATPase,-,2183882,2185519
+MIDG2331_RS10380,MIDG2331_02116,matP,macrodomain Ter protein MatP,+,2185604,2186050
+MIDG2331_RS10385,MIDG2331_02117,trpS,tryptophan--tRNA ligase,-,2186122,2187150
+MIDG2331_RS10390,MIDG2331_02118,,phosphoglycolate phosphatase,-,2187290,2187955
+MIDG2331_RS10400,MIDG2331_02120,lgt,prolipoprotein diacylglyceryl transferase,-,2188514,2189308
+MIDG2331_RS10405,MIDG2331_02121,,sulfite exporter TauE/SafE family protein,-,2189361,2190152
+MIDG2331_RS10410,MIDG2331_02122,rppH,RNA pyrophosphohydrolase,-,2190149,2190769
+MIDG2331_RS10415,MIDG2331_02124,,M48 family metallopeptidase,-,2191315,2192082
+MIDG2331_RS10420,MIDG2331_02125,ppa,inorganic diphosphatase,-,2192178,2192705
+MIDG2331_RS10425,MIDG2331_02126,,tRNA1(Val) (adenine(37)-N6)-methyltransferase,+,2192779,2193489
+MIDG2331_RS10430,MIDG2331_02127,rraA,ribonuclease E activity regulator RraA,-,2193536,2194033
+MIDG2331_RS10435,MIDG2331_02128,,formate/nitrite transporter family protein,+,2194252,2195046
+MIDG2331_RS10440,MIDG2331_02129,,alpha/beta hydrolase,+,2195217,2196041
+MIDG2331_RS10455,MIDG2331_02132,,"IS256 family transposase, variant Zn-binding type",-,2197516,2198505
+MIDG2331_RS10460,MIDG2331_02133,dnaJ,molecular chaperone DnaJ,-,2198629,2199771
+MIDG2331_RS10465,MIDG2331_02134,dnaK,molecular chaperone DnaK,-,2200001,2201899
+MIDG2331_RS10470,MIDG2331_02135,xylB,xylulokinase,-,2202174,2203619
+MIDG2331_RS10475,MIDG2331_02136,xylA,xylose isomerase,-,2203817,2205136
+MIDG2331_RS10480,MIDG2331_02137,xylF,D-xylose ABC transporter substrate-binding protein,+,2205390,2206388
+MIDG2331_RS10485,MIDG2331_02138,xylG,D-xylose ABC transporter ATP-binding protein,+,2206452,2207966
+MIDG2331_RS10490,MIDG2331_02139,,sugar ABC transporter permease,+,2207970,2209097
+MIDG2331_RS10495,MIDG2331_02140,,XylR family transcriptional regulator,+,2209222,2210403
+MIDG2331_RS10500,MIDG2331_02141,,M13 family metallopeptidase,+,2210408,2212435
+MIDG2331_RS10505,MIDG2331_02142,,zinc ribbon domain-containing protein,+,2212510,2212737
+MIDG2331_RS10510,MIDG2331_02143,panF,sodium/pantothenate symporter,-,2212806,2214230
+MIDG2331_RS10515,MIDG2331_02144,,YhdT family protein,-,2214223,2214462
+MIDG2331_RS10520,MIDG2331_02145,metJ,met regulon transcriptional regulator MetJ,-,2214516,2214833
+MIDG2331_RS10525,MIDG2331_02146,,MlaA family lipoprotein,+,2215001,2215750
+MIDG2331_RS10530,MIDG2331_02147,,D-hexose-6-phosphate mutarotase,+,2215825,2216634
+MIDG2331_RS10535,MIDG2331_02148,,site-specific recombinase,+,2216745,2218712
+MIDG2331_RS10540,MIDG2331_02149,pgaA,"poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA",+,2219484,2221958
+MIDG2331_RS10545,MIDG2331_02150,pgaB,"poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase PgaB",+,2221973,2223745
+MIDG2331_RS10550,MIDG2331_02151,pgaC,"poly-beta-1,6-N-acetyl-D-glucosamine synthase",+,2223754,2224989
+MIDG2331_RS10555,MIDG2331_02152,,hypothetical protein,+,2224991,2225275
+MIDG2331_RS10560,MIDG2331_02153,tpiA,triose-phosphate isomerase,-,2225379,2226149
+MIDG2331_RS10565,MIDG2331_02154,truD,tRNA pseudouridine(13) synthase TruD,+,2226424,2227437
+MIDG2331_RS10570,MIDG2331_02155,surE,5'/3'-nucleotidase SurE,+,2227437,2228201
+MIDG2331_RS10575,MIDG2331_02156,,YqaA family protein,+,2228201,2228785
+MIDG2331_RS10580,MIDG2331_02157,,LysM peptidoglycan-binding domain-containing protein,+,2228791,2229372
+MIDG2331_RS10585,MIDG2331_02158,,hypothetical protein,+,2229458,2229655
+MIDG2331_RS10590,MIDG2331_02159,,peptidoglycan DD-metalloendopeptidase family protein,+,2229689,2230927
+MIDG2331_RS10595,MIDG2331_02160,,DNA-3-methyladenine glycosylase I,+,2231016,2231579
+MIDG2331_RS10605,MIDG2331_02163,,YjiG family protein,-,2232773,2233237
+MIDG2331_RS10610,MIDG2331_02164,,nucleoside recognition domain-containing protein,-,2233234,2233872
+MIDG2331_RS10615,MIDG2331_02165,hemH,ferrochelatase,-,2234050,2235009
+MIDG2331_RS10620,MIDG2331_02166,rpmH,50S ribosomal protein L34,+,2235285,2235419
+MIDG2331_RS10625,MIDG2331_02167,rnpA,ribonuclease P protein component,+,2235452,2235817
+MIDG2331_RS10630,MIDG2331_02168,yidD,membrane protein insertion efficiency factor YidD,+,2235775,2236080
+MIDG2331_RS10635,MIDG2331_02169,glnA,type I glutamate--ammonia ligase,-,2236131,2237546
+MIDG2331_RS10640,MIDG2331_02170,cpdA,"3',5'-cyclic-AMP phosphodiesterase",-,2237904,2238731
+MIDG2331_RS10645,MIDG2331_02171,nudF,ADP-ribose diphosphatase,-,2238938,2239561
+MIDG2331_RS10650,MIDG2331_02172,psiE,phosphate-starvation-inducible protein PsiE,-,2239571,2239990
+MIDG2331_RS10655,MIDG2331_02173,,4'-phosphopantetheinyl transferase family protein,-,2239983,2240711
+MIDG2331_RS10660,MIDG2331_02174,,EamA family transporter,-,2240771,2241199
+MIDG2331_RS10665,MIDG2331_02175,nhaA,Na+/H+ antiporter NhaA,+,2241377,2242561
+MIDG2331_RS10675,MIDG2331_02177,dtd,D-aminoacyl-tRNA deacylase,-,2243228,2243662
+MIDG2331_RS10680,MIDG2331_02178,,virulence factor BrkB family protein,-,2243659,2244489
+MIDG2331_RS10685,MIDG2331_02179,proA,glutamate-5-semialdehyde dehydrogenase,-,2244507,2245745
+MIDG2331_RS10700,MIDG2331_02184,,transferrin-binding protein-like solute binding protein,-,2248496,2249350
+MIDG2331_RS10705,MIDG2331_02185,,transferrin-binding protein-like solute binding protein,-,2249470,2250714
+MIDG2331_RS10710,MIDG2331_02186,mutL,DNA mismatch repair endonuclease MutL,+,2251028,2252896
+MIDG2331_RS10715,MIDG2331_02187,adhP,alcohol dehydrogenase AdhP,+,2253096,2254145
+MIDG2331_RS10720,MIDG2331_02188,miaA,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,+,2254277,2255221
+MIDG2331_RS10725,MIDG2331_02189,hfq,RNA chaperone Hfq,+,2255286,2255564
+MIDG2331_RS10730,MIDG2331_02190,hflX,ribosome rescue GTPase HflX,+,2255602,2256969
+MIDG2331_RS10735,MIDG2331_02191,,LOG family protein,-,2257005,2257565
+MIDG2331_RS10740,MIDG2331_02192,,MazG nucleotide pyrophosphohydrolase domain-containing protein,+,2257628,2257951
+MIDG2331_RS10745,MIDG2331_02193,crp,cAMP-activated global transcriptional regulator CRP,-,2258000,2258674
+MIDG2331_RS10750,MIDG2331_02194,,YheU family protein,-,2258752,2258970
+MIDG2331_RS10755,MIDG2331_02195,slmA,nucleoid occlusion factor SlmA,-,2258976,2259584
+MIDG2331_RS10760,MIDG2331_02196,dut,dUTP diphosphatase,-,2259690,2260145
+MIDG2331_RS10765,MIDG2331_02197,coaBC,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,-,2260154,2261359
+MIDG2331_RS10770,MIDG2331_02198,radC,RadC family protein,+,2261567,2262229
+MIDG2331_RS10775,MIDG2331_02199,rpmB,50S ribosomal protein L28,+,2262398,2262634
+MIDG2331_RS10780,MIDG2331_02200,rpmG,50S ribosomal protein L33,+,2262646,2262816
+MIDG2331_RS10790,MIDG2331_02201,,hypothetical protein,+,2263181,2263741
+MIDG2331_RS10795,MIDG2331_02202,,diaminobutyrate--2-oxoglutarate transaminase,+,2264022,2265386
+MIDG2331_RS10800,MIDG2331_02203,ddc,"L-2,4-diaminobutyrate decarboxylase",+,2265515,2267050
+MIDG2331_RS10805,MIDG2331_02204,yedF,sulfurtransferase-like selenium metabolism protein YedF,-,2267109,2267378
+MIDG2331_RS10810,MIDG2331_02205,yedE,selenium metabolism membrane protein YedE/FdhT,-,2267396,2268616
+MIDG2331_RS10815,MIDG2331_02206,,MaoP family protein,+,2268911,2269243
+MIDG2331_RS10820,MIDG2331_02207,trmA,tRNA (uridine(54)-C5)-methyltransferase TrmA,+,2269394,2270500
+MIDG2331_RS10835,MIDG2331_02210,corA,magnesium/cobalt transporter CorA,-,2271000,2271953
+MIDG2331_RS10840,MIDG2331_02211,ubiE,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",+,2272254,2273030
+MIDG2331_RS10845,MIDG2331_02212,,ubiquinone biosynthesis accessory factor UbiJ,+,2273056,2273688
+MIDG2331_RS10850,MIDG2331_02213,ubiB,ubiquinone biosynthesis regulatory protein kinase UbiB,+,2273685,2275319
+MIDG2331_RS10855,MIDG2331_02214,tatA,Sec-independent protein translocase subunit TatA,+,2275411,2275641
+MIDG2331_RS10860,MIDG2331_02215,tatB,Sec-independent protein translocase protein TatB,+,2275645,2276232
+MIDG2331_RS10865,MIDG2331_02216,tatC,twin-arginine translocase subunit TatC,+,2276222,2276968
+MIDG2331_RS10870,MIDG2331_02217,hemB,porphobilinogen synthase,+,2277028,2278047
+MIDG2331_RS10875,MIDG2331_02218,,DUF4870 family protein,+,2278134,2278496
+MIDG2331_RS10880,MIDG2331_02219,mutM,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,-,2278547,2279368
+MIDG2331_RS10885,MIDG2331_02220,brnQ,branched-chain amino acid transport system II carrier protein,-,2279431,2280717
+MIDG2331_RS10890,MIDG2331_02221,fabG,3-oxoacyl-ACP reductase FabG,-,2280849,2281574
+MIDG2331_RS10895,MIDG2331_02222,fabD,ACP S-malonyltransferase,-,2281692,2282627
+MIDG2331_RS10900,MIDG2331_02223,,epoxyqueuosine reductase QueH,-,2282694,2283440
+MIDG2331_RS10905,MIDG2331_02224,ispB,octaprenyl diphosphate synthase,-,2283477,2284472
+MIDG2331_RS10910,MIDG2331_02225,,patatin-like phospholipase family protein,+,2284728,2285579
+MIDG2331_RS10915,MIDG2331_02226,,NADPH-dependent FMN reductase,+,2285743,2286294
+MIDG2331_RS10920,MIDG2331_02227,,DoxX family protein,+,2286495,2286908
+MIDG2331_RS10925,MIDG2331_02228,rplU,50S ribosomal protein L21,+,2287261,2287572
+MIDG2331_RS10930,MIDG2331_02229,rpmA,50S ribosomal protein L27,+,2287593,2287850
+MIDG2331_RS10935,MIDG2331_02230,,DMT family transporter,+,2287885,2288874
+MIDG2331_RS10940,MIDG2331_02231,,surface lipoprotein assembly modifier,-,2289103,2290572
+MIDG2331_RS10945,MIDG2331_02232,,Cof-type HAD-IIB family hydrolase,-,2290688,2291497
+MIDG2331_RS10950,MIDG2331_02233,,DNA utilization protein GntX,+,2291617,2292294
+MIDG2331_RS10955,MIDG2331_02234,rsmC,16S rRNA (guanine(1207)-N(2))-methyltransferase RsmC,-,2292729,2293718
+MIDG2331_RS10960,MIDG2331_02235,,DNA polymerase III subunit psi,+,2293823,2294245
+MIDG2331_RS10965,MIDG2331_02236,rimI,ribosomal protein S18-alanine N-acetyltransferase,+,2294238,2294675
+MIDG2331_RS10970,MIDG2331_02237,srmB,ATP-dependent RNA helicase SrmB,+,2294698,2296035
+MIDG2331_RS10975,MIDG2331_02238,pdxH,pyridoxamine 5'-phosphate oxidase,+,2296110,2296739
+MIDG2331_RS10980,MIDG2331_02239,,ABC transporter substrate-binding protein,-,2296811,2298448
+MIDG2331_RS10985,MIDG2331_02240,,aldehyde dehydrogenase family protein,-,2298639,2300120
+MIDG2331_RS10990,MIDG2331_02241,,acetate uptake transporter,-,2300326,2300895
+MIDG2331_RS10995,MIDG2331_02242,,ABC transporter ATP-binding protein,+,2301137,2301901
+MIDG2331_RS11000,MIDG2331_02243,,iron-siderophore ABC transporter substrate-binding protein,+,2301901,2302857
+MIDG2331_RS11005,MIDG2331_02244,fhuB,Fe(3+)-hydroxamate ABC transporter permease FhuB,+,2302851,2304803
+MIDG2331_RS11010,MIDG2331_02245,,TonB-dependent siderophore receptor,+,2304850,2306937
+MIDG2331_RS11015,MIDG2331_02246,,DUF2322 family protein,+,2307004,2307321
+MIDG2331_RS11020,MIDG2331_02247,,phosphoribosylaminoimidazolesuccinocarboxamide synthase,-,2307411,2308268
+MIDG2331_RS11025,MIDG2331_02249,hisG,ATP phosphoribosyltransferase,+,2308637,2309536
+MIDG2331_RS11030,MIDG2331_02250,hisD,histidinol dehydrogenase,+,2309652,2310938
+MIDG2331_RS11035,MIDG2331_02251,hisC,histidinol-phosphate transaminase,+,2311062,2312114
+MIDG2331_RS11040,MIDG2331_02252,,IS200/IS605 family transposase,+,2312207,2312518
+MIDG2331_RS11045,MIDG2331_02253,hisB,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,+,2312650,2313741
+MIDG2331_RS11050,MIDG2331_02254,,phosphoglycerate mutase family protein,+,2313859,2314416
+MIDG2331_RS11055,MIDG2331_02255,,PDDEXK nuclease domain-containing protein,+,2314501,2315505
+MIDG2331_RS11060,MIDG2331_02256,hisH,imidazole glycerol phosphate synthase subunit HisH,+,2315631,2316221
+MIDG2331_RS11065,MIDG2331_02257,hisA,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,+,2316342,2317094
+MIDG2331_RS11070,MIDG2331_02258,hisF,imidazole glycerol phosphate synthase subunit HisF,+,2317076,2317849
+MIDG2331_RS11075,MIDG2331_02259,,hypothetical protein,+,2317902,2318441
+MIDG2331_RS11080,MIDG2331_02260,hisIE,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,+,2318585,2319226
+MIDG2331_RS11085,MIDG2331_02261,,7-cyano-7-deazaguanine/7-aminomethyl-7- deazaguanine transporter,+,2319347,2320012
+MIDG2331_RS11090,MIDG2331_02262,map,type I methionyl aminopeptidase,+,2320119,2320925
+MIDG2331_RS11095,MIDG2331_02263,,thioredoxin family protein,-,2320994,2321488
+MIDG2331_RS11100,MIDG2331_02264,,LacI family DNA-binding transcriptional regulator,-,2321521,2322540
+MIDG2331_RS11105,MIDG2331_02265,,glycoside hydrolase family 32 protein,-,2322611,2324047
+MIDG2331_RS11110,MIDG2331_02266,,aminoimidazole riboside kinase,-,2324101,2325024
+MIDG2331_RS11115,MIDG2331_02267,nirK,copper-containing nitrite reductase,+,2325168,2326247
+MIDG2331_RS11120,MIDG2331_02268,lolE,lipoprotein-releasing ABC transporter permease subunit LolE,-,2326316,2327566
+MIDG2331_RS11125,MIDG2331_02269,lolD,lipoprotein-releasing ABC transporter ATP-binding protein LolD,-,2327566,2328246
+MIDG2331_RS11130,MIDG2331_02270,,lipoprotein-releasing ABC transporter permease subunit,-,2328445,2329617
+MIDG2331_RS11135,MIDG2331_02271,,2-hydroxyacid dehydrogenase,-,2329742,2330692
+MIDG2331_RS11140,MIDG2331_02272,kdsA,3-deoxy-8-phosphooctulonate synthase,-,2330749,2331603
+MIDG2331_RS11145,MIDG2331_02273,,SirB1 family protein,-,2331654,2332520
+MIDG2331_RS11150,MIDG2331_02274,prmC,peptide chain release factor N(5)-glutamine methyltransferase,-,2332521,2333393
+MIDG2331_RS11155,MIDG2331_02275,,hypothetical protein,-,2333395,2333922
+MIDG2331_RS11160,MIDG2331_02276,prfA,peptide chain release factor 1,-,2333985,2335067
+MIDG2331_RS11165,MIDG2331_02277,,rhodanese-like domain-containing protein,-,2335219,2336589
+MIDG2331_RS11170,MIDG2331_02278,,YeeE/YedE family protein,-,2336598,2337590
+MIDG2331_RS11185,,,IS3-like element ISApl3 family transposase,-,230549,231882
+MIDG2331_RS11200,MIDG2331_00310,,CydX/CbdX family cytochrome bd oxidase small subunit,+,337111,337209
+MIDG2331_RS11205,MIDG2331_00370,,DUF1232 domain-containing protein,-,401949,402110
+MIDG2331_RS11235,,,IS3-like element ISApl3 family transposase,-,662648,663981
+MIDG2331_RS11240,MIDG2331_00635,,nicotinate phosphoribosyltransferase,-,699696,700328
+MIDG2331_RS11250,MIDG2331_00892,,YoaH family protein,+,972425,972589
+MIDG2331_RS11260,,,IS3 family transposase,+,1026737,1028070
+MIDG2331_RS11275,,,GNAT family N-acetyltransferase,-,1067055,1068941
+MIDG2331_RS11295,,,IS3 family transposase,+,1204377,1205710
+MIDG2331_RS11300,MIDG2331_01144,,cupin domain-containing protein,-,1255341,1255769
+MIDG2331_RS11330,MIDG2331_01547,,methionine/alanine import family NSS transporter small subunit,+,1627630,1627722
+MIDG2331_RS11335,,,IS3-like element ISApl3 family transposase,-,1693975,1695308
+MIDG2331_RS11340,,,IS3 family transposase,+,1759226,1760625
+MIDG2331_RS11345,MIDG2331_01697,lptM,LPS translocon maturation chaperone LptM,-,1784766,1784879
+MIDG2331_RS11355,,,NAD(P)H-binding protein,-,1845905,1846177
+MIDG2331_RS11360,MIDG2331_01761,lptM,LPS translocon maturation chaperone LptM,-,1846610,1846723
+MIDG2331_RS11370,,,ParA family protein,+,2025334,2026169
+MIDG2331_RS11400,,,IS3-like element ISApl3 family transposase,-,2196190,2197523
+MIDG2331_RS11405,MIDG2331_02176,,ricin-type beta-trefoil lectin domain protein,+,2242704,2243192
+MIDG2331_RS11495,,,hypothetical protein,-,73464,73613
+MIDG2331_RS11505,MIDG2331_01422,,hypothetical protein,-,1523509,1523667
+MIDG2331_RS11510,MIDG2331_01513,,hypothetical protein,-,1597783,1597920
+MIDG2331_RS11515,MIDG2331_01641,,hypothetical protein,+,1734478,1734615
+MIDG2331_RS11525,,,amino acid ABC transporter ATP-binding protein,+,1970142,1970870
+MIDG2331_RS11530,,,cysteine ABC transporter substrate-binding protein,+,1970934,1971770
+MIDG2331_RS11535,MIDG2331_01917,,hypothetical protein,+,2001558,2001731
+MIDG2331_RS11540,,,helix-turn-helix domain-containing protein,-,2014205,2014345
+MIDG2331_RS11545,MIDG2331_01928,,hypothetical protein,-,2017509,2017670
+MIDG2331_RS11550,,,hypothetical protein,+,2028281,2028547
+MIDG2331_RS11555,,,hypothetical protein,+,2034549,2034713
+MIDG2331_RS11560,MIDG2331_02119,,hypothetical protein,-,2188125,2188298
+MIDG2331_RS11570,MIDG2331_02181,,porin family protein,+,2246258,2246890
+MIDG2331_RS11580,MIDG2331_02183,,TonB-dependent receptor domain-containing protein,+,2247346,2248242
+MIDG2331_RS11595,MIDG2331_00252,,TonB-dependent receptor plug domain-containing protein,+,267800,268444
+MIDG2331_RS11600,MIDG2331_00253,,hypothetical protein,+,268508,269365
+MIDG2331_RS11605,MIDG2331_00254,,TonB-dependent receptor domain-containing protein,+,269458,270588
+MIDG2331_RS11610,,,thiazole synthase,+,569497,570262
+MIDG2331_RS11615,,,two-partner secretion domain-containing protein,-,1073735,1081649
+MIDG2331_RS11620,MIDG2331_01025,,helix-turn-helix domain-containing protein,+,1111979,1112158
+MIDG2331_RS11635,MIDG2331_01158,,hypothetical protein,-,1270118,1270474
+MIDG2331_RS11640,MIDG2331_01159,,glycosyltransferase family 25 protein,-,1270478,1270780
+MIDG2331_RS11650,,,Fic family protein,-,1764509,1764799
+MIDG2331_RS11655,MIDG2331_01669,,Fic family protein,-,1764806,1765258
+MIDG2331_RS11665,MIDG2331_01947,,cupin domain-containing protein,+,2028519,2029706
+MIDG2331_RS11670,MIDG2331_02180,,hypothetical protein,+,2245946,2246125
+MIDG2331_RS11675,,,TonB-dependent receptor plug domain-containing protein,+,2246125,2246301
+MIDG2331_RS11680,MIDG2331_00324,,hypothetical protein,+,349054,349176
+MIDG2331_RS11685,,,DUF5368 family protein,-,556166,556315
+MIDG2331_RS11695,MIDG2331_00740,,hypothetical protein,-,804072,804206
+MIDG2331_RS11700,MIDG2331_01034,,calcium-binding protein,-,1124268,1128977
+MIDG2331_RS11705,MIDG2331_01145,,hypothetical protein,-,1256026,1256154
+MIDG2331_RS11710,MIDG2331_01870,,Abi family protein,+,1953655,1954146
+MIDG2331_RS11715,MIDG2331_01871,,Abi family protein,+,1954215,1954673
+MIDG2331_RS11730,MIDG2331_02182,,TonB-dependent receptor domain-containing protein,+,2246984,2247358
+MIDG2331_RS11735,,,ABC transporter ATP-binding protein,+,567256,567986
+MIDG2331_RS11745,,,M20/M25/M40 family metallo-hydrolase,-,2231631,2232759
+MIDG2331_RS11750,,,hypothetical protein,-,693441,693656
+MIDG2331_RS11755,,,IS3 family transposase,-,1033486,1033596
+MIDG2331_RS11760,,,Slam-dependent surface lipoprotein,-,1310647,1311225
+MIDG2331_RS11765,,,pentapeptide repeat-containing protein,-,1311237,1311710
+MIDG2331_RS11770,,,SEC-C metal-binding domain-containing protein,-,1359875,1359922
+MIDG2331_RS11775,MIDG2331_01463,,LysR family transcriptional regulator,+,1554421,1554546
+MIDG2331_RS11780,,,hypothetical protein,-,1645082,1645297
+MIDG2331_RS11785,,,hypothetical protein,-,1704535,1704750
+MIDG2331_RS11790,,,hypothetical protein,+,1740875,1741090
+MIDG2331_RS11795,MIDG2331_02095,,hypothetical protein,-,2161093,2161359
+MIDG2331_RS11800,,,hypothetical protein,-,2161472,2161597
+MIDG2331_RS11805,,,hypothetical protein,-,693729,693791
+MIDG2331_RS11810,,,hypothetical protein,-,1645370,1645432
+MIDG2331_RS11815,,,hypothetical protein,-,1704823,1704885
+MIDG2331_RS11820,,,hypothetical protein,+,1740740,1740802
+MIDG2331_RS11825,,,hypothetical protein,-,1836931,1837005
+MIDG2331_RS11830,MIDG2331_01898,,hypothetical protein,+,1986337,1986600

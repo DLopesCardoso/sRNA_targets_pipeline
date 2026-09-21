@@ -1,0 +1,13 @@
+metric,value
+ShinyGO_rows_imported,184
+selected_terms_requested,9
+selected_terms_found,9
+selected_terms_missing,0
+duplicate_selected_terms,0
+invalid_ShinyGO_rows,0
+minimum_selected_FDR,1.83727375195328e-16
+maximum_selected_FDR,0.032237029163664
+minimum_selected_fold_enrichment,6.2875
+maximum_selected_fold_enrichment,20.9583333333333
+minimum_selected_gene_count,3
+maximum_selected_gene_count,30

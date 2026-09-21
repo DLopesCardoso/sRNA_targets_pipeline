@@ -1,0 +1,97 @@
+candidate_id,reference_locus,gene,annotation,CopraRNA,TargetRNA2,IntaRNA,n_methods,prediction_group
+1,MIDG2331_RS10200,ilvC,ketol-acid reductoisomerase,TRUE,TRUE,TRUE,3,All three methods
+2,MIDG2331_RS00515,ilvG,acetolactate synthase 2 catalytic subunit,TRUE,TRUE,TRUE,3,All three methods
+7,MIDG2331_RS00110,ftsA,cell division protein FtsA,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+12,MIDG2331_RS04600,hlpA,MetQ/NlpA family lipoprotein,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+13,MIDG2331_RS06145,hxpB,hexitol phosphatase HxpB,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+17,MIDG2331_RS03400,metB,methionine biosynthesis PLP-dependent protein,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+18,MIDG2331_RS01660,metC,cystathionine beta-lyase,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+19,MIDG2331_RS02505,rplY,50S ribosomal protein L25,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+20,MIDG2331_RS00670,rsgA,small ribosomal subunit biogenesis GTPase RsgA,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+24,MIDG2331_RS05925,trpE,anthranilate synthase component 1,TRUE,FALSE,TRUE,2,CopraRNA + IntaRNA
+11,MIDG2331_RS11030,hisD,histidinol dehydrogenase,TRUE,TRUE,FALSE,2,CopraRNA + TargetRNA2
+27,MIDG2331_RS01240,argD2,aspartate aminotransferase family protein,TRUE,FALSE,FALSE,1,CopraRNA only
+29,MIDG2331_RS03735,aroC,chorismate synthase,TRUE,FALSE,FALSE,1,CopraRNA only
+31,MIDG2331_RS00945,aroF,3-deoxy-7-phosphoheptulonate synthase,TRUE,FALSE,FALSE,1,CopraRNA only
+33,MIDG2331_RS07335,artI,transporter substrate-binding domain-containing protein,TRUE,FALSE,FALSE,1,CopraRNA only
+39,MIDG2331_RS08210,cysE,serine O-acetyltransferase,TRUE,FALSE,FALSE,1,CopraRNA only
+40,MIDG2331_RS10235,dapD,2 3 4 5-tetrahydropyridine-2 6-dicarboxylate N-succinyltransferase,TRUE,FALSE,FALSE,1,CopraRNA only
+52,MIDG2331_RS00675,gcvA,transcriptional regulator GcvA,TRUE,FALSE,FALSE,1,CopraRNA only
+56,MIDG2331_RS11065,hisA,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,TRUE,FALSE,FALSE,1,CopraRNA only
+62,MIDG2331_RS04690,iscU,Fe-S cluster assembly scaffold IscU,TRUE,FALSE,FALSE,1,CopraRNA only
+63,MIDG2331_RS02235,leuB,3-isopropylmalate dehydrogenase,TRUE,FALSE,FALSE,1,CopraRNA only
+65,MIDG2331_RS08720,lipA,lipoyl synthase,TRUE,FALSE,FALSE,1,CopraRNA only
+68,MIDG2331_RS08750,mrdA,penicillin-binding protein 2,TRUE,FALSE,FALSE,1,CopraRNA only
+75,MIDG2331_RS07270,pepN,aminopeptidase N,TRUE,FALSE,FALSE,1,CopraRNA only
+80,MIDG2331_RS06780,ptsB,sucrose-specific PTS transporter subunit IIBC,TRUE,FALSE,FALSE,1,CopraRNA only
+82,MIDG2331_RS10965,rimI,ribosomal protein S18-alanine N-acetyltransferase,TRUE,FALSE,FALSE,1,CopraRNA only
+84,MIDG2331_RS02890,rpsI,30S ribosomal protein S9,TRUE,FALSE,FALSE,1,CopraRNA only
+89,MIDG2331_RS06420,sprT,SprT family zinc-dependent metalloprotease,TRUE,FALSE,FALSE,1,CopraRNA only
+90,MIDG2331_RS03840,sstT,serine/threonine transporter SstT,TRUE,FALSE,FALSE,1,CopraRNA only
+91,MIDG2331_RS02335,sucC,ADP-forming succinate--CoA ligase subunit beta,TRUE,FALSE,FALSE,1,CopraRNA only
+95,MIDG2331_RS08490,wecC,UDP-N-acetyl-D-mannosamine dehydrogenase,TRUE,FALSE,FALSE,1,CopraRNA only
+25,MIDG2331_RS06845,apxIIIA,RTX family hemolysin,FALSE,FALSE,TRUE,1,IntaRNA only
+26,MIDG2331_RS03810,arfA,alternative ribosome-rescue factor A,FALSE,FALSE,TRUE,1,IntaRNA only
+28,MIDG2331_RS06010,argH,argininosuccinate lyase,FALSE,FALSE,TRUE,1,IntaRNA only
+34,MIDG2331_RS04730,bioD,dethiobiotin synthase,FALSE,FALSE,TRUE,1,IntaRNA only
+35,MIDG2331_RS08855,cbiO,energy-coupling factor ABC transporter ATP-binding protein,FALSE,FALSE,TRUE,1,IntaRNA only
+36,MIDG2331_RS08255,ccmI,c-type cytochrome biogenesis protein CcmI,FALSE,FALSE,TRUE,1,IntaRNA only
+37,MIDG2331_RS01105,csy1,type I-F CRISPR-associated protein Csy1,FALSE,FALSE,TRUE,1,IntaRNA only
+38,MIDG2331_RS00685,cysB,HTH-type transcriptional regulator CysB,FALSE,FALSE,TRUE,1,IntaRNA only
+43,MIDG2331_RS10465,dnaK,molecular chaperone DnaK,FALSE,FALSE,TRUE,1,IntaRNA only
+44,MIDG2331_RS00360,dppF,ABC transporter ATP-binding protein,FALSE,FALSE,TRUE,1,IntaRNA only
+46,MIDG2331_RS08325,epmA,elongation factor P--(R)-beta-lysine ligase,FALSE,FALSE,TRUE,1,IntaRNA only
+49,MIDG2331_RS02905,fieF,cation diffusion facilitator family transporter,FALSE,FALSE,TRUE,1,IntaRNA only
+51,MIDG2331_RS02245,gap,type I glyceraldehyde-3-phosphate dehydrogenase,FALSE,FALSE,TRUE,1,IntaRNA only
+53,MIDG2331_RS08910,glmS,glutamine--fructose-6-phosphate transaminase (isomerizing),FALSE,FALSE,TRUE,1,IntaRNA only
+54,MIDG2331_RS01960,glpB,glycerol-3-phosphate dehydrogenase subunit GlpB,FALSE,FALSE,TRUE,1,IntaRNA only
+55,MIDG2331_RS07790,glpC_2,D-2-hydroxyglutarate dehydrogenase YdiJ,FALSE,FALSE,TRUE,1,IntaRNA only
+59,MIDG2331_RS04665,hscA,Fe-S protein assembly chaperone HscA,FALSE,FALSE,TRUE,1,IntaRNA only
+60,MIDG2331_RS01485,hsdM2,type I restriction-modification system subunit M,FALSE,FALSE,TRUE,1,IntaRNA only
+64,MIDG2331_RS00715,leuC,3-isopropylmalate dehydratase large subunit,FALSE,FALSE,TRUE,1,IntaRNA only
+67,MIDG2331_RS08685,modF,molybdate ABC transporter ATP-binding protein ModF,FALSE,FALSE,TRUE,1,IntaRNA only
+69,MIDG2331_RS02785,mukB,chromosome partition protein MukB,FALSE,FALSE,TRUE,1,IntaRNA only
+70,MIDG2331_RS01225,mutT,8-oxo-dGTP diphosphatase MutT,FALSE,FALSE,TRUE,1,IntaRNA only
+71,MIDG2331_RS09635,nanA,N-acetylneuraminate lyase,FALSE,FALSE,TRUE,1,IntaRNA only
+72,MIDG2331_RS05710,nifS,aminotransferase class V-fold PLP-dependent enzyme,FALSE,FALSE,TRUE,1,IntaRNA only
+73,MIDG2331_RS03230,ompP2B,porin,FALSE,FALSE,TRUE,1,IntaRNA only
+74,MIDG2331_RS10510,panF,sodium/pantothenate symporter,FALSE,FALSE,TRUE,1,IntaRNA only
+76,MIDG2331_RS03300,pepP,Xaa-Pro aminopeptidase,FALSE,FALSE,TRUE,1,IntaRNA only
+78,MIDG2331_RS00615,proQ,RNA chaperone ProQ,FALSE,FALSE,TRUE,1,IntaRNA only
+79,MIDG2331_RS06360,pstB,phosphate ABC transporter ATP-binding protein PstB,FALSE,FALSE,TRUE,1,IntaRNA only
+81,MIDG2331_RS00390,recR,recombination mediator RecR,FALSE,FALSE,TRUE,1,IntaRNA only
+83,MIDG2331_RS09755,rpmD,50S ribosomal protein L30,FALSE,FALSE,TRUE,1,IntaRNA only
+96,MIDG2331_RS02300,ykgF,LutB/LldF family L-lactate oxidation iron-sulfur protein,FALSE,FALSE,TRUE,1,IntaRNA only
+3,MIDG2331_RS05485,arcD1,basic amino acid/polyamine antiporter,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+4,MIDG2331_RS03295,aspC,amino acid aminotransferase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+5,MIDG2331_RS04545,dapA,4-hydroxy-tetrahydrodipicolinate synthase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+6,MIDG2331_RS10295,dapE,succinyl-diaminopimelate desuccinylase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+8,MIDG2331_RS02975,ftsK,DNA translocase FtsK,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+9,MIDG2331_RS09100,gntR,gluconate operon transcriptional repressor GntR,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+10,MIDG2331_RS11045,hisB,bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+14,MIDG2331_RS00505,ilvD,dihydroxy-acid dehydratase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+15,MIDG2331_RS03630,ilvI,acetolactate synthase 3 large subunit,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+16,MIDG2331_RS02970,lrp,leucine-responsive transcriptional regulator Lrp,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+21,MIDG2331_RS06220,serB,phosphoserine phosphatase SerB,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+22,MIDG2331_RS08140,thrC,threonine synthase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+23,MIDG2331_RS05935,trpD,anthranilate phosphoribosyltransferase,FALSE,TRUE,TRUE,2,TargetRNA2 + IntaRNA
+30,MIDG2331_RS05800,aroE,shikimate dehydrogenase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+32,MIDG2331_RS05515,arsB,ACR3 family arsenite efflux transporter,FALSE,TRUE,FALSE,1,TargetRNA2 only
+41,MIDG2331_RS00895,dksA,RNA polymerase-binding protein DksA,FALSE,TRUE,FALSE,1,TargetRNA2 only
+42,MIDG2331_RS09150,dmsD,Tat proofreading chaperone DmsD,FALSE,TRUE,FALSE,1,TargetRNA2 only
+45,MIDG2331_RS01055,dxs,1-deoxy-D-xylulose-5-phosphate synthase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+47,MIDG2331_RS08585,exbD1,ExbD/TolR family protein,FALSE,TRUE,FALSE,1,TargetRNA2 only
+48,MIDG2331_RS10890,fabG,3-oxoacyl-ACP reductase FabG,FALSE,TRUE,FALSE,1,TargetRNA2 only
+50,MIDG2331_RS09295,fkpA2,FKBP-type peptidyl-prolyl cis-trans isomerase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+57,MIDG2331_RS03495,hisC,histidinol-phosphate transaminase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+58,MIDG2331_RS11025,hisG,ATP phosphoribosyltransferase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+61,MIDG2331_RS00380,ilvE,branched-chain amino acid aminotransferase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+66,MIDG2331_RS07400,mltF,membrane-bound lytic murein transglycosylase MltF,FALSE,TRUE,FALSE,1,TargetRNA2 only
+77,MIDG2331_RS10685,proA,glutamate-5-semialdehyde dehydrogenase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+85,MIDG2331_RS09355,secE,preprotein translocase subunit SecE,FALSE,TRUE,FALSE,1,TargetRNA2 only
+86,MIDG2331_RS08050,serA,phosphoglycerate dehydrogenase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+87,MIDG2331_RS03505,serC,3-phosphoserine/phosphohydroxythreonine transaminase,FALSE,TRUE,FALSE,1,TargetRNA2 only
+88,MIDG2331_RS09475,sfsA,DNA/RNA nuclease SfsA,FALSE,TRUE,FALSE,1,TargetRNA2 only
+92,MIDG2331_RS07320,tehB,SAM-dependent methyltransferase TehB,FALSE,TRUE,FALSE,1,TargetRNA2 only
+93,MIDG2331_RS05685,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,FALSE,TRUE,FALSE,1,TargetRNA2 only
+94,MIDG2331_RS08845,ureA,urease subunit gamma,FALSE,TRUE,FALSE,1,TargetRNA2 only

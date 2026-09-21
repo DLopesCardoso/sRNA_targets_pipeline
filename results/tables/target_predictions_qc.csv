@@ -1,0 +1,9 @@
+dataset,method,n_unique_loci
+all,CopraRNA,34
+all,IntaRNA,84
+all,TargetRNA2,45
+annotated,CopraRNA,31
+annotated,IntaRNA,55
+annotated,TargetRNA2,36
+all,Combined,132
+annotated,Combined,96

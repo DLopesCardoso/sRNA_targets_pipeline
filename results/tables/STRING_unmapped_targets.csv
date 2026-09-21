@@ -1,0 +1,18 @@
+candidate_id,reference_locus,gene,annotation,CopraRNA,TargetRNA2,IntaRNA,n_methods,prediction_support,n_methods_recalculated,support_group,display_name,annotation_lower,functional_category
+3,MIDG2331_RS05485,arcD1,basic amino acid/polyamine antiporter,FALSE,TRUE,TRUE,2,2,2,Predicted by 2 tools,arcD1,basic amino acid/polyamine antiporter,Amino-acid transport and metabolism
+12,MIDG2331_RS04600,hlpA,MetQ/NlpA family lipoprotein,TRUE,FALSE,TRUE,2,2,2,Predicted by 2 tools,hlpA,metq/nlpa family lipoprotein,Other
+13,MIDG2331_RS06145,hxpB,hexitol phosphatase HxpB,TRUE,FALSE,TRUE,2,2,2,Predicted by 2 tools,hxpB,hexitol phosphatase hxpb,Other
+25,MIDG2331_RS06845,apxIIIA,RTX family hemolysin,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,apxIIIA,rtx family hemolysin,Other
+26,MIDG2331_RS03810,arfA,alternative ribosome-rescue factor A,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,arfA,alternative ribosome-rescue factor a,Translation
+27,MIDG2331_RS01240,argD2,aspartate aminotransferase family protein,TRUE,FALSE,FALSE,1,1,1,Predicted by 1 tool,argD2,aspartate aminotransferase family protein,Amino-acid transport and metabolism
+32,MIDG2331_RS05515,arsB,ACR3 family arsenite efflux transporter,FALSE,TRUE,FALSE,1,1,1,Predicted by 1 tool,arsB,acr3 family arsenite efflux transporter,Other
+36,MIDG2331_RS08255,ccmI,c-type cytochrome biogenesis protein CcmI,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,ccmI,c-type cytochrome biogenesis protein ccmi,Other
+37,MIDG2331_RS01105,csy1,type I-F CRISPR-associated protein Csy1,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,csy1,type i-f crispr-associated protein csy1,Other
+47,MIDG2331_RS08585,exbD1,ExbD/TolR family protein,FALSE,TRUE,FALSE,1,1,1,Predicted by 1 tool,exbD1,exbd/tolr family protein,Other
+50,MIDG2331_RS09295,fkpA2,FKBP-type peptidyl-prolyl cis-trans isomerase,FALSE,TRUE,FALSE,1,1,1,Predicted by 1 tool,fkpA2,fkbp-type peptidyl-prolyl cis-trans isomerase,Other
+51,MIDG2331_RS02245,gap,type I glyceraldehyde-3-phosphate dehydrogenase,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,gap,type i glyceraldehyde-3-phosphate dehydrogenase,Other
+55,MIDG2331_RS07790,glpC_2,D-2-hydroxyglutarate dehydrogenase YdiJ,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,glpC_2,d-2-hydroxyglutarate dehydrogenase ydij,Other
+60,MIDG2331_RS01485,hsdM2,type I restriction-modification system subunit M,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,hsdM2,type i restriction-modification system subunit m,Other
+62,MIDG2331_RS04690,iscU,Fe-S cluster assembly scaffold IscU,TRUE,FALSE,FALSE,1,1,1,Predicted by 1 tool,iscU,fe-s cluster assembly scaffold iscu,Other
+72,MIDG2331_RS05710,nifS,aminotransferase class V-fold PLP-dependent enzyme,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,nifS,aminotransferase class v-fold plp-dependent enzyme,Amino-acid transport and metabolism
+73,MIDG2331_RS03230,ompP2B,porin,FALSE,FALSE,TRUE,1,1,1,Predicted by 1 tool,ompP2B,porin,Other

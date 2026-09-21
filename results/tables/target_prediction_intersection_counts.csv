@@ -1,0 +1,8 @@
+prediction_group,number_of_targets
+IntaRNA only,32
+CopraRNA only,20
+TargetRNA2 only,20
+TargetRNA2 + IntaRNA,13
+CopraRNA + IntaRNA,8
+All three methods,2
+CopraRNA + TargetRNA2,1

@@ -1,0 +1,14 @@
+metric,value
+motif,AAACACAACAT
+motif_length,11
+maximum_mismatches_tested,1
+expected_window_length,301
+candidate_windows,96
+background_windows,2070
+candidate_exact_motif,6
+background_exact_motif,0
+candidate_one_mismatch,3
+background_one_mismatch,15
+candidate_exact_or_one_mismatch,9
+background_exact_or_one_mismatch,15
+total_occurrences_retained,24
