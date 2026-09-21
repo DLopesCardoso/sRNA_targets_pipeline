@@ -75,6 +75,10 @@ The workflow uses relative file paths. Set the working directory to the reposito
 
 Required R packages are loaded or installed within individual scripts where applicable.
 
+## AI-assisted code development
+
+Portions of the R code in this repository were developed and debugged with assistance from OpenAI ChatGPT. All scripts were subsequently reviewed, tested and validated by the authors. The authors are responsible for the analyses, outputs and interpretation of the results.
+
 ## RNA-seq data
 
 Raw RNA-seq sequencing data are deposited separately in a public sequence repository. Processed transcript context information required for this workflow is included here.
